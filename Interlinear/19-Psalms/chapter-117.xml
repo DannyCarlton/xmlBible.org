@@ -2,9 +2,9 @@
 <?xml-stylesheet href="../../Styles/Interlinear/Main.css"?>
 <book name="Psalms" id="19" testament="old">
 	<script xmlns="http://www.w3.org/1999/xhtml" src="../../Styles/Interlinear/Main.js"></script>
-	<chapter num="117">
-		<verse num="1">
-			<word num="1">
+	<chapter num="117" id="c117">
+		<verse num="1" id="v1">
+			<word num="1" id="v1-w1">
 				<strongs>1984</strongs>
 				<pos>V‑Piel‑Imp‑mp</pos>
 				<parse>Verb - Piel - Imperative - masculine plural</parse>
@@ -12,7 +12,7 @@
 				<hebrew>הַֽלְל֣וּ</hebrew>
 				<english>Praise</english>
 			</word>
-			<word num="2">
+			<word num="2" id="v1-w2">
 				<strongs>853</strongs>
 				<pos>DirObjM</pos>
 				<parse>Direct object marker</parse>
@@ -20,7 +20,7 @@
 				<hebrew>אֶת־</hebrew>
 				<english> - </english>
 			</word>
-			<word num="3">
+			<word num="3" id="v1-w3">
 				<strongs>3068</strongs>
 				<pos>N‑proper‑ms</pos>
 				<parse>Noun - proper - masculine singular</parse>
@@ -28,7 +28,7 @@
 				<hebrew>יְ֭הוָה</hebrew>
 				<english>Yahweh</english>
 			</word>
-			<word num="4">
+			<word num="4" id="v1-w4">
 				<strongs>3605</strongs>
 				<pos>N‑msc</pos>
 				<parse>Noun - masculine singular construct</parse>
@@ -36,7 +36,7 @@
 				<hebrew>כָּל־</hebrew>
 				<english>all</english>
 			</word>
-			<word num="5">
+			<word num="5" id="v1-w5">
 				<strongs>1471</strongs>
 				<pos>N‑mp</pos>
 				<parse>Noun - masculine plural</parse>
@@ -44,7 +44,7 @@
 				<hebrew>גּוֹיִ֑ם</hebrew>
 				<english>you Gentiles</english>
 			</word>
-			<word num="6">
+			<word num="6" id="v1-w6">
 				<strongs>7623</strongs>
 				<pos>V‑Piel‑Imp‑mp | 3ms</pos>
 				<parse>Verb - Piel - Imperative - masculine plural :: third person masculine singular</parse>
@@ -52,7 +52,7 @@
 				<hebrew>שַׁ֝בְּח֗וּהוּ</hebrew>
 				<english>Laud Him</english>
 			</word>
-			<word num="7">
+			<word num="7" id="v1-w7">
 				<strongs>3605</strongs>
 				<pos>N‑msc</pos>
 				<parse>Noun - masculine singular construct</parse>
@@ -60,7 +60,7 @@
 				<hebrew>כָּל־</hebrew>
 				<english>all</english>
 			</word>
-			<word num="8">
+			<word num="8" id="v1-w8">
 				<strongs>523</strongs>
 				<pos>Art | N‑fp</pos>
 				<parse>Article :: Noun - feminine plural</parse>
@@ -69,8 +69,8 @@
 				<english>you tribes</english>
 			</word>
 		</verse>
-		<verse num="2">
-			<word num="1">
+		<verse num="2" id="v2">
+			<word num="1" id="v2-w1">
 				<strongs>3588</strongs>
 				<pos>Conj</pos>
 				<parse>Conjunction</parse>
@@ -78,7 +78,7 @@
 				<hebrew>כִּ֥י</hebrew>
 				<english>For</english>
 			</word>
-			<word num="2">
+			<word num="2" id="v2-w2">
 				<strongs>1396</strongs>
 				<pos>V‑Qal‑Perf‑3ms</pos>
 				<parse>Verb - Qal - Perfect - third person masculine singular</parse>
@@ -86,7 +86,7 @@
 				<hebrew>גָ֘בַ֤ר</hebrew>
 				<english>is great</english>
 			</word>
-			<word num="3">
+			<word num="3" id="v2-w3">
 				<strongs>5921</strongs>
 				<pos>Prep | 1cp</pos>
 				<parse>Preposition :: first person common plural</parse>
@@ -94,7 +94,7 @@
 				<hebrew>עָלֵ֨ינוּ ׀</hebrew>
 				<english>toward us</english>
 			</word>
-			<word num="4">
+			<word num="4" id="v2-w4">
 				<strongs>2617</strongs>
 				<pos>N‑msc | 3ms</pos>
 				<parse>Noun - masculine singular construct :: third person masculine singular</parse>
@@ -102,7 +102,7 @@
 				<hebrew>חַסְדּ֗וֹ</hebrew>
 				<english>His merciful kindness</english>
 			</word>
-			<word num="5">
+			<word num="5" id="v2-w5">
 				<strongs>571</strongs>
 				<pos>Conj‑w | N‑fsc</pos>
 				<parse>Conjunctive waw :: Noun - feminine singular construct</parse>
@@ -110,7 +110,7 @@
 				<hebrew>וֶֽאֱמֶת־</hebrew>
 				<english>and the truth [endures]</english>
 			</word>
-			<word num="6">
+			<word num="6" id="v2-w6">
 				<strongs>3068</strongs>
 				<pos>N‑proper‑ms</pos>
 				<parse>Noun - proper - masculine singular</parse>
@@ -118,7 +118,7 @@
 				<hebrew>יְהוָ֥ה</hebrew>
 				<english>of Yahweh</english>
 			</word>
-			<word num="7">
+			<word num="7" id="v2-w7">
 				<strongs>5769</strongs>
 				<pos>Prep‑l | N‑ms</pos>
 				<parse>Preposition-l :: Noun - masculine singular</parse>
@@ -126,7 +126,7 @@
 				<hebrew>לְעוֹלָ֗ם</hebrew>
 				<english>forever</english>
 			</word>
-			<word num="8">
+			<word num="8" id="v2-w8">
 				<strongs>1984</strongs>
 				<pos>V‑Piel‑Imp‑mp</pos>
 				<parse>Verb - Piel - Imperative - masculine plural</parse>
@@ -134,7 +134,7 @@
 				<hebrew>הַֽלְלוּ־</hebrew>
 				<english>Praise</english>
 			</word>
-			<word num="9">
+			<word num="9" id="v2-w9">
 				<strongs>3050</strongs>
 				<pos>N‑proper‑ms</pos>
 				<parse>Noun - proper - masculine singular</parse>

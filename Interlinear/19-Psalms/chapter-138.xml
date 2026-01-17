@@ -2,9 +2,9 @@
 <?xml-stylesheet href="../../Styles/Interlinear/Main.css"?>
 <book name="Psalms" id="19" testament="old">
 	<script xmlns="http://www.w3.org/1999/xhtml" src="../../Styles/Interlinear/Main.js"></script>
-	<chapter num="138">
-		<verse num="1">
-			<word num="1">
+	<chapter num="138" id="c138">
+		<verse num="1" id="v1">
+			<word num="1" id="v1-w1">
 				<strongs>1732</strongs>
 				<pos>Prep‑l | N‑proper‑ms</pos>
 				<parse>Preposition-l :: Noun - proper - masculine singular</parse>
@@ -12,7 +12,7 @@
 				<hebrew>לְדָוִ֨ד ׀</hebrew>
 				<english>A Psalm of David</english>
 			</word>
-			<word num="2">
+			<word num="2" id="v1-w2">
 				<strongs>3034</strongs>
 				<pos>V‑Hifil‑Imperf.h‑1cs | 2ms</pos>
 				<parse>Verb - Hifil - Imperfect Cohortative if contextual - first person common singular :: second person masculine singular</parse>
@@ -20,7 +20,7 @@
 				<hebrew>אוֹדְךָ֥</hebrew>
 				<english>I will praise You</english>
 			</word>
-			<word num="3">
+			<word num="3" id="v1-w3">
 				<strongs>3605</strongs>
 				<pos>Prep‑b | N‑msc</pos>
 				<parse>Preposition-b :: Noun - masculine singular construct</parse>
@@ -28,7 +28,7 @@
 				<hebrew>בְכָל־</hebrew>
 				<english>with whole</english>
 			</word>
-			<word num="4">
+			<word num="4" id="v1-w4">
 				<strongs>3820</strongs>
 				<pos>N‑msc | 1cs</pos>
 				<parse>Noun - masculine singular construct :: first person common singular</parse>
@@ -36,7 +36,7 @@
 				<hebrew>לִבִּ֑י</hebrew>
 				<english>my heart</english>
 			</word>
-			<word num="5">
+			<word num="5" id="v1-w5">
 				<strongs>5048</strongs>
 				<pos>Prep</pos>
 				<parse>Preposition</parse>
@@ -44,7 +44,7 @@
 				<hebrew>נֶ֖גֶד</hebrew>
 				<english>Before</english>
 			</word>
-			<word num="6">
+			<word num="6" id="v1-w6">
 				<strongs>430</strongs>
 				<pos>N‑mp</pos>
 				<parse>Noun - masculine plural</parse>
@@ -52,7 +52,7 @@
 				<hebrew>אֱלֹהִ֣ים</hebrew>
 				<english>the gods</english>
 			</word>
-			<word num="7">
+			<word num="7" id="v1-w7">
 				<strongs>2167</strongs>
 				<pos>V‑Piel‑Imperf.h‑1cs | 2mse</pos>
 				<parse>Verb - Piel - Imperfect Cohortative if contextual - first person common singular :: second person masculine singular</parse>
@@ -61,8 +61,8 @@
 				<english>I will sing praises to You</english>
 			</word>
 		</verse>
-		<verse num="2">
-			<word num="1">
+		<verse num="2" id="v2">
+			<word num="1" id="v2-w1">
 				<strongs>7812</strongs>
 				<pos>V‑Hitpael‑Imperf.h‑1cs</pos>
 				<parse>Verb - Hitpael - Imperfect Cohortative if contextual - first person common singular</parse>
@@ -70,7 +70,7 @@
 				<hebrew>אֶשְׁתַּחֲוֶ֨ה</hebrew>
 				<english>I will worship</english>
 			</word>
-			<word num="2">
+			<word num="2" id="v2-w2">
 				<strongs>413</strongs>
 				<pos>Prep</pos>
 				<parse>Preposition</parse>
@@ -78,7 +78,7 @@
 				<hebrew>אֶל־</hebrew>
 				<english>toward</english>
 			</word>
-			<word num="3">
+			<word num="3" id="v2-w3">
 				<strongs>1964</strongs>
 				<pos>N‑msc</pos>
 				<parse>Noun - masculine singular construct</parse>
@@ -86,7 +86,7 @@
 				<hebrew>הֵיכַ֪ל</hebrew>
 				<english>temple</english>
 			</word>
-			<word num="4">
+			<word num="4" id="v2-w4">
 				<strongs>6944</strongs>
 				<pos>N‑msc | 2ms</pos>
 				<parse>Noun - masculine singular construct :: second person masculine singular</parse>
@@ -94,7 +94,7 @@
 				<hebrew>קָדְשְׁךָ֡</hebrew>
 				<english>Your holy</english>
 			</word>
-			<word num="5">
+			<word num="5" id="v2-w5">
 				<strongs>3034</strongs>
 				<pos>Conj‑w | V‑Hifil‑ConjImperf.h‑1cs</pos>
 				<parse>Conjunctive waw :: Verb - Hifil - Conjunctive imperfect Cohortative if contextual - first person common singular</parse>
@@ -102,7 +102,7 @@
 				<hebrew>וְא֘וֹדֶ֤ה</hebrew>
 				<english>and praise</english>
 			</word>
-			<word num="6">
+			<word num="6" id="v2-w6">
 				<strongs>853</strongs>
 				<pos>DirObjM</pos>
 				<parse>Direct object marker</parse>
@@ -110,7 +110,7 @@
 				<hebrew>אֶת־</hebrew>
 				<english> - </english>
 			</word>
-			<word num="7">
+			<word num="7" id="v2-w7">
 				<strongs>8034</strongs>
 				<pos>N‑msc | 2ms</pos>
 				<parse>Noun - masculine singular construct :: second person masculine singular</parse>
@@ -118,7 +118,7 @@
 				<hebrew>שְׁמֶ֗ךָ</hebrew>
 				<english>Your name</english>
 			</word>
-			<word num="8">
+			<word num="8" id="v2-w8">
 				<strongs>5921</strongs>
 				<pos>Prep</pos>
 				<parse>Preposition</parse>
@@ -126,7 +126,7 @@
 				<hebrew>עַל־</hebrew>
 				<english>for</english>
 			</word>
-			<word num="9">
+			<word num="9" id="v2-w9">
 				<strongs>2617</strongs>
 				<pos>N‑msc | 2ms</pos>
 				<parse>Noun - masculine singular construct :: second person masculine singular</parse>
@@ -134,7 +134,7 @@
 				<hebrew>חַסְדְּךָ֥</hebrew>
 				<english>Your lovingkindness</english>
 			</word>
-			<word num="10">
+			<word num="10" id="v2-w10">
 				<strongs>5921</strongs>
 				<pos>Conj‑w | Prep</pos>
 				<parse>Conjunctive waw :: Preposition</parse>
@@ -142,7 +142,7 @@
 				<hebrew>וְעַל־</hebrew>
 				<english>and</english>
 			</word>
-			<word num="11">
+			<word num="11" id="v2-w11">
 				<strongs>571</strongs>
 				<pos>N‑fsc | 2ms</pos>
 				<parse>Noun - feminine singular construct :: second person masculine singular</parse>
@@ -150,7 +150,7 @@
 				<hebrew>אֲמִתֶּ֑ךָ</hebrew>
 				<english>Your truth</english>
 			</word>
-			<word num="12">
+			<word num="12" id="v2-w12">
 				<strongs>3588</strongs>
 				<pos>Conj</pos>
 				<parse>Conjunction</parse>
@@ -158,7 +158,7 @@
 				<hebrew>כִּֽי־</hebrew>
 				<english>for</english>
 			</word>
-			<word num="13">
+			<word num="13" id="v2-w13">
 				<strongs>1431</strongs>
 				<pos>V‑Hifil‑Perf‑2ms</pos>
 				<parse>Verb - Hifil - Perfect - second person masculine singular</parse>
@@ -166,7 +166,7 @@
 				<hebrew>הִגְדַּ֥לְתָּ</hebrew>
 				<english>You have magnified</english>
 			</word>
-			<word num="14">
+			<word num="14" id="v2-w14">
 				<strongs>5921</strongs>
 				<pos>Prep</pos>
 				<parse>Preposition</parse>
@@ -174,7 +174,7 @@
 				<hebrew>עַל־</hebrew>
 				<english>above</english>
 			</word>
-			<word num="15">
+			<word num="15" id="v2-w15">
 				<strongs>3605</strongs>
 				<pos>N‑msc</pos>
 				<parse>Noun - masculine singular construct</parse>
@@ -182,7 +182,7 @@
 				<hebrew>כָּל־</hebrew>
 				<english>all</english>
 			</word>
-			<word num="16">
+			<word num="16" id="v2-w16">
 				<strongs>8034</strongs>
 				<pos>N‑msc | 2ms</pos>
 				<parse>Noun - masculine singular construct :: second person masculine singular</parse>
@@ -190,7 +190,7 @@
 				<hebrew>שִׁ֝מְךָ֗</hebrew>
 				<english>Your name</english>
 			</word>
-			<word num="17">
+			<word num="17" id="v2-w17">
 				<strongs>565</strongs>
 				<pos>N‑fsc | 2ms</pos>
 				<parse>Noun - feminine singular construct :: second person masculine singular</parse>
@@ -199,8 +199,8 @@
 				<english>Your word</english>
 			</word>
 		</verse>
-		<verse num="3">
-			<word num="1">
+		<verse num="3" id="v3">
+			<word num="1" id="v3-w1">
 				<strongs>3117</strongs>
 				<pos>Prep‑b | N‑ms</pos>
 				<parse>Preposition-b :: Noun - masculine singular</parse>
@@ -208,7 +208,7 @@
 				<hebrew>בְּי֣וֹם</hebrew>
 				<english>In the day</english>
 			</word>
-			<word num="2">
+			<word num="2" id="v3-w2">
 				<strongs>7121</strongs>
 				<pos>V‑Qal‑Perf‑1cs</pos>
 				<parse>Verb - Qal - Perfect - first person common singular</parse>
@@ -216,7 +216,7 @@
 				<hebrew>קָ֭רָֽאתִי</hebrew>
 				<english>when I cried out</english>
 			</word>
-			<word num="3">
+			<word num="3" id="v3-w3">
 				<strongs>6030</strongs>
 				<pos>Conj‑w | V‑Qal‑ConsecImperf‑2ms | 1cs</pos>
 				<parse>Conjunctive waw :: Verb - Qal - Consecutive imperfect - second person masculine singular :: first person common singular</parse>
@@ -224,7 +224,7 @@
 				<hebrew>וַֽתַּעֲנֵ֑נִי</hebrew>
 				<english>and You answered me</english>
 			</word>
-			<word num="4">
+			<word num="4" id="v3-w4">
 				<strongs>7292</strongs>
 				<pos>V‑Hifil‑Imperf‑2ms | 1cs</pos>
 				<parse>Verb - Hifil - Imperfect - second person masculine singular :: first person common singular</parse>
@@ -232,7 +232,7 @@
 				<hebrew>תַּרְהִבֵ֖נִי</hebrew>
 				<english>[And] made me bold</english>
 			</word>
-			<word num="5">
+			<word num="5" id="v3-w5">
 				<strongs>5315</strongs>
 				<pos>Prep‑b | N‑fsc | 1cs</pos>
 				<parse>Preposition-b :: Noun - feminine singular construct :: first person common singular</parse>
@@ -240,7 +240,7 @@
 				<hebrew>בְנַפְשִׁ֣י</hebrew>
 				<english>in my soul</english>
 			</word>
-			<word num="6">
+			<word num="6" id="v3-w6">
 				<strongs>5797</strongs>
 				<pos>N‑ms</pos>
 				<parse>Noun - masculine singular</parse>
@@ -249,8 +249,8 @@
 				<english>[with] strength</english>
 			</word>
 		</verse>
-		<verse num="4">
-			<word num="1">
+		<verse num="4" id="v4">
+			<word num="1" id="v4-w1">
 				<strongs>3034</strongs>
 				<pos>V‑Hifil‑Imperf‑3mp | 2ms</pos>
 				<parse>Verb - Hifil - Imperfect - third person masculine plural :: second person masculine singular</parse>
@@ -258,7 +258,7 @@
 				<hebrew>יוֹד֣וּךָ</hebrew>
 				<english>Shall praise You</english>
 			</word>
-			<word num="2">
+			<word num="2" id="v4-w2">
 				<strongs>3068</strongs>
 				<pos>N‑proper‑ms</pos>
 				<parse>Noun - proper - masculine singular</parse>
@@ -266,7 +266,7 @@
 				<hebrew>יְ֭הוָה</hebrew>
 				<english>Yahweh</english>
 			</word>
-			<word num="3">
+			<word num="3" id="v4-w3">
 				<strongs>3605</strongs>
 				<pos>N‑msc</pos>
 				<parse>Noun - masculine singular construct</parse>
@@ -274,7 +274,7 @@
 				<hebrew>כָּל־</hebrew>
 				<english>all</english>
 			</word>
-			<word num="4">
+			<word num="4" id="v4-w4">
 				<strongs>4428</strongs>
 				<pos>N‑mpc</pos>
 				<parse>Noun - masculine plural construct</parse>
@@ -282,7 +282,7 @@
 				<hebrew>מַלְכֵי־</hebrew>
 				<english>the kings</english>
 			</word>
-			<word num="5">
+			<word num="5" id="v4-w5">
 				<strongs>776</strongs>
 				<pos>N‑fs</pos>
 				<parse>Noun - feminine singular</parse>
@@ -290,7 +290,7 @@
 				<hebrew>אָ֑רֶץ</hebrew>
 				<english>of the earth</english>
 			</word>
-			<word num="6">
+			<word num="6" id="v4-w6">
 				<strongs>3588</strongs>
 				<pos>Conj</pos>
 				<parse>Conjunction</parse>
@@ -298,7 +298,7 @@
 				<hebrew>כִּ֥י</hebrew>
 				<english>when</english>
 			</word>
-			<word num="7">
+			<word num="7" id="v4-w7">
 				<strongs>8085</strongs>
 				<pos>V‑Qal‑Perf‑3cp</pos>
 				<parse>Verb - Qal - Perfect - third person common plural</parse>
@@ -306,7 +306,7 @@
 				<hebrew>שָׁ֝מְע֗וּ</hebrew>
 				<english>they hear</english>
 			</word>
-			<word num="8">
+			<word num="8" id="v4-w8">
 				<strongs>561</strongs>
 				<pos>N‑mpc</pos>
 				<parse>Noun - masculine plural construct</parse>
@@ -314,7 +314,7 @@
 				<hebrew>אִמְרֵי־</hebrew>
 				<english>the words</english>
 			</word>
-			<word num="9">
+			<word num="9" id="v4-w9">
 				<strongs>6310</strongs>
 				<pos>N‑msc | 2ms</pos>
 				<parse>Noun - masculine singular construct :: second person masculine singular</parse>
@@ -323,8 +323,8 @@
 				<english>of Your mouth</english>
 			</word>
 		</verse>
-		<verse num="5">
-			<word num="1">
+		<verse num="5" id="v5">
+			<word num="1" id="v5-w1">
 				<strongs>7891</strongs>
 				<pos>Conj‑w | V‑Qal‑ConjImperf‑3mp</pos>
 				<parse>Conjunctive waw :: Verb - Qal - Conjunctive imperfect - third person masculine plural</parse>
@@ -332,7 +332,7 @@
 				<hebrew>וְ֭יָשִׁירוּ</hebrew>
 				<english>And Yes they shall sing</english>
 			</word>
-			<word num="2">
+			<word num="2" id="v5-w2">
 				<strongs>1870</strongs>
 				<pos>Prep‑b | N‑cpc</pos>
 				<parse>Preposition-b :: Noun - common plural construct</parse>
@@ -340,7 +340,7 @@
 				<hebrew>בְּדַרְכֵ֣י</hebrew>
 				<english>of the ways</english>
 			</word>
-			<word num="3">
+			<word num="3" id="v5-w3">
 				<strongs>3068</strongs>
 				<pos>N‑proper‑ms</pos>
 				<parse>Noun - proper - masculine singular</parse>
@@ -348,7 +348,7 @@
 				<hebrew>יְהוָ֑ה</hebrew>
 				<english>of Yahweh</english>
 			</word>
-			<word num="4">
+			<word num="4" id="v5-w4">
 				<strongs>3588</strongs>
 				<pos>Conj</pos>
 				<parse>Conjunction</parse>
@@ -356,7 +356,7 @@
 				<hebrew>כִּ֥י</hebrew>
 				<english>for</english>
 			</word>
-			<word num="5">
+			<word num="5" id="v5-w5">
 				<strongs>1419</strongs>
 				<pos>Adj‑ms</pos>
 				<parse>Adjective - masculine singular</parse>
@@ -364,7 +364,7 @@
 				<hebrew>גָ֝ד֗וֹל</hebrew>
 				<english>great [is]</english>
 			</word>
-			<word num="6">
+			<word num="6" id="v5-w6">
 				<strongs>3519</strongs>
 				<pos>N‑msc</pos>
 				<parse>Noun - masculine singular construct</parse>
@@ -372,7 +372,7 @@
 				<hebrew>כְּב֣וֹד</hebrew>
 				<english>the glory</english>
 			</word>
-			<word num="7">
+			<word num="7" id="v5-w7">
 				<strongs>3068</strongs>
 				<pos>N‑proper‑ms</pos>
 				<parse>Noun - proper - masculine singular</parse>
@@ -381,8 +381,8 @@
 				<english>of Yahweh</english>
 			</word>
 		</verse>
-		<verse num="6">
-			<word num="1">
+		<verse num="6" id="v6">
+			<word num="1" id="v6-w1">
 				<strongs>3588</strongs>
 				<pos>Conj</pos>
 				<parse>Conjunction</parse>
@@ -390,7 +390,7 @@
 				<hebrew>כִּי־</hebrew>
 				<english>Though</english>
 			</word>
-			<word num="2">
+			<word num="2" id="v6-w2">
 				<strongs>7311</strongs>
 				<pos>V‑Qal‑Prtcpl‑ms</pos>
 				<parse>Verb - Qal - Participle - masculine singular</parse>
@@ -398,7 +398,7 @@
 				<hebrew>רָ֣ם</hebrew>
 				<english>on high</english>
 			</word>
-			<word num="3">
+			<word num="3" id="v6-w3">
 				<strongs>3068</strongs>
 				<pos>N‑proper‑ms</pos>
 				<parse>Noun - proper - masculine singular</parse>
@@ -406,7 +406,7 @@
 				<hebrew>יְ֭הוָה</hebrew>
 				<english>Yahweh [is]</english>
 			</word>
-			<word num="4">
+			<word num="4" id="v6-w4">
 				<strongs>8217</strongs>
 				<pos>Conj‑w | Adj‑ms</pos>
 				<parse>Conjunctive waw :: Adjective - masculine singular</parse>
@@ -414,7 +414,7 @@
 				<hebrew>וְשָׁפָ֣ל</hebrew>
 				<english>and yet the lowly</english>
 			</word>
-			<word num="5">
+			<word num="5" id="v6-w5">
 				<strongs>7200</strongs>
 				<pos>V‑Qal‑Imperf‑3ms</pos>
 				<parse>Verb - Qal - Imperfect - third person masculine singular</parse>
@@ -422,7 +422,7 @@
 				<hebrew>יִרְאֶ֑ה</hebrew>
 				<english>He regards</english>
 			</word>
-			<word num="6">
+			<word num="6" id="v6-w6">
 				<strongs>1364</strongs>
 				<pos>Conj‑w | Adj‑ms</pos>
 				<parse>Conjunctive waw :: Adjective - masculine singular</parse>
@@ -430,7 +430,7 @@
 				<hebrew>וְ֝גָבֹ֗הַּ</hebrew>
 				<english>but the high [one]</english>
 			</word>
-			<word num="7">
+			<word num="7" id="v6-w7">
 				<strongs>4801</strongs>
 				<pos>Prep‑m | N‑ms</pos>
 				<parse>Preposition-m :: Noun - masculine singular</parse>
@@ -438,7 +438,7 @@
 				<hebrew>מִמֶּרְחָ֥ק</hebrew>
 				<english>from afar</english>
 			</word>
-			<word num="8">
+			<word num="8" id="v6-w8">
 				<strongs>3045</strongs>
 				<pos>V‑Qal‑Imperf‑3ms</pos>
 				<parse>Verb - Qal - Imperfect - third person masculine singular</parse>
@@ -447,8 +447,8 @@
 				<english>He knows</english>
 			</word>
 		</verse>
-		<verse num="7">
-			<word num="1">
+		<verse num="7" id="v7">
+			<word num="1" id="v7-w1">
 				<strongs>518</strongs>
 				<pos>Conj</pos>
 				<parse>Conjunction</parse>
@@ -456,7 +456,7 @@
 				<hebrew>אִם־</hebrew>
 				<english>Though</english>
 			</word>
-			<word num="2">
+			<word num="2" id="v7-w2">
 				<strongs>1980</strongs>
 				<pos>V‑Qal‑Imperf‑1cs</pos>
 				<parse>Verb - Qal - Imperfect - first person common singular</parse>
@@ -464,7 +464,7 @@
 				<hebrew>אֵלֵ֤ךְ ׀</hebrew>
 				<english>I walk</english>
 			</word>
-			<word num="3">
+			<word num="3" id="v7-w3">
 				<strongs>7130</strongs>
 				<pos>Prep‑b | N‑msc</pos>
 				<parse>Preposition-b :: Noun - masculine singular construct</parse>
@@ -472,7 +472,7 @@
 				<hebrew>בְּקֶ֥רֶב</hebrew>
 				<english>in the midst</english>
 			</word>
-			<word num="4">
+			<word num="4" id="v7-w4">
 				<strongs>6869</strongs>
 				<pos>N‑fs</pos>
 				<parse>Noun - feminine singular</parse>
@@ -480,7 +480,7 @@
 				<hebrew>צָרָ֗ה</hebrew>
 				<english>of trouble</english>
 			</word>
-			<word num="5">
+			<word num="5" id="v7-w5">
 				<strongs>2421</strongs>
 				<pos>V‑Piel‑Imperf‑2ms | 1cs</pos>
 				<parse>Verb - Piel - Imperfect - second person masculine singular :: first person common singular</parse>
@@ -488,7 +488,7 @@
 				<hebrew>תְּחַ֫יֵּ֥נִי</hebrew>
 				<english>You will revive me</english>
 			</word>
-			<word num="6">
+			<word num="6" id="v7-w6">
 				<strongs>5921</strongs>
 				<pos>Prep</pos>
 				<parse>Preposition</parse>
@@ -496,7 +496,7 @@
 				<hebrew>עַ֤ל</hebrew>
 				<english>Against</english>
 			</word>
-			<word num="7">
+			<word num="7" id="v7-w7">
 				<strongs>639</strongs>
 				<pos>N‑msc</pos>
 				<parse>Noun - masculine singular construct</parse>
@@ -504,7 +504,7 @@
 				<hebrew>אַ֣ף</hebrew>
 				<english>the wrath</english>
 			</word>
-			<word num="8">
+			<word num="8" id="v7-w8">
 				<strongs>341</strongs>
 				<pos>V‑Qal‑Prtcpl‑mpc | 1cs</pos>
 				<parse>Verb - Qal - Participle - masculine plural construct :: first person common singular</parse>
@@ -512,7 +512,7 @@
 				<hebrew>אֹ֭יְבַי</hebrew>
 				<english>of my enemies</english>
 			</word>
-			<word num="9">
+			<word num="9" id="v7-w9">
 				<strongs>7971</strongs>
 				<pos>V‑Qal‑Imperf‑2ms</pos>
 				<parse>Verb - Qal - Imperfect - second person masculine singular</parse>
@@ -520,7 +520,7 @@
 				<hebrew>תִּשְׁלַ֣ח</hebrew>
 				<english>You will stretch out</english>
 			</word>
-			<word num="10">
+			<word num="10" id="v7-w10">
 				<strongs>3027</strongs>
 				<pos>N‑fsc | 2ms</pos>
 				<parse>Noun - feminine singular construct :: second person masculine singular</parse>
@@ -528,7 +528,7 @@
 				<hebrew>יָדֶ֑ךָ</hebrew>
 				<english>Your hand</english>
 			</word>
-			<word num="11">
+			<word num="11" id="v7-w11">
 				<strongs>3467</strongs>
 				<pos>Conj‑w | V‑Hifil‑ConjImperf‑2ms | 1cs</pos>
 				<parse>Conjunctive waw :: Verb - Hifil - Conjunctive imperfect - second person masculine singular :: first person common singular</parse>
@@ -536,7 +536,7 @@
 				<hebrew>וְת֖וֹשִׁיעֵ֣נִי</hebrew>
 				<english>and will save me</english>
 			</word>
-			<word num="12">
+			<word num="12" id="v7-w12">
 				<strongs>3225</strongs>
 				<pos>N‑fsc | 2ms</pos>
 				<parse>Noun - feminine singular construct :: second person masculine singular</parse>
@@ -545,8 +545,8 @@
 				<english>Your right hand</english>
 			</word>
 		</verse>
-		<verse num="8">
-			<word num="1">
+		<verse num="8" id="v8">
+			<word num="1" id="v8-w1">
 				<strongs>3068</strongs>
 				<pos>N‑proper‑ms</pos>
 				<parse>Noun - proper - masculine singular</parse>
@@ -554,7 +554,7 @@
 				<hebrew>יְהוָה֮</hebrew>
 				<english>Yahweh</english>
 			</word>
-			<word num="2">
+			<word num="2" id="v8-w2">
 				<strongs>1584</strongs>
 				<pos>V‑Qal‑Imperf‑3ms</pos>
 				<parse>Verb - Qal - Imperfect - third person masculine singular</parse>
@@ -562,7 +562,7 @@
 				<hebrew>יִגְמֹ֪ר</hebrew>
 				<english>will perfect</english>
 			</word>
-			<word num="3">
+			<word num="3" id="v8-w3">
 				<strongs>1157</strongs>
 				<pos>Prep | 1cs</pos>
 				<parse>Preposition :: first person common singular</parse>
@@ -570,7 +570,7 @@
 				<hebrew>בַּ֫עֲדִ֥י</hebrew>
 				<english>[that which] concerns me</english>
 			</word>
-			<word num="4">
+			<word num="4" id="v8-w4">
 				<strongs>3068</strongs>
 				<pos>N‑proper‑ms</pos>
 				<parse>Noun - proper - masculine singular</parse>
@@ -578,7 +578,7 @@
 				<hebrew>יְ֭הוָה</hebrew>
 				<english>Yahweh</english>
 			</word>
-			<word num="5">
+			<word num="5" id="v8-w5">
 				<strongs>2617</strongs>
 				<pos>N‑msc | 2ms</pos>
 				<parse>Noun - masculine singular construct :: second person masculine singular</parse>
@@ -586,7 +586,7 @@
 				<hebrew>חַסְדְּךָ֣</hebrew>
 				<english>Your mercy [endures]</english>
 			</word>
-			<word num="6">
+			<word num="6" id="v8-w6">
 				<strongs>5769</strongs>
 				<pos>Prep‑l | N‑ms</pos>
 				<parse>Preposition-l :: Noun - masculine singular</parse>
@@ -594,7 +594,7 @@
 				<hebrew>לְעוֹלָ֑ם</hebrew>
 				<english>forever</english>
 			</word>
-			<word num="7">
+			<word num="7" id="v8-w7">
 				<strongs>4639</strongs>
 				<pos>N‑mpc</pos>
 				<parse>Noun - masculine plural construct</parse>
@@ -602,7 +602,7 @@
 				<hebrew>מַעֲשֵׂ֖י</hebrew>
 				<english>the works</english>
 			</word>
-			<word num="8">
+			<word num="8" id="v8-w8">
 				<strongs>3027</strongs>
 				<pos>N‑fdc | 2ms</pos>
 				<parse>Noun - fdc :: second person masculine singular</parse>
@@ -610,7 +610,7 @@
 				<hebrew>יָדֶ֣יךָ</hebrew>
 				<english>of Your hands</english>
 			</word>
-			<word num="9">
+			<word num="9" id="v8-w9">
 				<strongs>408</strongs>
 				<pos>Adv</pos>
 				<parse>Adverb</parse>
@@ -618,7 +618,7 @@
 				<hebrew>אַל־</hebrew>
 				<english>not</english>
 			</word>
-			<word num="10">
+			<word num="10" id="v8-w10">
 				<strongs>7503</strongs>
 				<pos>V‑Hifil‑Imperf.Jus‑2ms</pos>
 				<parse>Verb - Hifil - Imperfect Jussive - second person masculine singular</parse>

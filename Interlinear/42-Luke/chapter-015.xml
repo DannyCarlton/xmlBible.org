@@ -2,9 +2,9 @@
 <?xml-stylesheet href="../../Styles/Interlinear/Main.css"?>
 <book name="Luke" id="42" testament="new">
 	<script xmlns="http://www.w3.org/1999/xhtml" src="../../Styles/Interlinear/Main.js"></script>
-	<chapter num="15">
-		<verse num="1">
-			<word num="1">
+	<chapter num="15" id="c15">
+		<verse num="1" id="v1">
+			<word num="1" id="v1-w1">
 				<strongs>1510</strongs>
 				<pos>V-IIA-3P</pos>
 				<parse>Verb - Imperfect Indicative Active - 3rd Person Plural</parse>
@@ -12,7 +12,7 @@
 				<greek>Ἦσαν</greek>
 				<english>Were</english>
 			</word>
-			<word num="2">
+			<word num="2" id="v1-w2">
 				<strongs>1161</strongs>
 				<pos>Conj</pos>
 				<parse>Conjunction</parse>
@@ -20,7 +20,7 @@
 				<greek>δὲ</greek>
 				<english>now</english>
 			</word>
-			<word num="3">
+			<word num="3" id="v1-w3">
 				<strongs>846</strongs>
 				<pos>PPro-DM3S</pos>
 				<parse>Personal / Possessive Pronoun - Dative Masculine 3rd Person Singular</parse>
@@ -28,7 +28,7 @@
 				<greek>αὐτῷ</greek>
 				<english>to Him</english>
 			</word>
-			<word num="4">
+			<word num="4" id="v1-w4">
 				<strongs>1448</strongs>
 				<pos>V-PPA-NMP</pos>
 				<parse>Verb - Present Participle Active - Nominative Masculine Plural</parse>
@@ -36,7 +36,7 @@
 				<greek>ἐγγίζοντες</greek>
 				<english>drawing near</english>
 			</word>
-			<word num="5">
+			<word num="5" id="v1-w5">
 				<strongs>3956</strongs>
 				<pos>Adj-NMP</pos>
 				<parse>Adjective - Nominative Masculine Plural</parse>
@@ -44,7 +44,7 @@
 				<greek>πάντες</greek>
 				<english>all</english>
 			</word>
-			<word num="6">
+			<word num="6" id="v1-w6">
 				<strongs>3588</strongs>
 				<pos>Art-NMP</pos>
 				<parse>Article - Nominative Masculine Plural</parse>
@@ -52,7 +52,7 @@
 				<greek>οἱ</greek>
 				<english>the</english>
 			</word>
-			<word num="7">
+			<word num="7" id="v1-w7">
 				<strongs>5057</strongs>
 				<pos>N-NMP</pos>
 				<parse>Noun - Nominative Masculine Plural</parse>
@@ -60,7 +60,7 @@
 				<greek>τελῶναι</greek>
 				<english>tax collectors</english>
 			</word>
-			<word num="8">
+			<word num="8" id="v1-w8">
 				<strongs>2532</strongs>
 				<pos>Conj</pos>
 				<parse>Conjunction</parse>
@@ -68,7 +68,7 @@
 				<greek>καὶ</greek>
 				<english>and</english>
 			</word>
-			<word num="9">
+			<word num="9" id="v1-w9">
 				<strongs>3588</strongs>
 				<pos>Art-NMP</pos>
 				<parse>Article - Nominative Masculine Plural</parse>
@@ -76,7 +76,7 @@
 				<greek>οἱ</greek>
 				<english>the</english>
 			</word>
-			<word num="10">
+			<word num="10" id="v1-w10">
 				<strongs>268</strongs>
 				<pos>Adj-NMP</pos>
 				<parse>Adjective - Nominative Masculine Plural</parse>
@@ -84,7 +84,7 @@
 				<greek>ἁμαρτωλοὶ</greek>
 				<english>sinners</english>
 			</word>
-			<word num="11">
+			<word num="11" id="v1-w11">
 				<strongs>191</strongs>
 				<pos>V-PNA</pos>
 				<parse>Verb - Present Infinitive Active</parse>
@@ -92,7 +92,7 @@
 				<greek>ἀκούειν</greek>
 				<english>to hear</english>
 			</word>
-			<word num="12">
+			<word num="12" id="v1-w12">
 				<strongs>846</strongs>
 				<pos>PPro-GM3S</pos>
 				<parse>Personal / Possessive Pronoun - Genitive Masculine 3rd Person Singular</parse>
@@ -101,8 +101,8 @@
 				<english>Him</english>
 			</word>
 		</verse>
-		<verse num="2">
-			<word num="1">
+		<verse num="2" id="v2">
+			<word num="1" id="v2-w1">
 				<strongs>2532</strongs>
 				<pos>Conj</pos>
 				<parse>Conjunction</parse>
@@ -110,7 +110,7 @@
 				<greek>καὶ</greek>
 				<english>And</english>
 			</word>
-			<word num="2">
+			<word num="2" id="v2-w2">
 				<strongs>1234</strongs>
 				<pos>V-IIA-3P</pos>
 				<parse>Verb - Imperfect Indicative Active - 3rd Person Plural</parse>
@@ -118,7 +118,7 @@
 				<greek>διεγόγγυζον</greek>
 				<english>were grumbling</english>
 			</word>
-			<word num="3">
+			<word num="3" id="v2-w3">
 				<strongs>3588</strongs>
 				<pos>Art-NMP</pos>
 				<parse>Article - Nominative Masculine Plural</parse>
@@ -126,7 +126,7 @@
 				<greek>οἵ</greek>
 				<english>the</english>
 			</word>
-			<word num="4">
+			<word num="4" id="v2-w4">
 				<strongs>5037</strongs>
 				<pos>Conj</pos>
 				<parse>Conjunction</parse>
@@ -134,7 +134,7 @@
 				<greek>τε</greek>
 				<english>both</english>
 			</word>
-			<word num="5">
+			<word num="5" id="v2-w5">
 				<strongs>5330</strongs>
 				<pos>N-NMP</pos>
 				<parse>Noun - Nominative Masculine Plural</parse>
@@ -142,7 +142,7 @@
 				<greek>Φαρισαῖοι</greek>
 				<english>Pharisees</english>
 			</word>
-			<word num="6">
+			<word num="6" id="v2-w6">
 				<strongs>2532</strongs>
 				<pos>Conj</pos>
 				<parse>Conjunction</parse>
@@ -150,7 +150,7 @@
 				<greek>καὶ</greek>
 				<english>and</english>
 			</word>
-			<word num="7">
+			<word num="7" id="v2-w7">
 				<strongs>3588</strongs>
 				<pos>Art-NMP</pos>
 				<parse>Article - Nominative Masculine Plural</parse>
@@ -158,7 +158,7 @@
 				<greek>οἱ</greek>
 				<english>the</english>
 			</word>
-			<word num="8">
+			<word num="8" id="v2-w8">
 				<strongs>1122</strongs>
 				<pos>N-NMP</pos>
 				<parse>Noun - Nominative Masculine Plural</parse>
@@ -166,7 +166,7 @@
 				<greek>γραμματεῖς</greek>
 				<english>scribes</english>
 			</word>
-			<word num="9">
+			<word num="9" id="v2-w9">
 				<strongs>3004</strongs>
 				<pos>V-PPA-NMP</pos>
 				<parse>Verb - Present Participle Active - Nominative Masculine Plural</parse>
@@ -174,7 +174,7 @@
 				<greek>λέγοντες</greek>
 				<english>saying</english>
 			</word>
-			<word num="10">
+			<word num="10" id="v2-w10">
 				<strongs>3754</strongs>
 				<pos>Conj</pos>
 				<parse>Conjunction</parse>
@@ -182,7 +182,7 @@
 				<greek>ὅτι</greek>
 				<english> - </english>
 			</word>
-			<word num="11">
+			<word num="11" id="v2-w11">
 				<strongs>3778</strongs>
 				<pos>DPro-NMS</pos>
 				<parse>Demonstrative Pronoun - Nominative Masculine Singular</parse>
@@ -190,7 +190,7 @@
 				<greek>Οὗτος</greek>
 				<english>This [man]</english>
 			</word>
-			<word num="12">
+			<word num="12" id="v2-w12">
 				<strongs>268</strongs>
 				<pos>Adj-AMP</pos>
 				<parse>Adjective - Accusative Masculine Plural</parse>
@@ -198,7 +198,7 @@
 				<greek>ἁμαρτωλοὺς</greek>
 				<english>sinners</english>
 			</word>
-			<word num="13">
+			<word num="13" id="v2-w13">
 				<strongs>4327</strongs>
 				<pos>V-PIM/P-3S</pos>
 				<parse>Verb - Present Indicative Middle or Passive - 3rd Person Singular</parse>
@@ -206,7 +206,7 @@
 				<greek>προσδέχεται</greek>
 				<english>receives</english>
 			</word>
-			<word num="14">
+			<word num="14" id="v2-w14">
 				<strongs>2532</strongs>
 				<pos>Conj</pos>
 				<parse>Conjunction</parse>
@@ -214,7 +214,7 @@
 				<greek>καὶ</greek>
 				<english>and</english>
 			</word>
-			<word num="15">
+			<word num="15" id="v2-w15">
 				<strongs>4906</strongs>
 				<pos>V-PIA-3S</pos>
 				<parse>Verb - Present Indicative Active - 3rd Person Singular</parse>
@@ -222,7 +222,7 @@
 				<greek>συνεσθίει</greek>
 				<english>eats with</english>
 			</word>
-			<word num="16">
+			<word num="16" id="v2-w16">
 				<strongs>846</strongs>
 				<pos>PPro-DM3P</pos>
 				<parse>Personal / Possessive Pronoun - Dative Masculine 3rd Person Plural</parse>
@@ -231,8 +231,8 @@
 				<english>them</english>
 			</word>
 		</verse>
-		<verse num="3">
-			<word num="1">
+		<verse num="3" id="v3">
+			<word num="1" id="v3-w1">
 				<strongs>2036</strongs>
 				<pos>V-AIA-3S</pos>
 				<parse>Verb - Aorist Indicative Active - 3rd Person Singular</parse>
@@ -240,7 +240,7 @@
 				<greek>Εἶπεν</greek>
 				<english>He spoke</english>
 			</word>
-			<word num="2">
+			<word num="2" id="v3-w2">
 				<strongs>1161</strongs>
 				<pos>Conj</pos>
 				<parse>Conjunction</parse>
@@ -248,7 +248,7 @@
 				<greek>δὲ</greek>
 				<english>then</english>
 			</word>
-			<word num="3">
+			<word num="3" id="v3-w3">
 				<strongs>4314</strongs>
 				<pos>Prep</pos>
 				<parse>Preposition</parse>
@@ -256,7 +256,7 @@
 				<greek>πρὸς</greek>
 				<english>to</english>
 			</word>
-			<word num="4">
+			<word num="4" id="v3-w4">
 				<strongs>846</strongs>
 				<pos>PPro-AM3P</pos>
 				<parse>Personal / Possessive Pronoun - Accusative Masculine 3rd Person Plural</parse>
@@ -264,7 +264,7 @@
 				<greek>αὐτοὺς</greek>
 				<english>them</english>
 			</word>
-			<word num="5">
+			<word num="5" id="v3-w5">
 				<strongs>3588</strongs>
 				<pos>Art-AFS</pos>
 				<parse>Article - Accusative Feminine Singular</parse>
@@ -272,7 +272,7 @@
 				<greek>τὴν</greek>
 				<english>the</english>
 			</word>
-			<word num="6">
+			<word num="6" id="v3-w6">
 				<strongs>3850</strongs>
 				<pos>N-AFS</pos>
 				<parse>Noun - Accusative Feminine Singular</parse>
@@ -280,7 +280,7 @@
 				<greek>παραβολὴν</greek>
 				<english>parable</english>
 			</word>
-			<word num="7">
+			<word num="7" id="v3-w7">
 				<strongs>3778</strongs>
 				<pos>DPro-AFS</pos>
 				<parse>Demonstrative Pronoun - Accusative Feminine Singular</parse>
@@ -288,7 +288,7 @@
 				<greek>ταύτην</greek>
 				<english>this</english>
 			</word>
-			<word num="8">
+			<word num="8" id="v3-w8">
 				<strongs>3004</strongs>
 				<pos>V-PPA-NMS</pos>
 				<parse>Verb - Present Participle Active - Nominative Masculine Singular</parse>
@@ -297,8 +297,8 @@
 				<english>saying</english>
 			</word>
 		</verse>
-		<verse num="4">
-			<word num="1">
+		<verse num="4" id="v4">
+			<word num="1" id="v4-w1">
 				<strongs>5101</strongs>
 				<pos>IPro-NMS</pos>
 				<parse>Interrogative / Indefinite Pronoun - Nominative Masculine Singular</parse>
@@ -306,7 +306,7 @@
 				<greek>Τίς</greek>
 				<english>What</english>
 			</word>
-			<word num="2">
+			<word num="2" id="v4-w2">
 				<strongs>444</strongs>
 				<pos>N-NMS</pos>
 				<parse>Noun - Nominative Masculine Singular</parse>
@@ -314,7 +314,7 @@
 				<greek>ἄνθρωπος</greek>
 				<english>man</english>
 			</word>
-			<word num="3">
+			<word num="3" id="v4-w3">
 				<strongs>1537</strongs>
 				<pos>Prep</pos>
 				<parse>Preposition</parse>
@@ -322,7 +322,7 @@
 				<greek>ἐξ</greek>
 				<english>of</english>
 			</word>
-			<word num="4">
+			<word num="4" id="v4-w4">
 				<strongs>4771</strongs>
 				<pos>PPro-G2P</pos>
 				<parse>Personal / Possessive Pronoun - Genitive 2nd Person Plural</parse>
@@ -330,7 +330,7 @@
 				<greek>ὑμῶν</greek>
 				<english>you</english>
 			</word>
-			<word num="5">
+			<word num="5" id="v4-w5">
 				<strongs>2192</strongs>
 				<pos>V-PPA-NMS</pos>
 				<parse>Verb - Present Participle Active - Nominative Masculine Singular</parse>
@@ -338,7 +338,7 @@
 				<greek>ἔχων</greek>
 				<english>having</english>
 			</word>
-			<word num="6">
+			<word num="6" id="v4-w6">
 				<strongs>1540</strongs>
 				<pos>Adj-ANP</pos>
 				<parse>Adjective - Accusative Neuter Plural</parse>
@@ -346,7 +346,7 @@
 				<greek>ἑκατὸν</greek>
 				<english>a hundred</english>
 			</word>
-			<word num="7">
+			<word num="7" id="v4-w7">
 				<strongs>4263</strongs>
 				<pos>N-ANP</pos>
 				<parse>Noun - Accusative Neuter Plural</parse>
@@ -354,7 +354,7 @@
 				<greek>πρόβατα</greek>
 				<english>sheep</english>
 			</word>
-			<word num="8">
+			<word num="8" id="v4-w8">
 				<strongs>2532</strongs>
 				<pos>Conj</pos>
 				<parse>Conjunction</parse>
@@ -362,7 +362,7 @@
 				<greek>καὶ</greek>
 				<english>and</english>
 			</word>
-			<word num="9">
+			<word num="9" id="v4-w9">
 				<strongs>622</strongs>
 				<pos>V-APA-NMS</pos>
 				<parse>Verb - Aorist Participle Active - Nominative Masculine Singular</parse>
@@ -370,7 +370,7 @@
 				<greek>ἀπολέσας</greek>
 				<english>having lost</english>
 			</word>
-			<word num="10">
+			<word num="10" id="v4-w10">
 				<strongs>1537</strongs>
 				<pos>Prep</pos>
 				<parse>Preposition</parse>
@@ -378,7 +378,7 @@
 				<greek>ἐξ</greek>
 				<english>of</english>
 			</word>
-			<word num="11">
+			<word num="11" id="v4-w11">
 				<strongs>846</strongs>
 				<pos>PPro-GN3P</pos>
 				<parse>Personal / Possessive Pronoun - Genitive Neuter 3rd Person Plural</parse>
@@ -386,7 +386,7 @@
 				<greek>αὐτῶν</greek>
 				<english>them</english>
 			</word>
-			<word num="12">
+			<word num="12" id="v4-w12">
 				<strongs>1520</strongs>
 				<pos>Adj-ANS</pos>
 				<parse>Adjective - Accusative Neuter Singular</parse>
@@ -394,7 +394,7 @@
 				<greek>ἓν</greek>
 				<english>one</english>
 			</word>
-			<word num="13">
+			<word num="13" id="v4-w13">
 				<strongs>3756</strongs>
 				<pos>Adv</pos>
 				<parse>Adverb</parse>
@@ -402,7 +402,7 @@
 				<greek>οὐ</greek>
 				<english>not</english>
 			</word>
-			<word num="14">
+			<word num="14" id="v4-w14">
 				<strongs>2641</strongs>
 				<pos>V-PIA-3S</pos>
 				<parse>Verb - Present Indicative Active - 3rd Person Singular</parse>
@@ -410,7 +410,7 @@
 				<greek>καταλείπει</greek>
 				<english>leaves</english>
 			</word>
-			<word num="15">
+			<word num="15" id="v4-w15">
 				<strongs>3588</strongs>
 				<pos>Art-ANP</pos>
 				<parse>Article - Accusative Neuter Plural</parse>
@@ -418,7 +418,7 @@
 				<greek>τὰ</greek>
 				<english>the</english>
 			</word>
-			<word num="16">
+			<word num="16" id="v4-w16">
 				<strongs>1768</strongs>
 				<pos>Adj-ANP</pos>
 				<parse>Adjective - Accusative Neuter Plural</parse>
@@ -426,7 +426,7 @@
 				<greek>ἐνενήκοντα</greek>
 				<english>ninety</english>
 			</word>
-			<word num="17">
+			<word num="17" id="v4-w17">
 				<strongs>1767</strongs>
 				<pos>Adj-ANP</pos>
 				<parse>Adjective - Accusative Neuter Plural</parse>
@@ -434,7 +434,7 @@
 				<greek>ἐννέα</greek>
 				<english>nine</english>
 			</word>
-			<word num="18">
+			<word num="18" id="v4-w18">
 				<strongs>1722</strongs>
 				<pos>Prep</pos>
 				<parse>Preposition</parse>
@@ -442,7 +442,7 @@
 				<greek>ἐν</greek>
 				<english>in</english>
 			</word>
-			<word num="19">
+			<word num="19" id="v4-w19">
 				<strongs>3588</strongs>
 				<pos>Art-DFS</pos>
 				<parse>Article - Dative Feminine Singular</parse>
@@ -450,7 +450,7 @@
 				<greek>τῇ</greek>
 				<english>the</english>
 			</word>
-			<word num="20">
+			<word num="20" id="v4-w20">
 				<strongs>2048</strongs>
 				<pos>Adj-DFS</pos>
 				<parse>Adjective - Dative Feminine Singular</parse>
@@ -458,7 +458,7 @@
 				<greek>ἐρήμῳ</greek>
 				<english>open field</english>
 			</word>
-			<word num="21">
+			<word num="21" id="v4-w21">
 				<strongs>2532</strongs>
 				<pos>Conj</pos>
 				<parse>Conjunction</parse>
@@ -466,7 +466,7 @@
 				<greek>καὶ</greek>
 				<english>and</english>
 			</word>
-			<word num="22">
+			<word num="22" id="v4-w22">
 				<strongs>4198</strongs>
 				<pos>V-PIM/P-3S</pos>
 				<parse>Verb - Present Indicative Middle or Passive - 3rd Person Singular</parse>
@@ -474,7 +474,7 @@
 				<greek>πορεύεται</greek>
 				<english>goes</english>
 			</word>
-			<word num="23">
+			<word num="23" id="v4-w23">
 				<strongs>1909</strongs>
 				<pos>Prep</pos>
 				<parse>Preposition</parse>
@@ -482,7 +482,7 @@
 				<greek>ἐπὶ</greek>
 				<english>after</english>
 			</word>
-			<word num="24">
+			<word num="24" id="v4-w24">
 				<strongs>3588</strongs>
 				<pos>Art-ANS</pos>
 				<parse>Article - Accusative Neuter Singular</parse>
@@ -490,7 +490,7 @@
 				<greek>τὸ</greek>
 				<english>the [one]</english>
 			</word>
-			<word num="25">
+			<word num="25" id="v4-w25">
 				<strongs>622</strongs>
 				<pos>V-RPA-ANS</pos>
 				<parse>Verb - Perfect Participle Active - Accusative Neuter Singular</parse>
@@ -498,7 +498,7 @@
 				<greek>ἀπολωλὸς</greek>
 				<english>having been lost</english>
 			</word>
-			<word num="26">
+			<word num="26" id="v4-w26">
 				<strongs>2193</strongs>
 				<pos>Conj</pos>
 				<parse>Conjunction</parse>
@@ -506,7 +506,7 @@
 				<greek>ἕως</greek>
 				<english>until</english>
 			</word>
-			<word num="27">
+			<word num="27" id="v4-w27">
 				<strongs>2147</strongs>
 				<pos>V-ASA-3S</pos>
 				<parse>Verb - Aorist Subjunctive Active - 3rd Person Singular</parse>
@@ -514,7 +514,7 @@
 				<greek>εὕρῃ</greek>
 				<english>he finds</english>
 			</word>
-			<word num="28">
+			<word num="28" id="v4-w28">
 				<strongs>846</strongs>
 				<pos>PPro-AN3S</pos>
 				<parse>Personal / Possessive Pronoun - Accusative Neuter 3rd Person Singular</parse>
@@ -523,8 +523,8 @@
 				<english>it</english>
 			</word>
 		</verse>
-		<verse num="5">
-			<word num="1">
+		<verse num="5" id="v5">
+			<word num="1" id="v5-w1">
 				<strongs>2532</strongs>
 				<pos>Conj</pos>
 				<parse>Conjunction</parse>
@@ -532,7 +532,7 @@
 				<greek>καὶ</greek>
 				<english>And</english>
 			</word>
-			<word num="2">
+			<word num="2" id="v5-w2">
 				<strongs>2147</strongs>
 				<pos>V-APA-NMS</pos>
 				<parse>Verb - Aorist Participle Active - Nominative Masculine Singular</parse>
@@ -540,7 +540,7 @@
 				<greek>εὑρὼν</greek>
 				<english>having found [it]</english>
 			</word>
-			<word num="3">
+			<word num="3" id="v5-w3">
 				<strongs>2007</strongs>
 				<pos>V-PIA-3S</pos>
 				<parse>Verb - Present Indicative Active - 3rd Person Singular</parse>
@@ -548,7 +548,7 @@
 				<greek>ἐπιτίθησιν</greek>
 				<english>he lays [it]</english>
 			</word>
-			<word num="4">
+			<word num="4" id="v5-w4">
 				<strongs>1909</strongs>
 				<pos>Prep</pos>
 				<parse>Preposition</parse>
@@ -556,7 +556,7 @@
 				<greek>ἐπὶ</greek>
 				<english>on</english>
 			</word>
-			<word num="5">
+			<word num="5" id="v5-w5">
 				<strongs>3588</strongs>
 				<pos>Art-AMP</pos>
 				<parse>Article - Accusative Masculine Plural</parse>
@@ -564,7 +564,7 @@
 				<greek>τοὺς</greek>
 				<english>the</english>
 			</word>
-			<word num="6">
+			<word num="6" id="v5-w6">
 				<strongs>5606</strongs>
 				<pos>N-AMP</pos>
 				<parse>Noun - Accusative Masculine Plural</parse>
@@ -572,7 +572,7 @@
 				<greek>ὤμους</greek>
 				<english>shoulders</english>
 			</word>
-			<word num="7">
+			<word num="7" id="v5-w7">
 				<strongs>846</strongs>
 				<pos>PPro-GM3S</pos>
 				<parse>Personal / Possessive Pronoun - Genitive Masculine 3rd Person Singular</parse>
@@ -580,7 +580,7 @@
 				<greek>αὐτοῦ</greek>
 				<english>of him</english>
 			</word>
-			<word num="8">
+			<word num="8" id="v5-w8">
 				<strongs>5463</strongs>
 				<pos>V-PPA-NMS</pos>
 				<parse>Verb - Present Participle Active - Nominative Masculine Singular</parse>
@@ -589,8 +589,8 @@
 				<english>rejoicing</english>
 			</word>
 		</verse>
-		<verse num="6">
-			<word num="1">
+		<verse num="6" id="v6">
+			<word num="1" id="v6-w1">
 				<strongs>2532</strongs>
 				<pos>Conj</pos>
 				<parse>Conjunction</parse>
@@ -598,7 +598,7 @@
 				<greek>καὶ</greek>
 				<english>And</english>
 			</word>
-			<word num="2">
+			<word num="2" id="v6-w2">
 				<strongs>2064</strongs>
 				<pos>V-APA-NMS</pos>
 				<parse>Verb - Aorist Participle Active - Nominative Masculine Singular</parse>
@@ -606,7 +606,7 @@
 				<greek>ἐλθὼν</greek>
 				<english>having come</english>
 			</word>
-			<word num="3">
+			<word num="3" id="v6-w3">
 				<strongs>1519</strongs>
 				<pos>Prep</pos>
 				<parse>Preposition</parse>
@@ -614,7 +614,7 @@
 				<greek>εἰς</greek>
 				<english>to</english>
 			</word>
-			<word num="4">
+			<word num="4" id="v6-w4">
 				<strongs>3588</strongs>
 				<pos>Art-AMS</pos>
 				<parse>Article - Accusative Masculine Singular</parse>
@@ -622,7 +622,7 @@
 				<greek>τὸν</greek>
 				<english>the</english>
 			</word>
-			<word num="5">
+			<word num="5" id="v6-w5">
 				<strongs>3624</strongs>
 				<pos>N-AMS</pos>
 				<parse>Noun - Accusative Masculine Singular</parse>
@@ -630,7 +630,7 @@
 				<greek>οἶκον</greek>
 				<english>house</english>
 			</word>
-			<word num="6">
+			<word num="6" id="v6-w6">
 				<strongs>4779</strongs>
 				<pos>V-PIA-3S</pos>
 				<parse>Verb - Present Indicative Active - 3rd Person Singular</parse>
@@ -638,7 +638,7 @@
 				<greek>συνκαλεῖ</greek>
 				<english>he calls together</english>
 			</word>
-			<word num="7">
+			<word num="7" id="v6-w7">
 				<strongs>3588</strongs>
 				<pos>Art-AMP</pos>
 				<parse>Article - Accusative Masculine Plural</parse>
@@ -646,7 +646,7 @@
 				<greek>τοὺς</greek>
 				<english>the</english>
 			</word>
-			<word num="8">
+			<word num="8" id="v6-w8">
 				<strongs>5384</strongs>
 				<pos>Adj-AMP</pos>
 				<parse>Adjective - Accusative Masculine Plural</parse>
@@ -654,7 +654,7 @@
 				<greek>φίλους</greek>
 				<english>friends</english>
 			</word>
-			<word num="9">
+			<word num="9" id="v6-w9">
 				<strongs>2532</strongs>
 				<pos>Conj</pos>
 				<parse>Conjunction</parse>
@@ -662,7 +662,7 @@
 				<greek>καὶ</greek>
 				<english>and</english>
 			</word>
-			<word num="10">
+			<word num="10" id="v6-w10">
 				<strongs>3588</strongs>
 				<pos>Art-AMP</pos>
 				<parse>Article - Accusative Masculine Plural</parse>
@@ -670,7 +670,7 @@
 				<greek>τοὺς</greek>
 				<english>the</english>
 			</word>
-			<word num="11">
+			<word num="11" id="v6-w11">
 				<strongs>1069</strongs>
 				<pos>N-AMP</pos>
 				<parse>Noun - Accusative Masculine Plural</parse>
@@ -678,7 +678,7 @@
 				<greek>γείτονας</greek>
 				<english>neighbors</english>
 			</word>
-			<word num="12">
+			<word num="12" id="v6-w12">
 				<strongs>3004</strongs>
 				<pos>V-PPA-NMS</pos>
 				<parse>Verb - Present Participle Active - Nominative Masculine Singular</parse>
@@ -686,7 +686,7 @@
 				<greek>λέγων</greek>
 				<english>saying</english>
 			</word>
-			<word num="13">
+			<word num="13" id="v6-w13">
 				<strongs>846</strongs>
 				<pos>PPro-DM3P</pos>
 				<parse>Personal / Possessive Pronoun - Dative Masculine 3rd Person Plural</parse>
@@ -694,7 +694,7 @@
 				<greek>αὐτοῖς</greek>
 				<english>to them</english>
 			</word>
-			<word num="14">
+			<word num="14" id="v6-w14">
 				<strongs>4796</strongs>
 				<pos>V-AMP-2P</pos>
 				<parse>Verb - Aorist Imperative Passive - 2nd Person Plural</parse>
@@ -702,7 +702,7 @@
 				<greek>Συνχάρητέ</greek>
 				<english>Rejoice with</english>
 			</word>
-			<word num="15">
+			<word num="15" id="v6-w15">
 				<strongs>1473</strongs>
 				<pos>PPro-D1S</pos>
 				<parse>Personal / Possessive Pronoun - Dative 1st Person Singular</parse>
@@ -710,7 +710,7 @@
 				<greek>μοι</greek>
 				<english>me</english>
 			</word>
-			<word num="16">
+			<word num="16" id="v6-w16">
 				<strongs>3754</strongs>
 				<pos>Conj</pos>
 				<parse>Conjunction</parse>
@@ -718,7 +718,7 @@
 				<greek>ὅτι</greek>
 				<english>for</english>
 			</word>
-			<word num="17">
+			<word num="17" id="v6-w17">
 				<strongs>2147</strongs>
 				<pos>V-AIA-1S</pos>
 				<parse>Verb - Aorist Indicative Active - 1st Person Singular</parse>
@@ -726,7 +726,7 @@
 				<greek>εὗρον</greek>
 				<english>I have found</english>
 			</word>
-			<word num="18">
+			<word num="18" id="v6-w18">
 				<strongs>3588</strongs>
 				<pos>Art-ANS</pos>
 				<parse>Article - Accusative Neuter Singular</parse>
@@ -734,7 +734,7 @@
 				<greek>τὸ</greek>
 				<english>the</english>
 			</word>
-			<word num="19">
+			<word num="19" id="v6-w19">
 				<strongs>4263</strongs>
 				<pos>N-ANS</pos>
 				<parse>Noun - Accusative Neuter Singular</parse>
@@ -742,7 +742,7 @@
 				<greek>πρόβατόν</greek>
 				<english>sheep</english>
 			</word>
-			<word num="20">
+			<word num="20" id="v6-w20">
 				<strongs>1473</strongs>
 				<pos>PPro-G1S</pos>
 				<parse>Personal / Possessive Pronoun - Genitive 1st Person Singular</parse>
@@ -750,7 +750,7 @@
 				<greek>μου</greek>
 				<english>of me</english>
 			</word>
-			<word num="21">
+			<word num="21" id="v6-w21">
 				<strongs>3588</strongs>
 				<pos>Art-ANS</pos>
 				<parse>Article - Accusative Neuter Singular</parse>
@@ -758,7 +758,7 @@
 				<greek>τὸ</greek>
 				<english>the [one]</english>
 			</word>
-			<word num="22">
+			<word num="22" id="v6-w22">
 				<strongs>622</strongs>
 				<pos>V-RPA-ANS</pos>
 				<parse>Verb - Perfect Participle Active - Accusative Neuter Singular</parse>
@@ -767,8 +767,8 @@
 				<english>having been lost</english>
 			</word>
 		</verse>
-		<verse num="7">
-			<word num="1">
+		<verse num="7" id="v7">
+			<word num="1" id="v7-w1">
 				<strongs>3004</strongs>
 				<pos>V-PIA-1S</pos>
 				<parse>Verb - Present Indicative Active - 1st Person Singular</parse>
@@ -776,7 +776,7 @@
 				<greek>λέγω</greek>
 				<english>I say</english>
 			</word>
-			<word num="2">
+			<word num="2" id="v7-w2">
 				<strongs>4771</strongs>
 				<pos>PPro-D2P</pos>
 				<parse>Personal / Possessive Pronoun - Dative 2nd Person Plural</parse>
@@ -784,7 +784,7 @@
 				<greek>ὑμῖν</greek>
 				<english>to you</english>
 			</word>
-			<word num="3">
+			<word num="3" id="v7-w3">
 				<strongs>3754</strongs>
 				<pos>Conj</pos>
 				<parse>Conjunction</parse>
@@ -792,7 +792,7 @@
 				<greek>ὅτι</greek>
 				<english>that</english>
 			</word>
-			<word num="4">
+			<word num="4" id="v7-w4">
 				<strongs>3779</strongs>
 				<pos>Adv</pos>
 				<parse>Adverb</parse>
@@ -800,7 +800,7 @@
 				<greek>οὕτως</greek>
 				<english>in the same way</english>
 			</word>
-			<word num="5">
+			<word num="5" id="v7-w5">
 				<strongs>5479</strongs>
 				<pos>N-NFS</pos>
 				<parse>Noun - Nominative Feminine Singular</parse>
@@ -808,7 +808,7 @@
 				<greek>χαρὰ</greek>
 				<english>joy</english>
 			</word>
-			<word num="6">
+			<word num="6" id="v7-w6">
 				<strongs>1722</strongs>
 				<pos>Prep</pos>
 				<parse>Preposition</parse>
@@ -816,7 +816,7 @@
 				<greek>ἐν</greek>
 				<english>in</english>
 			</word>
-			<word num="7">
+			<word num="7" id="v7-w7">
 				<strongs>3588</strongs>
 				<pos>Art-DMS</pos>
 				<parse>Article - Dative Masculine Singular</parse>
@@ -824,7 +824,7 @@
 				<greek>τῷ</greek>
 				<english> - </english>
 			</word>
-			<word num="8">
+			<word num="8" id="v7-w8">
 				<strongs>3772</strongs>
 				<pos>N-DMS</pos>
 				<parse>Noun - Dative Masculine Singular</parse>
@@ -832,7 +832,7 @@
 				<greek>οὐρανῷ</greek>
 				<english>heaven</english>
 			</word>
-			<word num="9">
+			<word num="9" id="v7-w9">
 				<strongs>1510</strongs>
 				<pos>V-FIM-3S</pos>
 				<parse>Verb - Future Indicative Middle - 3rd Person Singular</parse>
@@ -840,7 +840,7 @@
 				<greek>ἔσται</greek>
 				<english>there will be</english>
 			</word>
-			<word num="10">
+			<word num="10" id="v7-w10">
 				<strongs>1909</strongs>
 				<pos>Prep</pos>
 				<parse>Preposition</parse>
@@ -848,7 +848,7 @@
 				<greek>ἐπὶ</greek>
 				<english>over</english>
 			</word>
-			<word num="11">
+			<word num="11" id="v7-w11">
 				<strongs>1520</strongs>
 				<pos>Adj-DMS</pos>
 				<parse>Adjective - Dative Masculine Singular</parse>
@@ -856,7 +856,7 @@
 				<greek>ἑνὶ</greek>
 				<english>one</english>
 			</word>
-			<word num="12">
+			<word num="12" id="v7-w12">
 				<strongs>268</strongs>
 				<pos>Adj-DMS</pos>
 				<parse>Adjective - Dative Masculine Singular</parse>
@@ -864,7 +864,7 @@
 				<greek>ἁμαρτωλῷ</greek>
 				<english>sinner</english>
 			</word>
-			<word num="13">
+			<word num="13" id="v7-w13">
 				<strongs>3340</strongs>
 				<pos>V-PPA-DMS</pos>
 				<parse>Verb - Present Participle Active - Dative Masculine Singular</parse>
@@ -872,7 +872,7 @@
 				<greek>μετανοοῦντι</greek>
 				<english>repenting</english>
 			</word>
-			<word num="14">
+			<word num="14" id="v7-w14">
 				<strongs>2228</strongs>
 				<pos>Conj</pos>
 				<parse>Conjunction</parse>
@@ -880,7 +880,7 @@
 				<greek>ἢ</greek>
 				<english>rather than</english>
 			</word>
-			<word num="15">
+			<word num="15" id="v7-w15">
 				<strongs>1909</strongs>
 				<pos>Prep</pos>
 				<parse>Preposition</parse>
@@ -888,7 +888,7 @@
 				<greek>ἐπὶ</greek>
 				<english>over</english>
 			</word>
-			<word num="16">
+			<word num="16" id="v7-w16">
 				<strongs>1768</strongs>
 				<pos>Adj-DMP</pos>
 				<parse>Adjective - Dative Masculine Plural</parse>
@@ -896,7 +896,7 @@
 				<greek>ἐνενήκοντα</greek>
 				<english>ninety</english>
 			</word>
-			<word num="17">
+			<word num="17" id="v7-w17">
 				<strongs>1767</strongs>
 				<pos>Adj-DMP</pos>
 				<parse>Adjective - Dative Masculine Plural</parse>
@@ -904,7 +904,7 @@
 				<greek>ἐννέα</greek>
 				<english>nine</english>
 			</word>
-			<word num="18">
+			<word num="18" id="v7-w18">
 				<strongs>1342</strongs>
 				<pos>Adj-DMP</pos>
 				<parse>Adjective - Dative Masculine Plural</parse>
@@ -912,7 +912,7 @@
 				<greek>δικαίοις</greek>
 				<english>righteous ones</english>
 			</word>
-			<word num="19">
+			<word num="19" id="v7-w19">
 				<strongs>3748</strongs>
 				<pos>RelPro-NMP</pos>
 				<parse>Personal / Relative Pronoun - Nominative Masculine Plural</parse>
@@ -920,7 +920,7 @@
 				<greek>οἵτινες</greek>
 				<english>who</english>
 			</word>
-			<word num="20">
+			<word num="20" id="v7-w20">
 				<strongs>3756</strongs>
 				<pos>Adv</pos>
 				<parse>Adverb</parse>
@@ -928,7 +928,7 @@
 				<greek>οὐ</greek>
 				<english>no</english>
 			</word>
-			<word num="21">
+			<word num="21" id="v7-w21">
 				<strongs>5532</strongs>
 				<pos>N-AFS</pos>
 				<parse>Noun - Accusative Feminine Singular</parse>
@@ -936,7 +936,7 @@
 				<greek>χρείαν</greek>
 				<english>need</english>
 			</word>
-			<word num="22">
+			<word num="22" id="v7-w22">
 				<strongs>2192</strongs>
 				<pos>V-PIA-3P</pos>
 				<parse>Verb - Present Indicative Active - 3rd Person Plural</parse>
@@ -944,7 +944,7 @@
 				<greek>ἔχουσιν</greek>
 				<english>have</english>
 			</word>
-			<word num="23">
+			<word num="23" id="v7-w23">
 				<strongs>3341</strongs>
 				<pos>N-GFS</pos>
 				<parse>Noun - Genitive Feminine Singular</parse>
@@ -953,8 +953,8 @@
 				<english>of repentance</english>
 			</word>
 		</verse>
-		<verse num="8">
-			<word num="1">
+		<verse num="8" id="v8">
+			<word num="1" id="v8-w1">
 				<strongs>2228</strongs>
 				<pos>Conj</pos>
 				<parse>Conjunction</parse>
@@ -962,7 +962,7 @@
 				<greek>Ἢ</greek>
 				<english>Or</english>
 			</word>
-			<word num="2">
+			<word num="2" id="v8-w2">
 				<strongs>5101</strongs>
 				<pos>IPro-NFS</pos>
 				<parse>Interrogative / Indefinite Pronoun - Nominative Feminine Singular</parse>
@@ -970,7 +970,7 @@
 				<greek>τίς</greek>
 				<english>what</english>
 			</word>
-			<word num="3">
+			<word num="3" id="v8-w3">
 				<strongs>1135</strongs>
 				<pos>N-NFS</pos>
 				<parse>Noun - Nominative Feminine Singular</parse>
@@ -978,7 +978,7 @@
 				<greek>γυνὴ</greek>
 				<english>woman</english>
 			</word>
-			<word num="4">
+			<word num="4" id="v8-w4">
 				<strongs>1406</strongs>
 				<pos>N-AFP</pos>
 				<parse>Noun - Accusative Feminine Plural</parse>
@@ -986,7 +986,7 @@
 				<greek>δραχμὰς</greek>
 				<english>drachmas</english>
 			</word>
-			<word num="5">
+			<word num="5" id="v8-w5">
 				<strongs>2192</strongs>
 				<pos>V-PPA-NFS</pos>
 				<parse>Verb - Present Participle Active - Nominative Feminine Singular</parse>
@@ -994,7 +994,7 @@
 				<greek>ἔχουσα</greek>
 				<english>having</english>
 			</word>
-			<word num="6">
+			<word num="6" id="v8-w6">
 				<strongs>1176</strongs>
 				<pos>Adj-AFP</pos>
 				<parse>Adjective - Accusative Feminine Plural</parse>
@@ -1002,7 +1002,7 @@
 				<greek>δέκα</greek>
 				<english>ten</english>
 			</word>
-			<word num="7">
+			<word num="7" id="v8-w7">
 				<strongs>1437</strongs>
 				<pos>Conj</pos>
 				<parse>Conjunction</parse>
@@ -1010,7 +1010,7 @@
 				<greek>ἐὰν</greek>
 				<english>if</english>
 			</word>
-			<word num="8">
+			<word num="8" id="v8-w8">
 				<strongs>622</strongs>
 				<pos>V-ASA-3S</pos>
 				<parse>Verb - Aorist Subjunctive Active - 3rd Person Singular</parse>
@@ -1018,7 +1018,7 @@
 				<greek>ἀπολέσῃ</greek>
 				<english>she should lose</english>
 			</word>
-			<word num="9">
+			<word num="9" id="v8-w9">
 				<strongs>1406</strongs>
 				<pos>N-AFS</pos>
 				<parse>Noun - Accusative Feminine Singular</parse>
@@ -1026,7 +1026,7 @@
 				<greek>δραχμὴν</greek>
 				<english>drachma</english>
 			</word>
-			<word num="10">
+			<word num="10" id="v8-w10">
 				<strongs>1520</strongs>
 				<pos>Adj-AFS</pos>
 				<parse>Adjective - Accusative Feminine Singular</parse>
@@ -1034,7 +1034,7 @@
 				<greek>μίαν</greek>
 				<english>one</english>
 			</word>
-			<word num="11">
+			<word num="11" id="v8-w11">
 				<strongs>3780</strongs>
 				<pos>IntPrtcl</pos>
 				<parse>IntPrtcl</parse>
@@ -1042,7 +1042,7 @@
 				<greek>οὐχὶ</greek>
 				<english>not</english>
 			</word>
-			<word num="12">
+			<word num="12" id="v8-w12">
 				<strongs>681</strongs>
 				<pos>V-PIA-3S</pos>
 				<parse>Verb - Present Indicative Active - 3rd Person Singular</parse>
@@ -1050,7 +1050,7 @@
 				<greek>ἅπτει</greek>
 				<english>lights</english>
 			</word>
-			<word num="13">
+			<word num="13" id="v8-w13">
 				<strongs>3088</strongs>
 				<pos>N-AMS</pos>
 				<parse>Noun - Accusative Masculine Singular</parse>
@@ -1058,7 +1058,7 @@
 				<greek>λύχνον</greek>
 				<english>a lamp</english>
 			</word>
-			<word num="14">
+			<word num="14" id="v8-w14">
 				<strongs>2532</strongs>
 				<pos>Conj</pos>
 				<parse>Conjunction</parse>
@@ -1066,7 +1066,7 @@
 				<greek>καὶ</greek>
 				<english>and</english>
 			</word>
-			<word num="15">
+			<word num="15" id="v8-w15">
 				<strongs>4563</strongs>
 				<pos>V-PIA-3S</pos>
 				<parse>Verb - Present Indicative Active - 3rd Person Singular</parse>
@@ -1074,7 +1074,7 @@
 				<greek>σαροῖ</greek>
 				<english>sweeps</english>
 			</word>
-			<word num="16">
+			<word num="16" id="v8-w16">
 				<strongs>3588</strongs>
 				<pos>Art-AFS</pos>
 				<parse>Article - Accusative Feminine Singular</parse>
@@ -1082,7 +1082,7 @@
 				<greek>τὴν</greek>
 				<english>the</english>
 			</word>
-			<word num="17">
+			<word num="17" id="v8-w17">
 				<strongs>3614</strongs>
 				<pos>N-AFS</pos>
 				<parse>Noun - Accusative Feminine Singular</parse>
@@ -1090,7 +1090,7 @@
 				<greek>οἰκίαν</greek>
 				<english>house</english>
 			</word>
-			<word num="18">
+			<word num="18" id="v8-w18">
 				<strongs>2532</strongs>
 				<pos>Conj</pos>
 				<parse>Conjunction</parse>
@@ -1098,7 +1098,7 @@
 				<greek>καὶ</greek>
 				<english>and</english>
 			</word>
-			<word num="19">
+			<word num="19" id="v8-w19">
 				<strongs>2212</strongs>
 				<pos>V-PIA-3S</pos>
 				<parse>Verb - Present Indicative Active - 3rd Person Singular</parse>
@@ -1106,7 +1106,7 @@
 				<greek>ζητεῖ</greek>
 				<english>seeks</english>
 			</word>
-			<word num="20">
+			<word num="20" id="v8-w20">
 				<strongs>1960</strongs>
 				<pos>Adv</pos>
 				<parse>Adverb</parse>
@@ -1114,7 +1114,7 @@
 				<greek>ἐπιμελῶς</greek>
 				<english>carefully</english>
 			</word>
-			<word num="21">
+			<word num="21" id="v8-w21">
 				<strongs>2193</strongs>
 				<pos>Prep</pos>
 				<parse>Preposition</parse>
@@ -1122,7 +1122,7 @@
 				<greek>ἕως</greek>
 				<english>until</english>
 			</word>
-			<word num="22">
+			<word num="22" id="v8-w22">
 				<strongs>3739</strongs>
 				<pos>RelPro-GMS</pos>
 				<parse>Personal / Relative Pronoun - Genitive Masculine Singular</parse>
@@ -1130,7 +1130,7 @@
 				<greek>οὗ</greek>
 				<english>it</english>
 			</word>
-			<word num="23">
+			<word num="23" id="v8-w23">
 				<strongs>2147</strongs>
 				<pos>V-ASA-3S</pos>
 				<parse>Verb - Aorist Subjunctive Active - 3rd Person Singular</parse>
@@ -1139,8 +1139,8 @@
 				<english>she finds</english>
 			</word>
 		</verse>
-		<verse num="9">
-			<word num="1">
+		<verse num="9" id="v9">
+			<word num="1" id="v9-w1">
 				<strongs>2532</strongs>
 				<pos>Conj</pos>
 				<parse>Conjunction</parse>
@@ -1148,7 +1148,7 @@
 				<greek>καὶ</greek>
 				<english>And</english>
 			</word>
-			<word num="2">
+			<word num="2" id="v9-w2">
 				<strongs>2147</strongs>
 				<pos>V-APA-NFS</pos>
 				<parse>Verb - Aorist Participle Active - Nominative Feminine Singular</parse>
@@ -1156,7 +1156,7 @@
 				<greek>εὑροῦσα</greek>
 				<english>having found [it]</english>
 			</word>
-			<word num="3">
+			<word num="3" id="v9-w3">
 				<strongs>4779</strongs>
 				<pos>V-PIA-3S</pos>
 				<parse>Verb - Present Indicative Active - 3rd Person Singular</parse>
@@ -1164,7 +1164,7 @@
 				<greek>συνκαλεῖ</greek>
 				<english>she calls together</english>
 			</word>
-			<word num="4">
+			<word num="4" id="v9-w4">
 				<strongs>3588</strongs>
 				<pos>Art-AFP</pos>
 				<parse>Article - Accusative Feminine Plural</parse>
@@ -1172,7 +1172,7 @@
 				<greek>τὰς</greek>
 				<english>the</english>
 			</word>
-			<word num="5">
+			<word num="5" id="v9-w5">
 				<strongs>5384</strongs>
 				<pos>N-AFP</pos>
 				<parse>Noun - Accusative Feminine Plural</parse>
@@ -1180,7 +1180,7 @@
 				<greek>φίλας</greek>
 				<english>friends</english>
 			</word>
-			<word num="6">
+			<word num="6" id="v9-w6">
 				<strongs>2532</strongs>
 				<pos>Conj</pos>
 				<parse>Conjunction</parse>
@@ -1188,7 +1188,7 @@
 				<greek>καὶ</greek>
 				<english>and</english>
 			</word>
-			<word num="7">
+			<word num="7" id="v9-w7">
 				<strongs>1069</strongs>
 				<pos>N-AFP</pos>
 				<parse>Noun - Accusative Feminine Plural</parse>
@@ -1196,7 +1196,7 @@
 				<greek>γείτονας</greek>
 				<english>neighbors</english>
 			</word>
-			<word num="8">
+			<word num="8" id="v9-w8">
 				<strongs>3004</strongs>
 				<pos>V-PPA-NFS</pos>
 				<parse>Verb - Present Participle Active - Nominative Feminine Singular</parse>
@@ -1204,7 +1204,7 @@
 				<greek>λέγουσα</greek>
 				<english>saying</english>
 			</word>
-			<word num="9">
+			<word num="9" id="v9-w9">
 				<strongs>4796</strongs>
 				<pos>V-AMP-2P</pos>
 				<parse>Verb - Aorist Imperative Passive - 2nd Person Plural</parse>
@@ -1212,7 +1212,7 @@
 				<greek>Συνχάρητέ</greek>
 				<english>Rejoice with</english>
 			</word>
-			<word num="10">
+			<word num="10" id="v9-w10">
 				<strongs>1473</strongs>
 				<pos>PPro-D1S</pos>
 				<parse>Personal / Possessive Pronoun - Dative 1st Person Singular</parse>
@@ -1220,7 +1220,7 @@
 				<greek>μοι</greek>
 				<english>me</english>
 			</word>
-			<word num="11">
+			<word num="11" id="v9-w11">
 				<strongs>3754</strongs>
 				<pos>Conj</pos>
 				<parse>Conjunction</parse>
@@ -1228,7 +1228,7 @@
 				<greek>ὅτι</greek>
 				<english>for</english>
 			</word>
-			<word num="12">
+			<word num="12" id="v9-w12">
 				<strongs>2147</strongs>
 				<pos>V-AIA-1S</pos>
 				<parse>Verb - Aorist Indicative Active - 1st Person Singular</parse>
@@ -1236,7 +1236,7 @@
 				<greek>εὗρον</greek>
 				<english>I have found</english>
 			</word>
-			<word num="13">
+			<word num="13" id="v9-w13">
 				<strongs>3588</strongs>
 				<pos>Art-AFS</pos>
 				<parse>Article - Accusative Feminine Singular</parse>
@@ -1244,7 +1244,7 @@
 				<greek>τὴν</greek>
 				<english>the</english>
 			</word>
-			<word num="14">
+			<word num="14" id="v9-w14">
 				<strongs>1406</strongs>
 				<pos>N-AFS</pos>
 				<parse>Noun - Accusative Feminine Singular</parse>
@@ -1252,7 +1252,7 @@
 				<greek>δραχμὴν</greek>
 				<english>drachma</english>
 			</word>
-			<word num="15">
+			<word num="15" id="v9-w15">
 				<strongs>3739</strongs>
 				<pos>RelPro-AFS</pos>
 				<parse>Personal / Relative Pronoun - Accusative Feminine Singular</parse>
@@ -1260,7 +1260,7 @@
 				<greek>ἣν</greek>
 				<english>that</english>
 			</word>
-			<word num="16">
+			<word num="16" id="v9-w16">
 				<strongs>622</strongs>
 				<pos>V-AIA-1S</pos>
 				<parse>Verb - Aorist Indicative Active - 1st Person Singular</parse>
@@ -1269,8 +1269,8 @@
 				<english>I lost</english>
 			</word>
 		</verse>
-		<verse num="10">
-			<word num="1">
+		<verse num="10" id="v10">
+			<word num="1" id="v10-w1">
 				<strongs>3779</strongs>
 				<pos>Adv</pos>
 				<parse>Adverb</parse>
@@ -1278,7 +1278,7 @@
 				<greek>οὕτως</greek>
 				<english>Thus</english>
 			</word>
-			<word num="2">
+			<word num="2" id="v10-w2">
 				<strongs>3004</strongs>
 				<pos>V-PIA-1S</pos>
 				<parse>Verb - Present Indicative Active - 1st Person Singular</parse>
@@ -1286,7 +1286,7 @@
 				<greek>λέγω</greek>
 				<english>I say</english>
 			</word>
-			<word num="3">
+			<word num="3" id="v10-w3">
 				<strongs>4771</strongs>
 				<pos>PPro-D2P</pos>
 				<parse>Personal / Possessive Pronoun - Dative 2nd Person Plural</parse>
@@ -1294,7 +1294,7 @@
 				<greek>ὑμῖν</greek>
 				<english>to you</english>
 			</word>
-			<word num="4">
+			<word num="4" id="v10-w4">
 				<strongs>1096</strongs>
 				<pos>V-PIM/P-3S</pos>
 				<parse>Verb - Present Indicative Middle or Passive - 3rd Person Singular</parse>
@@ -1302,7 +1302,7 @@
 				<greek>γίνεται</greek>
 				<english>there is</english>
 			</word>
-			<word num="5">
+			<word num="5" id="v10-w5">
 				<strongs>5479</strongs>
 				<pos>N-NFS</pos>
 				<parse>Noun - Nominative Feminine Singular</parse>
@@ -1310,7 +1310,7 @@
 				<greek>χαρὰ</greek>
 				<english>joy</english>
 			</word>
-			<word num="6">
+			<word num="6" id="v10-w6">
 				<strongs>1799</strongs>
 				<pos>Prep</pos>
 				<parse>Preposition</parse>
@@ -1318,7 +1318,7 @@
 				<greek>ἐνώπιον</greek>
 				<english>before</english>
 			</word>
-			<word num="7">
+			<word num="7" id="v10-w7">
 				<strongs>3588</strongs>
 				<pos>Art-GMP</pos>
 				<parse>Article - Genitive Masculine Plural</parse>
@@ -1326,7 +1326,7 @@
 				<greek>τῶν</greek>
 				<english>the</english>
 			</word>
-			<word num="8">
+			<word num="8" id="v10-w8">
 				<strongs>32</strongs>
 				<pos>N-GMP</pos>
 				<parse>Noun - Genitive Masculine Plural</parse>
@@ -1334,7 +1334,7 @@
 				<greek>ἀγγέλων</greek>
 				<english>angels</english>
 			</word>
-			<word num="9">
+			<word num="9" id="v10-w9">
 				<strongs>3588</strongs>
 				<pos>Art-GMS</pos>
 				<parse>Article - Genitive Masculine Singular</parse>
@@ -1342,7 +1342,7 @@
 				<greek>τοῦ</greek>
 				<english> - </english>
 			</word>
-			<word num="10">
+			<word num="10" id="v10-w10">
 				<strongs>2316</strongs>
 				<pos>N-GMS</pos>
 				<parse>Noun - Genitive Masculine Singular</parse>
@@ -1350,7 +1350,7 @@
 				<greek>Θεοῦ</greek>
 				<english>of God</english>
 			</word>
-			<word num="11">
+			<word num="11" id="v10-w11">
 				<strongs>1909</strongs>
 				<pos>Prep</pos>
 				<parse>Preposition</parse>
@@ -1358,7 +1358,7 @@
 				<greek>ἐπὶ</greek>
 				<english>over</english>
 			</word>
-			<word num="12">
+			<word num="12" id="v10-w12">
 				<strongs>1520</strongs>
 				<pos>Adj-DMS</pos>
 				<parse>Adjective - Dative Masculine Singular</parse>
@@ -1366,7 +1366,7 @@
 				<greek>ἑνὶ</greek>
 				<english>one</english>
 			</word>
-			<word num="13">
+			<word num="13" id="v10-w13">
 				<strongs>268</strongs>
 				<pos>Adj-DMS</pos>
 				<parse>Adjective - Dative Masculine Singular</parse>
@@ -1374,7 +1374,7 @@
 				<greek>ἁμαρτωλῷ</greek>
 				<english>sinner</english>
 			</word>
-			<word num="14">
+			<word num="14" id="v10-w14">
 				<strongs>3340</strongs>
 				<pos>V-PPA-DMS</pos>
 				<parse>Verb - Present Participle Active - Dative Masculine Singular</parse>
@@ -1383,8 +1383,8 @@
 				<english>repenting</english>
 			</word>
 		</verse>
-		<verse num="11">
-			<word num="1">
+		<verse num="11" id="v11">
+			<word num="1" id="v11-w1">
 				<strongs>2036</strongs>
 				<pos>V-AIA-3S</pos>
 				<parse>Verb - Aorist Indicative Active - 3rd Person Singular</parse>
@@ -1392,7 +1392,7 @@
 				<greek>Εἶπεν</greek>
 				<english>He said</english>
 			</word>
-			<word num="2">
+			<word num="2" id="v11-w2">
 				<strongs>1161</strongs>
 				<pos>Conj</pos>
 				<parse>Conjunction</parse>
@@ -1400,7 +1400,7 @@
 				<greek>δέ</greek>
 				<english>then</english>
 			</word>
-			<word num="3">
+			<word num="3" id="v11-w3">
 				<strongs>444</strongs>
 				<pos>N-NMS</pos>
 				<parse>Noun - Nominative Masculine Singular</parse>
@@ -1408,7 +1408,7 @@
 				<greek>Ἄνθρωπός</greek>
 				<english>A man</english>
 			</word>
-			<word num="4">
+			<word num="4" id="v11-w4">
 				<strongs>5100</strongs>
 				<pos>IPro-NMS</pos>
 				<parse>Interrogative / Indefinite Pronoun - Nominative Masculine Singular</parse>
@@ -1416,7 +1416,7 @@
 				<greek>τις</greek>
 				<english>certain</english>
 			</word>
-			<word num="5">
+			<word num="5" id="v11-w5">
 				<strongs>2192</strongs>
 				<pos>V-IIA-3S</pos>
 				<parse>Verb - Imperfect Indicative Active - 3rd Person Singular</parse>
@@ -1424,7 +1424,7 @@
 				<greek>εἶχεν</greek>
 				<english>had</english>
 			</word>
-			<word num="6">
+			<word num="6" id="v11-w6">
 				<strongs>1417</strongs>
 				<pos>Adj-AMP</pos>
 				<parse>Adjective - Accusative Masculine Plural</parse>
@@ -1432,7 +1432,7 @@
 				<greek>δύο</greek>
 				<english>two</english>
 			</word>
-			<word num="7">
+			<word num="7" id="v11-w7">
 				<strongs>5207</strongs>
 				<pos>N-AMP</pos>
 				<parse>Noun - Accusative Masculine Plural</parse>
@@ -1441,8 +1441,8 @@
 				<english>sons</english>
 			</word>
 		</verse>
-		<verse num="12">
-			<word num="1">
+		<verse num="12" id="v12">
+			<word num="1" id="v12-w1">
 				<strongs>2532</strongs>
 				<pos>Conj</pos>
 				<parse>Conjunction</parse>
@@ -1450,7 +1450,7 @@
 				<greek>καὶ</greek>
 				<english>And</english>
 			</word>
-			<word num="2">
+			<word num="2" id="v12-w2">
 				<strongs>2036</strongs>
 				<pos>V-AIA-3S</pos>
 				<parse>Verb - Aorist Indicative Active - 3rd Person Singular</parse>
@@ -1458,7 +1458,7 @@
 				<greek>εἶπεν</greek>
 				<english>said</english>
 			</word>
-			<word num="3">
+			<word num="3" id="v12-w3">
 				<strongs>3588</strongs>
 				<pos>Art-NMS</pos>
 				<parse>Article - Nominative Masculine Singular</parse>
@@ -1466,7 +1466,7 @@
 				<greek>ὁ</greek>
 				<english>the</english>
 			</word>
-			<word num="4">
+			<word num="4" id="v12-w4">
 				<strongs>3501</strongs>
 				<pos>Adj-NMS-C</pos>
 				<parse>Adjective - Nominative Masculine Singular - Comparative</parse>
@@ -1474,7 +1474,7 @@
 				<greek>νεώτερος</greek>
 				<english>younger</english>
 			</word>
-			<word num="5">
+			<word num="5" id="v12-w5">
 				<strongs>846</strongs>
 				<pos>PPro-GM3P</pos>
 				<parse>Personal / Possessive Pronoun - Genitive Masculine 3rd Person Plural</parse>
@@ -1482,7 +1482,7 @@
 				<greek>αὐτῶν</greek>
 				<english>of them</english>
 			</word>
-			<word num="6">
+			<word num="6" id="v12-w6">
 				<strongs>3588</strongs>
 				<pos>Art-DMS</pos>
 				<parse>Article - Dative Masculine Singular</parse>
@@ -1490,7 +1490,7 @@
 				<greek>τῷ</greek>
 				<english>to</english>
 			</word>
-			<word num="7">
+			<word num="7" id="v12-w7">
 				<strongs>3962</strongs>
 				<pos>N-DMS</pos>
 				<parse>Noun - Dative Masculine Singular</parse>
@@ -1498,7 +1498,7 @@
 				<greek>πατρί</greek>
 				<english>[the] father</english>
 			</word>
-			<word num="8">
+			<word num="8" id="v12-w8">
 				<strongs>3962</strongs>
 				<pos>N-VMS</pos>
 				<parse>Noun - Vocative Masculine Singular</parse>
@@ -1506,7 +1506,7 @@
 				<greek>Πάτερ</greek>
 				<english>Father</english>
 			</word>
-			<word num="9">
+			<word num="9" id="v12-w9">
 				<strongs>1325</strongs>
 				<pos>V-AMA-2S</pos>
 				<parse>Verb - Aorist Imperative Active - 2nd Person Singular</parse>
@@ -1514,7 +1514,7 @@
 				<greek>δός</greek>
 				<english>give</english>
 			</word>
-			<word num="10">
+			<word num="10" id="v12-w10">
 				<strongs>1473</strongs>
 				<pos>PPro-D1S</pos>
 				<parse>Personal / Possessive Pronoun - Dative 1st Person Singular</parse>
@@ -1522,7 +1522,7 @@
 				<greek>μοι</greek>
 				<english>to me</english>
 			</word>
-			<word num="11">
+			<word num="11" id="v12-w11">
 				<strongs>3588</strongs>
 				<pos>Art-ANS</pos>
 				<parse>Article - Accusative Neuter Singular</parse>
@@ -1530,7 +1530,7 @@
 				<greek>τὸ</greek>
 				<english>the</english>
 			</word>
-			<word num="12">
+			<word num="12" id="v12-w12">
 				<strongs>1911</strongs>
 				<pos>V-PPA-ANS</pos>
 				<parse>Verb - Present Participle Active - Accusative Neuter Singular</parse>
@@ -1538,7 +1538,7 @@
 				<greek>ἐπιβάλλον</greek>
 				<english>falling [to me]</english>
 			</word>
-			<word num="13">
+			<word num="13" id="v12-w13">
 				<strongs>3313</strongs>
 				<pos>N-ANS</pos>
 				<parse>Noun - Accusative Neuter Singular</parse>
@@ -1546,7 +1546,7 @@
 				<greek>μέρος</greek>
 				<english>portion</english>
 			</word>
-			<word num="14">
+			<word num="14" id="v12-w14">
 				<strongs>3588</strongs>
 				<pos>Art-GFS</pos>
 				<parse>Article - Genitive Feminine Singular</parse>
@@ -1554,7 +1554,7 @@
 				<greek>τῆς</greek>
 				<english>of the</english>
 			</word>
-			<word num="15">
+			<word num="15" id="v12-w15">
 				<strongs>3776</strongs>
 				<pos>N-GFS</pos>
 				<parse>Noun - Genitive Feminine Singular</parse>
@@ -1562,7 +1562,7 @@
 				<greek>οὐσίας</greek>
 				<english>property</english>
 			</word>
-			<word num="16">
+			<word num="16" id="v12-w16">
 				<strongs>3588</strongs>
 				<pos>Art-NMS</pos>
 				<parse>Article - Nominative Masculine Singular</parse>
@@ -1570,7 +1570,7 @@
 				<greek>ὁ</greek>
 				<english> - </english>
 			</word>
-			<word num="17">
+			<word num="17" id="v12-w17">
 				<strongs>1161</strongs>
 				<pos>Conj</pos>
 				<parse>Conjunction</parse>
@@ -1578,7 +1578,7 @@
 				<greek>δὲ</greek>
 				<english>And</english>
 			</word>
-			<word num="18">
+			<word num="18" id="v12-w18">
 				<strongs>1244</strongs>
 				<pos>V-AIA-3S</pos>
 				<parse>Verb - Aorist Indicative Active - 3rd Person Singular</parse>
@@ -1586,7 +1586,7 @@
 				<greek>διεῖλεν</greek>
 				<english>he divided</english>
 			</word>
-			<word num="19">
+			<word num="19" id="v12-w19">
 				<strongs>846</strongs>
 				<pos>PPro-DM3P</pos>
 				<parse>Personal / Possessive Pronoun - Dative Masculine 3rd Person Plural</parse>
@@ -1594,7 +1594,7 @@
 				<greek>αὐτοῖς</greek>
 				<english>between them</english>
 			</word>
-			<word num="20">
+			<word num="20" id="v12-w20">
 				<strongs>3588</strongs>
 				<pos>Art-AMS</pos>
 				<parse>Article - Accusative Masculine Singular</parse>
@@ -1602,7 +1602,7 @@
 				<greek>τὸν</greek>
 				<english>the</english>
 			</word>
-			<word num="21">
+			<word num="21" id="v12-w21">
 				<strongs>979</strongs>
 				<pos>N-AMS</pos>
 				<parse>Noun - Accusative Masculine Singular</parse>
@@ -1611,8 +1611,8 @@
 				<english>property</english>
 			</word>
 		</verse>
-		<verse num="13">
-			<word num="1">
+		<verse num="13" id="v13">
+			<word num="1" id="v13-w1">
 				<strongs>2532</strongs>
 				<pos>Conj</pos>
 				<parse>Conjunction</parse>
@@ -1620,7 +1620,7 @@
 				<greek>Καὶ</greek>
 				<english>And</english>
 			</word>
-			<word num="2">
+			<word num="2" id="v13-w2">
 				<strongs>3326</strongs>
 				<pos>Prep</pos>
 				<parse>Preposition</parse>
@@ -1628,7 +1628,7 @@
 				<greek>μετ’</greek>
 				<english>after</english>
 			</word>
-			<word num="3">
+			<word num="3" id="v13-w3">
 				<strongs>3756</strongs>
 				<pos>Adv</pos>
 				<parse>Adverb</parse>
@@ -1636,7 +1636,7 @@
 				<greek>οὐ</greek>
 				<english>not</english>
 			</word>
-			<word num="4">
+			<word num="4" id="v13-w4">
 				<strongs>4183</strongs>
 				<pos>Adj-AFP</pos>
 				<parse>Adjective - Accusative Feminine Plural</parse>
@@ -1644,7 +1644,7 @@
 				<greek>πολλὰς</greek>
 				<english>many</english>
 			</word>
-			<word num="5">
+			<word num="5" id="v13-w5">
 				<strongs>2250</strongs>
 				<pos>N-AFP</pos>
 				<parse>Noun - Accusative Feminine Plural</parse>
@@ -1652,7 +1652,7 @@
 				<greek>ἡμέρας</greek>
 				<english>days</english>
 			</word>
-			<word num="6">
+			<word num="6" id="v13-w6">
 				<strongs>4863</strongs>
 				<pos>V-APA-NMS</pos>
 				<parse>Verb - Aorist Participle Active - Nominative Masculine Singular</parse>
@@ -1660,7 +1660,7 @@
 				<greek>συναγαγὼν</greek>
 				<english>having gathered together</english>
 			</word>
-			<word num="7">
+			<word num="7" id="v13-w7">
 				<strongs>3956</strongs>
 				<pos>Adj-ANP</pos>
 				<parse>Adjective - Accusative Neuter Plural</parse>
@@ -1668,7 +1668,7 @@
 				<greek>πάντα</greek>
 				<english>all</english>
 			</word>
-			<word num="8">
+			<word num="8" id="v13-w8">
 				<strongs>3588</strongs>
 				<pos>Art-NMS</pos>
 				<parse>Article - Nominative Masculine Singular</parse>
@@ -1676,7 +1676,7 @@
 				<greek>ὁ</greek>
 				<english>the</english>
 			</word>
-			<word num="9">
+			<word num="9" id="v13-w9">
 				<strongs>3501</strongs>
 				<pos>Adj-NMS-C</pos>
 				<parse>Adjective - Nominative Masculine Singular - Comparative</parse>
@@ -1684,7 +1684,7 @@
 				<greek>νεώτερος</greek>
 				<english>younger</english>
 			</word>
-			<word num="10">
+			<word num="10" id="v13-w10">
 				<strongs>5207</strongs>
 				<pos>N-NMS</pos>
 				<parse>Noun - Nominative Masculine Singular</parse>
@@ -1692,7 +1692,7 @@
 				<greek>υἱὸς</greek>
 				<english>son</english>
 			</word>
-			<word num="11">
+			<word num="11" id="v13-w11">
 				<strongs>589</strongs>
 				<pos>V-AIA-3S</pos>
 				<parse>Verb - Aorist Indicative Active - 3rd Person Singular</parse>
@@ -1700,7 +1700,7 @@
 				<greek>ἀπεδήμησεν</greek>
 				<english>went away</english>
 			</word>
-			<word num="12">
+			<word num="12" id="v13-w12">
 				<strongs>1519</strongs>
 				<pos>Prep</pos>
 				<parse>Preposition</parse>
@@ -1708,7 +1708,7 @@
 				<greek>εἰς</greek>
 				<english>into</english>
 			</word>
-			<word num="13">
+			<word num="13" id="v13-w13">
 				<strongs>5561</strongs>
 				<pos>N-AFS</pos>
 				<parse>Noun - Accusative Feminine Singular</parse>
@@ -1716,7 +1716,7 @@
 				<greek>χώραν</greek>
 				<english>a country</english>
 			</word>
-			<word num="14">
+			<word num="14" id="v13-w14">
 				<strongs>3117</strongs>
 				<pos>Adj-AFS</pos>
 				<parse>Adjective - Accusative Feminine Singular</parse>
@@ -1724,7 +1724,7 @@
 				<greek>μακράν</greek>
 				<english>distant</english>
 			</word>
-			<word num="15">
+			<word num="15" id="v13-w15">
 				<strongs>2532</strongs>
 				<pos>Conj</pos>
 				<parse>Conjunction</parse>
@@ -1732,7 +1732,7 @@
 				<greek>καὶ</greek>
 				<english>and</english>
 			</word>
-			<word num="16">
+			<word num="16" id="v13-w16">
 				<strongs>1563</strongs>
 				<pos>Adv</pos>
 				<parse>Adverb</parse>
@@ -1740,7 +1740,7 @@
 				<greek>ἐκεῖ</greek>
 				<english>there</english>
 			</word>
-			<word num="17">
+			<word num="17" id="v13-w17">
 				<strongs>1287</strongs>
 				<pos>V-AIA-3S</pos>
 				<parse>Verb - Aorist Indicative Active - 3rd Person Singular</parse>
@@ -1748,7 +1748,7 @@
 				<greek>διεσκόρπισεν</greek>
 				<english>he wasted</english>
 			</word>
-			<word num="18">
+			<word num="18" id="v13-w18">
 				<strongs>3588</strongs>
 				<pos>Art-AFS</pos>
 				<parse>Article - Accusative Feminine Singular</parse>
@@ -1756,7 +1756,7 @@
 				<greek>τὴν</greek>
 				<english>the</english>
 			</word>
-			<word num="19">
+			<word num="19" id="v13-w19">
 				<strongs>3776</strongs>
 				<pos>N-AFS</pos>
 				<parse>Noun - Accusative Feminine Singular</parse>
@@ -1764,7 +1764,7 @@
 				<greek>οὐσίαν</greek>
 				<english>estate</english>
 			</word>
-			<word num="20">
+			<word num="20" id="v13-w20">
 				<strongs>846</strongs>
 				<pos>PPro-GM3S</pos>
 				<parse>Personal / Possessive Pronoun - Genitive Masculine 3rd Person Singular</parse>
@@ -1772,7 +1772,7 @@
 				<greek>αὐτοῦ</greek>
 				<english>of him</english>
 			</word>
-			<word num="21">
+			<word num="21" id="v13-w21">
 				<strongs>2198</strongs>
 				<pos>V-PPA-NMS</pos>
 				<parse>Verb - Present Participle Active - Nominative Masculine Singular</parse>
@@ -1780,7 +1780,7 @@
 				<greek>ζῶν</greek>
 				<english>living</english>
 			</word>
-			<word num="22">
+			<word num="22" id="v13-w22">
 				<strongs>811</strongs>
 				<pos>Adv</pos>
 				<parse>Adverb</parse>
@@ -1789,8 +1789,8 @@
 				<english>prodigally</english>
 			</word>
 		</verse>
-		<verse num="14">
-			<word num="1">
+		<verse num="14" id="v14">
+			<word num="1" id="v14-w1">
 				<strongs>1159</strongs>
 				<pos>V-APA-GMS</pos>
 				<parse>Verb - Aorist Participle Active - Genitive Masculine Singular</parse>
@@ -1798,7 +1798,7 @@
 				<greek>Δαπανήσαντος</greek>
 				<english>Having spent</english>
 			</word>
-			<word num="2">
+			<word num="2" id="v14-w2">
 				<strongs>1161</strongs>
 				<pos>Conj</pos>
 				<parse>Conjunction</parse>
@@ -1806,7 +1806,7 @@
 				<greek>δὲ</greek>
 				<english>however</english>
 			</word>
-			<word num="3">
+			<word num="3" id="v14-w3">
 				<strongs>846</strongs>
 				<pos>PPro-GM3S</pos>
 				<parse>Personal / Possessive Pronoun - Genitive Masculine 3rd Person Singular</parse>
@@ -1814,7 +1814,7 @@
 				<greek>αὐτοῦ</greek>
 				<english>of him</english>
 			</word>
-			<word num="4">
+			<word num="4" id="v14-w4">
 				<strongs>3956</strongs>
 				<pos>Adj-ANP</pos>
 				<parse>Adjective - Accusative Neuter Plural</parse>
@@ -1822,7 +1822,7 @@
 				<greek>πάντα</greek>
 				<english>all</english>
 			</word>
-			<word num="5">
+			<word num="5" id="v14-w5">
 				<strongs>1096</strongs>
 				<pos>V-AIM-3S</pos>
 				<parse>Verb - Aorist Indicative Middle - 3rd Person Singular</parse>
@@ -1830,7 +1830,7 @@
 				<greek>ἐγένετο</greek>
 				<english>there arose</english>
 			</word>
-			<word num="6">
+			<word num="6" id="v14-w6">
 				<strongs>3042</strongs>
 				<pos>N-NFS</pos>
 				<parse>Noun - Nominative Feminine Singular</parse>
@@ -1838,7 +1838,7 @@
 				<greek>λιμὸς</greek>
 				<english>a famine</english>
 			</word>
-			<word num="7">
+			<word num="7" id="v14-w7">
 				<strongs>2478</strongs>
 				<pos>Adj-NFS</pos>
 				<parse>Adjective - Nominative Feminine Singular</parse>
@@ -1846,7 +1846,7 @@
 				<greek>ἰσχυρὰ</greek>
 				<english>severe</english>
 			</word>
-			<word num="8">
+			<word num="8" id="v14-w8">
 				<strongs>2596</strongs>
 				<pos>Prep</pos>
 				<parse>Preposition</parse>
@@ -1854,7 +1854,7 @@
 				<greek>κατὰ</greek>
 				<english>throughout</english>
 			</word>
-			<word num="9">
+			<word num="9" id="v14-w9">
 				<strongs>3588</strongs>
 				<pos>Art-AFS</pos>
 				<parse>Article - Accusative Feminine Singular</parse>
@@ -1862,7 +1862,7 @@
 				<greek>τὴν</greek>
 				<english>the</english>
 			</word>
-			<word num="10">
+			<word num="10" id="v14-w10">
 				<strongs>5561</strongs>
 				<pos>N-AFS</pos>
 				<parse>Noun - Accusative Feminine Singular</parse>
@@ -1870,7 +1870,7 @@
 				<greek>χώραν</greek>
 				<english>country</english>
 			</word>
-			<word num="11">
+			<word num="11" id="v14-w11">
 				<strongs>1565</strongs>
 				<pos>DPro-AFS</pos>
 				<parse>Demonstrative Pronoun - Accusative Feminine Singular</parse>
@@ -1878,7 +1878,7 @@
 				<greek>ἐκείνην</greek>
 				<english>that</english>
 			</word>
-			<word num="12">
+			<word num="12" id="v14-w12">
 				<strongs>2532</strongs>
 				<pos>Conj</pos>
 				<parse>Conjunction</parse>
@@ -1886,7 +1886,7 @@
 				<greek>καὶ</greek>
 				<english>and</english>
 			</word>
-			<word num="13">
+			<word num="13" id="v14-w13">
 				<strongs>846</strongs>
 				<pos>PPro-NM3S</pos>
 				<parse>Personal / Possessive Pronoun - Nominative Masculine 3rd Person Singular</parse>
@@ -1894,7 +1894,7 @@
 				<greek>αὐτὸς</greek>
 				<english>he</english>
 			</word>
-			<word num="14">
+			<word num="14" id="v14-w14">
 				<strongs>756</strongs>
 				<pos>V-AIM-3S</pos>
 				<parse>Verb - Aorist Indicative Middle - 3rd Person Singular</parse>
@@ -1902,7 +1902,7 @@
 				<greek>ἤρξατο</greek>
 				<english>began</english>
 			</word>
-			<word num="15">
+			<word num="15" id="v14-w15">
 				<strongs>5302</strongs>
 				<pos>V-PNM/P</pos>
 				<parse>Verb - Present Infinitive Middle or Passive</parse>
@@ -1911,8 +1911,8 @@
 				<english>to be in need</english>
 			</word>
 		</verse>
-		<verse num="15">
-			<word num="1">
+		<verse num="15" id="v15">
+			<word num="1" id="v15-w1">
 				<strongs>2532</strongs>
 				<pos>Conj</pos>
 				<parse>Conjunction</parse>
@@ -1920,7 +1920,7 @@
 				<greek>καὶ</greek>
 				<english>And</english>
 			</word>
-			<word num="2">
+			<word num="2" id="v15-w2">
 				<strongs>4198</strongs>
 				<pos>V-APP-NMS</pos>
 				<parse>Verb - Aorist Participle Passive - Nominative Masculine Singular</parse>
@@ -1928,7 +1928,7 @@
 				<greek>πορευθεὶς</greek>
 				<english>having gone</english>
 			</word>
-			<word num="3">
+			<word num="3" id="v15-w3">
 				<strongs>2853</strongs>
 				<pos>V-AIP-3S</pos>
 				<parse>Verb - Aorist Indicative Passive - 3rd Person Singular</parse>
@@ -1936,7 +1936,7 @@
 				<greek>ἐκολλήθη</greek>
 				<english>he joined himself</english>
 			</word>
-			<word num="4">
+			<word num="4" id="v15-w4">
 				<strongs>1520</strongs>
 				<pos>Adj-DMS</pos>
 				<parse>Adjective - Dative Masculine Singular</parse>
@@ -1944,7 +1944,7 @@
 				<greek>ἑνὶ</greek>
 				<english>to one</english>
 			</word>
-			<word num="5">
+			<word num="5" id="v15-w5">
 				<strongs>3588</strongs>
 				<pos>Art-GMP</pos>
 				<parse>Article - Genitive Masculine Plural</parse>
@@ -1952,7 +1952,7 @@
 				<greek>τῶν</greek>
 				<english>of the</english>
 			</word>
-			<word num="6">
+			<word num="6" id="v15-w6">
 				<strongs>4177</strongs>
 				<pos>N-GMP</pos>
 				<parse>Noun - Genitive Masculine Plural</parse>
@@ -1960,7 +1960,7 @@
 				<greek>πολιτῶν</greek>
 				<english>citizens</english>
 			</word>
-			<word num="7">
+			<word num="7" id="v15-w7">
 				<strongs>3588</strongs>
 				<pos>Art-GFS</pos>
 				<parse>Article - Genitive Feminine Singular</parse>
@@ -1968,7 +1968,7 @@
 				<greek>τῆς</greek>
 				<english>the</english>
 			</word>
-			<word num="8">
+			<word num="8" id="v15-w8">
 				<strongs>5561</strongs>
 				<pos>N-GFS</pos>
 				<parse>Noun - Genitive Feminine Singular</parse>
@@ -1976,7 +1976,7 @@
 				<greek>χώρας</greek>
 				<english>country</english>
 			</word>
-			<word num="9">
+			<word num="9" id="v15-w9">
 				<strongs>1565</strongs>
 				<pos>DPro-GFS</pos>
 				<parse>Demonstrative Pronoun - Genitive Feminine Singular</parse>
@@ -1984,7 +1984,7 @@
 				<greek>ἐκείνης</greek>
 				<english>of that</english>
 			</word>
-			<word num="10">
+			<word num="10" id="v15-w10">
 				<strongs>2532</strongs>
 				<pos>Conj</pos>
 				<parse>Conjunction</parse>
@@ -1992,7 +1992,7 @@
 				<greek>καὶ</greek>
 				<english>and</english>
 			</word>
-			<word num="11">
+			<word num="11" id="v15-w11">
 				<strongs>3992</strongs>
 				<pos>V-AIA-3S</pos>
 				<parse>Verb - Aorist Indicative Active - 3rd Person Singular</parse>
@@ -2000,7 +2000,7 @@
 				<greek>ἔπεμψεν</greek>
 				<english>he sent</english>
 			</word>
-			<word num="12">
+			<word num="12" id="v15-w12">
 				<strongs>846</strongs>
 				<pos>PPro-AM3S</pos>
 				<parse>Personal / Possessive Pronoun - Accusative Masculine 3rd Person Singular</parse>
@@ -2008,7 +2008,7 @@
 				<greek>αὐτὸν</greek>
 				<english>him</english>
 			</word>
-			<word num="13">
+			<word num="13" id="v15-w13">
 				<strongs>1519</strongs>
 				<pos>Prep</pos>
 				<parse>Preposition</parse>
@@ -2016,7 +2016,7 @@
 				<greek>εἰς</greek>
 				<english>into</english>
 			</word>
-			<word num="14">
+			<word num="14" id="v15-w14">
 				<strongs>3588</strongs>
 				<pos>Art-AMP</pos>
 				<parse>Article - Accusative Masculine Plural</parse>
@@ -2024,7 +2024,7 @@
 				<greek>τοὺς</greek>
 				<english>the</english>
 			</word>
-			<word num="15">
+			<word num="15" id="v15-w15">
 				<strongs>68</strongs>
 				<pos>N-AMP</pos>
 				<parse>Noun - Accusative Masculine Plural</parse>
@@ -2032,7 +2032,7 @@
 				<greek>ἀγροὺς</greek>
 				<english>fields</english>
 			</word>
-			<word num="16">
+			<word num="16" id="v15-w16">
 				<strongs>846</strongs>
 				<pos>PPro-GM3S</pos>
 				<parse>Personal / Possessive Pronoun - Genitive Masculine 3rd Person Singular</parse>
@@ -2040,7 +2040,7 @@
 				<greek>αὐτοῦ</greek>
 				<english>of him</english>
 			</word>
-			<word num="17">
+			<word num="17" id="v15-w17">
 				<strongs>1006</strongs>
 				<pos>V-PNA</pos>
 				<parse>Verb - Present Infinitive Active</parse>
@@ -2048,7 +2048,7 @@
 				<greek>βόσκειν</greek>
 				<english>to feed</english>
 			</word>
-			<word num="18">
+			<word num="18" id="v15-w18">
 				<strongs>5519</strongs>
 				<pos>N-AMP</pos>
 				<parse>Noun - Accusative Masculine Plural</parse>
@@ -2057,8 +2057,8 @@
 				<english>pigs</english>
 			</word>
 		</verse>
-		<verse num="16">
-			<word num="1">
+		<verse num="16" id="v16">
+			<word num="1" id="v16-w1">
 				<strongs>2532</strongs>
 				<pos>Conj</pos>
 				<parse>Conjunction</parse>
@@ -2066,7 +2066,7 @@
 				<greek>καὶ</greek>
 				<english>And</english>
 			</word>
-			<word num="2">
+			<word num="2" id="v16-w2">
 				<strongs>1937</strongs>
 				<pos>V-IIA-3S</pos>
 				<parse>Verb - Imperfect Indicative Active - 3rd Person Singular</parse>
@@ -2074,7 +2074,7 @@
 				<greek>ἐπεθύμει</greek>
 				<english>he was longing</english>
 			</word>
-			<word num="3">
+			<word num="3" id="v16-w3">
 				<strongs>1072</strongs>
 				<pos>V-ANA</pos>
 				<parse>Verb - Aorist Infinitive Active</parse>
@@ -2082,7 +2082,7 @@
 				<greek>γεμίσαι</greek>
 				<english>to fill</english>
 			</word>
-			<word num="4">
+			<word num="4" id="v16-w4">
 				<strongs>3588</strongs>
 				<pos>Art-AFS</pos>
 				<parse>Article - Accusative Feminine Singular</parse>
@@ -2090,7 +2090,7 @@
 				<greek>τὴν</greek>
 				<english>the</english>
 			</word>
-			<word num="5">
+			<word num="5" id="v16-w5">
 				<strongs>2836</strongs>
 				<pos>N-AFS</pos>
 				<parse>Noun - Accusative Feminine Singular</parse>
@@ -2098,7 +2098,7 @@
 				<greek>κοιλίαν</greek>
 				<english>belly</english>
 			</word>
-			<word num="6">
+			<word num="6" id="v16-w6">
 				<strongs>846</strongs>
 				<pos>PPro-GM3S</pos>
 				<parse>Personal / Possessive Pronoun - Genitive Masculine 3rd Person Singular</parse>
@@ -2106,7 +2106,7 @@
 				<greek>αὐτοῦ</greek>
 				<english>of him</english>
 			</word>
-			<word num="7">
+			<word num="7" id="v16-w7">
 				<strongs>1537</strongs>
 				<pos>Prep</pos>
 				<parse>Preposition</parse>
@@ -2114,7 +2114,7 @@
 				<greek>ἐκ</greek>
 				<english>from</english>
 			</word>
-			<word num="8">
+			<word num="8" id="v16-w8">
 				<strongs>3588</strongs>
 				<pos>Art-GNP</pos>
 				<parse>Article - Genitive Neuter Plural</parse>
@@ -2122,7 +2122,7 @@
 				<greek>τῶν</greek>
 				<english>the</english>
 			</word>
-			<word num="9">
+			<word num="9" id="v16-w9">
 				<strongs>2769</strongs>
 				<pos>N-GNP</pos>
 				<parse>Noun - Genitive Neuter Plural</parse>
@@ -2130,7 +2130,7 @@
 				<greek>κερατίων</greek>
 				<english>pods</english>
 			</word>
-			<word num="10">
+			<word num="10" id="v16-w10">
 				<strongs>3739</strongs>
 				<pos>RelPro-GNP</pos>
 				<parse>Personal / Relative Pronoun - Genitive Neuter Plural</parse>
@@ -2138,7 +2138,7 @@
 				<greek>ὧν</greek>
 				<english>that</english>
 			</word>
-			<word num="11">
+			<word num="11" id="v16-w11">
 				<strongs>2068</strongs>
 				<pos>V-IIA-3P</pos>
 				<parse>Verb - Imperfect Indicative Active - 3rd Person Plural</parse>
@@ -2146,7 +2146,7 @@
 				<greek>ἤσθιον</greek>
 				<english>were eating</english>
 			</word>
-			<word num="12">
+			<word num="12" id="v16-w12">
 				<strongs>3588</strongs>
 				<pos>Art-NMP</pos>
 				<parse>Article - Nominative Masculine Plural</parse>
@@ -2154,7 +2154,7 @@
 				<greek>οἱ</greek>
 				<english>the</english>
 			</word>
-			<word num="13">
+			<word num="13" id="v16-w13">
 				<strongs>5519</strongs>
 				<pos>N-NMP</pos>
 				<parse>Noun - Nominative Masculine Plural</parse>
@@ -2162,7 +2162,7 @@
 				<greek>χοῖροι</greek>
 				<english>pigs</english>
 			</word>
-			<word num="14">
+			<word num="14" id="v16-w14">
 				<strongs>2532</strongs>
 				<pos>Conj</pos>
 				<parse>Conjunction</parse>
@@ -2170,7 +2170,7 @@
 				<greek>καὶ</greek>
 				<english>and</english>
 			</word>
-			<word num="15">
+			<word num="15" id="v16-w15">
 				<strongs>3762</strongs>
 				<pos>Adj-NMS</pos>
 				<parse>Adjective - Nominative Masculine Singular</parse>
@@ -2178,7 +2178,7 @@
 				<greek>οὐδεὶς</greek>
 				<english>no one</english>
 			</word>
-			<word num="16">
+			<word num="16" id="v16-w16">
 				<strongs>1325</strongs>
 				<pos>V-IIA-3S</pos>
 				<parse>Verb - Imperfect Indicative Active - 3rd Person Singular</parse>
@@ -2186,7 +2186,7 @@
 				<greek>ἐδίδου</greek>
 				<english>was giving</english>
 			</word>
-			<word num="17">
+			<word num="17" id="v16-w17">
 				<strongs>846</strongs>
 				<pos>PPro-DM3S</pos>
 				<parse>Personal / Possessive Pronoun - Dative Masculine 3rd Person Singular</parse>
@@ -2195,8 +2195,8 @@
 				<english>to him</english>
 			</word>
 		</verse>
-		<verse num="17">
-			<word num="1">
+		<verse num="17" id="v17">
+			<word num="1" id="v17-w1">
 				<strongs>1519</strongs>
 				<pos>Prep</pos>
 				<parse>Preposition</parse>
@@ -2204,7 +2204,7 @@
 				<greek>Εἰς</greek>
 				<english>To</english>
 			</word>
-			<word num="2">
+			<word num="2" id="v17-w2">
 				<strongs>1438</strongs>
 				<pos>RefPro-AM3S</pos>
 				<parse>Reflexive Pronoun - Accusative Masculine 3rd Person Singular</parse>
@@ -2212,7 +2212,7 @@
 				<greek>ἑαυτὸν</greek>
 				<english>himself</english>
 			</word>
-			<word num="3">
+			<word num="3" id="v17-w3">
 				<strongs>1161</strongs>
 				<pos>Conj</pos>
 				<parse>Conjunction</parse>
@@ -2220,7 +2220,7 @@
 				<greek>δὲ</greek>
 				<english>however</english>
 			</word>
-			<word num="4">
+			<word num="4" id="v17-w4">
 				<strongs>2064</strongs>
 				<pos>V-APA-NMS</pos>
 				<parse>Verb - Aorist Participle Active - Nominative Masculine Singular</parse>
@@ -2228,7 +2228,7 @@
 				<greek>ἐλθὼν</greek>
 				<english>having come</english>
 			</word>
-			<word num="5">
+			<word num="5" id="v17-w5">
 				<strongs>5346</strongs>
 				<pos>V-IIA-3S</pos>
 				<parse>Verb - Imperfect Indicative Active - 3rd Person Singular</parse>
@@ -2236,7 +2236,7 @@
 				<greek>ἔφη</greek>
 				<english>he was saying</english>
 			</word>
-			<word num="6">
+			<word num="6" id="v17-w6">
 				<strongs>4214</strongs>
 				<pos>IPro-NMP</pos>
 				<parse>Interrogative / Indefinite Pronoun - Nominative Masculine Plural</parse>
@@ -2244,7 +2244,7 @@
 				<greek>Πόσοι</greek>
 				<english>How many</english>
 			</word>
-			<word num="7">
+			<word num="7" id="v17-w7">
 				<strongs>3407</strongs>
 				<pos>Adj-NMP</pos>
 				<parse>Adjective - Nominative Masculine Plural</parse>
@@ -2252,7 +2252,7 @@
 				<greek>μίσθιοι</greek>
 				<english>hired servants</english>
 			</word>
-			<word num="8">
+			<word num="8" id="v17-w8">
 				<strongs>3588</strongs>
 				<pos>Art-GMS</pos>
 				<parse>Article - Genitive Masculine Singular</parse>
@@ -2260,7 +2260,7 @@
 				<greek>τοῦ</greek>
 				<english>of the</english>
 			</word>
-			<word num="9">
+			<word num="9" id="v17-w9">
 				<strongs>3962</strongs>
 				<pos>N-GMS</pos>
 				<parse>Noun - Genitive Masculine Singular</parse>
@@ -2268,7 +2268,7 @@
 				<greek>πατρός</greek>
 				<english>father</english>
 			</word>
-			<word num="10">
+			<word num="10" id="v17-w10">
 				<strongs>1473</strongs>
 				<pos>PPro-G1S</pos>
 				<parse>Personal / Possessive Pronoun - Genitive 1st Person Singular</parse>
@@ -2276,7 +2276,7 @@
 				<greek>μου</greek>
 				<english>of me</english>
 			</word>
-			<word num="11">
+			<word num="11" id="v17-w11">
 				<strongs>4052</strongs>
 				<pos>V-PIM-3P</pos>
 				<parse>Verb - Present Indicative Middle - 3rd Person Plural</parse>
@@ -2284,7 +2284,7 @@
 				<greek>περισσεύονται</greek>
 				<english>have abundance</english>
 			</word>
-			<word num="12">
+			<word num="12" id="v17-w12">
 				<strongs>740</strongs>
 				<pos>N-GMP</pos>
 				<parse>Noun - Genitive Masculine Plural</parse>
@@ -2292,7 +2292,7 @@
 				<greek>ἄρτων</greek>
 				<english>of bread</english>
 			</word>
-			<word num="13">
+			<word num="13" id="v17-w13">
 				<strongs>1473</strongs>
 				<pos>PPro-N1S</pos>
 				<parse>Personal / Possessive Pronoun - Nominative 1st Person Singular</parse>
@@ -2300,7 +2300,7 @@
 				<greek>ἐγὼ</greek>
 				<english>I</english>
 			</word>
-			<word num="14">
+			<word num="14" id="v17-w14">
 				<strongs>1161</strongs>
 				<pos>Conj</pos>
 				<parse>Conjunction</parse>
@@ -2308,7 +2308,7 @@
 				<greek>δὲ</greek>
 				<english>however</english>
 			</word>
-			<word num="15">
+			<word num="15" id="v17-w15">
 				<strongs>3042</strongs>
 				<pos>N-DFS</pos>
 				<parse>Noun - Dative Feminine Singular</parse>
@@ -2316,7 +2316,7 @@
 				<greek>λιμῷ</greek>
 				<english>with hunger</english>
 			</word>
-			<word num="16">
+			<word num="16" id="v17-w16">
 				<strongs>5602</strongs>
 				<pos>Adv</pos>
 				<parse>Adverb</parse>
@@ -2324,7 +2324,7 @@
 				<greek>ὧδε</greek>
 				<english>here</english>
 			</word>
-			<word num="17">
+			<word num="17" id="v17-w17">
 				<strongs>622</strongs>
 				<pos>V-PIM-1S</pos>
 				<parse>Verb - Present Indicative Middle - 1st Person Singular</parse>
@@ -2333,8 +2333,8 @@
 				<english>am perishing</english>
 			</word>
 		</verse>
-		<verse num="18">
-			<word num="1">
+		<verse num="18" id="v18">
+			<word num="1" id="v18-w1">
 				<strongs>450</strongs>
 				<pos>V-APA-NMS</pos>
 				<parse>Verb - Aorist Participle Active - Nominative Masculine Singular</parse>
@@ -2342,7 +2342,7 @@
 				<greek>ἀναστὰς</greek>
 				<english>Having risen up</english>
 			</word>
-			<word num="2">
+			<word num="2" id="v18-w2">
 				<strongs>4198</strongs>
 				<pos>V-FIM-1S</pos>
 				<parse>Verb - Future Indicative Middle - 1st Person Singular</parse>
@@ -2350,7 +2350,7 @@
 				<greek>πορεύσομαι</greek>
 				<english>I will go</english>
 			</word>
-			<word num="3">
+			<word num="3" id="v18-w3">
 				<strongs>4314</strongs>
 				<pos>Prep</pos>
 				<parse>Preposition</parse>
@@ -2358,7 +2358,7 @@
 				<greek>πρὸς</greek>
 				<english>to</english>
 			</word>
-			<word num="4">
+			<word num="4" id="v18-w4">
 				<strongs>3588</strongs>
 				<pos>Art-AMS</pos>
 				<parse>Article - Accusative Masculine Singular</parse>
@@ -2366,7 +2366,7 @@
 				<greek>τὸν</greek>
 				<english>the</english>
 			</word>
-			<word num="5">
+			<word num="5" id="v18-w5">
 				<strongs>3962</strongs>
 				<pos>N-AMS</pos>
 				<parse>Noun - Accusative Masculine Singular</parse>
@@ -2374,7 +2374,7 @@
 				<greek>πατέρα</greek>
 				<english>father</english>
 			</word>
-			<word num="6">
+			<word num="6" id="v18-w6">
 				<strongs>1473</strongs>
 				<pos>PPro-G1S</pos>
 				<parse>Personal / Possessive Pronoun - Genitive 1st Person Singular</parse>
@@ -2382,7 +2382,7 @@
 				<greek>μου</greek>
 				<english>of me</english>
 			</word>
-			<word num="7">
+			<word num="7" id="v18-w7">
 				<strongs>2532</strongs>
 				<pos>Conj</pos>
 				<parse>Conjunction</parse>
@@ -2390,7 +2390,7 @@
 				<greek>καὶ</greek>
 				<english>and</english>
 			</word>
-			<word num="8">
+			<word num="8" id="v18-w8">
 				<strongs>2046</strongs>
 				<pos>V-FIA-1S</pos>
 				<parse>Verb - Future Indicative Active - 1st Person Singular</parse>
@@ -2398,7 +2398,7 @@
 				<greek>ἐρῶ</greek>
 				<english>I will say</english>
 			</word>
-			<word num="9">
+			<word num="9" id="v18-w9">
 				<strongs>846</strongs>
 				<pos>PPro-DM3S</pos>
 				<parse>Personal / Possessive Pronoun - Dative Masculine 3rd Person Singular</parse>
@@ -2406,7 +2406,7 @@
 				<greek>αὐτῷ</greek>
 				<english>to him</english>
 			</word>
-			<word num="10">
+			<word num="10" id="v18-w10">
 				<strongs>3962</strongs>
 				<pos>N-VMS</pos>
 				<parse>Noun - Vocative Masculine Singular</parse>
@@ -2414,7 +2414,7 @@
 				<greek>Πάτερ</greek>
 				<english>Father</english>
 			</word>
-			<word num="11">
+			<word num="11" id="v18-w11">
 				<strongs>264</strongs>
 				<pos>V-AIA-1S</pos>
 				<parse>Verb - Aorist Indicative Active - 1st Person Singular</parse>
@@ -2422,7 +2422,7 @@
 				<greek>ἥμαρτον</greek>
 				<english>I have sinned</english>
 			</word>
-			<word num="12">
+			<word num="12" id="v18-w12">
 				<strongs>1519</strongs>
 				<pos>Prep</pos>
 				<parse>Preposition</parse>
@@ -2430,7 +2430,7 @@
 				<greek>εἰς</greek>
 				<english>against</english>
 			</word>
-			<word num="13">
+			<word num="13" id="v18-w13">
 				<strongs>3588</strongs>
 				<pos>Art-AMS</pos>
 				<parse>Article - Accusative Masculine Singular</parse>
@@ -2438,7 +2438,7 @@
 				<greek>τὸν</greek>
 				<english> - </english>
 			</word>
-			<word num="14">
+			<word num="14" id="v18-w14">
 				<strongs>3772</strongs>
 				<pos>N-AMS</pos>
 				<parse>Noun - Accusative Masculine Singular</parse>
@@ -2446,7 +2446,7 @@
 				<greek>οὐρανὸν</greek>
 				<english>heaven</english>
 			</word>
-			<word num="15">
+			<word num="15" id="v18-w15">
 				<strongs>2532</strongs>
 				<pos>Conj</pos>
 				<parse>Conjunction</parse>
@@ -2454,7 +2454,7 @@
 				<greek>καὶ</greek>
 				<english>and</english>
 			</word>
-			<word num="16">
+			<word num="16" id="v18-w16">
 				<strongs>1799</strongs>
 				<pos>Prep</pos>
 				<parse>Preposition</parse>
@@ -2462,7 +2462,7 @@
 				<greek>ἐνώπιόν</greek>
 				<english>before</english>
 			</word>
-			<word num="17">
+			<word num="17" id="v18-w17">
 				<strongs>4771</strongs>
 				<pos>PPro-G2S</pos>
 				<parse>Personal / Possessive Pronoun - Genitive 2nd Person Singular</parse>
@@ -2471,8 +2471,8 @@
 				<english>you</english>
 			</word>
 		</verse>
-		<verse num="19">
-			<word num="1">
+		<verse num="19" id="v19">
+			<word num="1" id="v19-w1">
 				<strongs>3765</strongs>
 				<pos>Adv</pos>
 				<parse>Adverb</parse>
@@ -2480,7 +2480,7 @@
 				<greek>οὐκέτι</greek>
 				<english>no longer</english>
 			</word>
-			<word num="2">
+			<word num="2" id="v19-w2">
 				<strongs>1510</strongs>
 				<pos>V-PIA-1S</pos>
 				<parse>Verb - Present Indicative Active - 1st Person Singular</parse>
@@ -2488,7 +2488,7 @@
 				<greek>εἰμὶ</greek>
 				<english>am I</english>
 			</word>
-			<word num="3">
+			<word num="3" id="v19-w3">
 				<strongs>514</strongs>
 				<pos>Adj-NMS</pos>
 				<parse>Adjective - Nominative Masculine Singular</parse>
@@ -2496,7 +2496,7 @@
 				<greek>ἄξιος</greek>
 				<english>worthy</english>
 			</word>
-			<word num="4">
+			<word num="4" id="v19-w4">
 				<strongs>2564</strongs>
 				<pos>V-ANP</pos>
 				<parse>Verb - Aorist Infinitive Passive</parse>
@@ -2504,7 +2504,7 @@
 				<greek>κληθῆναι</greek>
 				<english>to be called</english>
 			</word>
-			<word num="5">
+			<word num="5" id="v19-w5">
 				<strongs>5207</strongs>
 				<pos>N-NMS</pos>
 				<parse>Noun - Nominative Masculine Singular</parse>
@@ -2512,7 +2512,7 @@
 				<greek>υἱός</greek>
 				<english>son</english>
 			</word>
-			<word num="6">
+			<word num="6" id="v19-w6">
 				<strongs>4771</strongs>
 				<pos>PPro-G2S</pos>
 				<parse>Personal / Possessive Pronoun - Genitive 2nd Person Singular</parse>
@@ -2520,7 +2520,7 @@
 				<greek>σου</greek>
 				<english>of you</english>
 			</word>
-			<word num="7">
+			<word num="7" id="v19-w7">
 				<strongs>4160</strongs>
 				<pos>V-AMA-2S</pos>
 				<parse>Verb - Aorist Imperative Active - 2nd Person Singular</parse>
@@ -2528,7 +2528,7 @@
 				<greek>ποίησόν</greek>
 				<english>Make</english>
 			</word>
-			<word num="8">
+			<word num="8" id="v19-w8">
 				<strongs>1473</strongs>
 				<pos>PPro-A1S</pos>
 				<parse>Personal / Possessive Pronoun - Accusative 1st Person Singular</parse>
@@ -2536,7 +2536,7 @@
 				<greek>με</greek>
 				<english>me</english>
 			</word>
-			<word num="9">
+			<word num="9" id="v19-w9">
 				<strongs>5613</strongs>
 				<pos>Adv</pos>
 				<parse>Adverb</parse>
@@ -2544,7 +2544,7 @@
 				<greek>ὡς</greek>
 				<english>like</english>
 			</word>
-			<word num="10">
+			<word num="10" id="v19-w10">
 				<strongs>1520</strongs>
 				<pos>Adj-AMS</pos>
 				<parse>Adjective - Accusative Masculine Singular</parse>
@@ -2552,7 +2552,7 @@
 				<greek>ἕνα</greek>
 				<english>one</english>
 			</word>
-			<word num="11">
+			<word num="11" id="v19-w11">
 				<strongs>3588</strongs>
 				<pos>Art-GMP</pos>
 				<parse>Article - Genitive Masculine Plural</parse>
@@ -2560,7 +2560,7 @@
 				<greek>τῶν</greek>
 				<english>of the</english>
 			</word>
-			<word num="12">
+			<word num="12" id="v19-w12">
 				<strongs>3407</strongs>
 				<pos>Adj-GMP</pos>
 				<parse>Adjective - Genitive Masculine Plural</parse>
@@ -2568,7 +2568,7 @@
 				<greek>μισθίων</greek>
 				<english>servants</english>
 			</word>
-			<word num="13">
+			<word num="13" id="v19-w13">
 				<strongs>4771</strongs>
 				<pos>PPro-G2S</pos>
 				<parse>Personal / Possessive Pronoun - Genitive 2nd Person Singular</parse>
@@ -2577,8 +2577,8 @@
 				<english>of you</english>
 			</word>
 		</verse>
-		<verse num="20">
-			<word num="1">
+		<verse num="20" id="v20">
+			<word num="1" id="v20-w1">
 				<strongs>2532</strongs>
 				<pos>Conj</pos>
 				<parse>Conjunction</parse>
@@ -2586,7 +2586,7 @@
 				<greek>Καὶ</greek>
 				<english>And</english>
 			</word>
-			<word num="2">
+			<word num="2" id="v20-w2">
 				<strongs>450</strongs>
 				<pos>V-APA-NMS</pos>
 				<parse>Verb - Aorist Participle Active - Nominative Masculine Singular</parse>
@@ -2594,7 +2594,7 @@
 				<greek>ἀναστὰς</greek>
 				<english>having risen up</english>
 			</word>
-			<word num="3">
+			<word num="3" id="v20-w3">
 				<strongs>2064</strongs>
 				<pos>V-AIA-3S</pos>
 				<parse>Verb - Aorist Indicative Active - 3rd Person Singular</parse>
@@ -2602,7 +2602,7 @@
 				<greek>ἦλθεν</greek>
 				<english>he went</english>
 			</word>
-			<word num="4">
+			<word num="4" id="v20-w4">
 				<strongs>4314</strongs>
 				<pos>Prep</pos>
 				<parse>Preposition</parse>
@@ -2610,7 +2610,7 @@
 				<greek>πρὸς</greek>
 				<english>to</english>
 			</word>
-			<word num="5">
+			<word num="5" id="v20-w5">
 				<strongs>3588</strongs>
 				<pos>Art-AMS</pos>
 				<parse>Article - Accusative Masculine Singular</parse>
@@ -2618,7 +2618,7 @@
 				<greek>τὸν</greek>
 				<english>the</english>
 			</word>
-			<word num="6">
+			<word num="6" id="v20-w6">
 				<strongs>3962</strongs>
 				<pos>N-AMS</pos>
 				<parse>Noun - Accusative Masculine Singular</parse>
@@ -2626,7 +2626,7 @@
 				<greek>πατέρα</greek>
 				<english>father</english>
 			</word>
-			<word num="7">
+			<word num="7" id="v20-w7">
 				<strongs>1438</strongs>
 				<pos>RefPro-GM3S</pos>
 				<parse>Reflexive Pronoun - Genitive Masculine 3rd Person Singular</parse>
@@ -2634,7 +2634,7 @@
 				<greek>ἑαυτοῦ</greek>
 				<english>of himself</english>
 			</word>
-			<word num="8">
+			<word num="8" id="v20-w8">
 				<strongs>2089</strongs>
 				<pos>Adv</pos>
 				<parse>Adverb</parse>
@@ -2642,7 +2642,7 @@
 				<greek>ἔτι</greek>
 				<english>Still</english>
 			</word>
-			<word num="9">
+			<word num="9" id="v20-w9">
 				<strongs>1161</strongs>
 				<pos>Conj</pos>
 				<parse>Conjunction</parse>
@@ -2650,7 +2650,7 @@
 				<greek>δὲ</greek>
 				<english>now</english>
 			</word>
-			<word num="10">
+			<word num="10" id="v20-w10">
 				<strongs>846</strongs>
 				<pos>PPro-GM3S</pos>
 				<parse>Personal / Possessive Pronoun - Genitive Masculine 3rd Person Singular</parse>
@@ -2658,7 +2658,7 @@
 				<greek>αὐτοῦ</greek>
 				<english>he</english>
 			</word>
-			<word num="11">
+			<word num="11" id="v20-w11">
 				<strongs>3112</strongs>
 				<pos>Adj-AFS</pos>
 				<parse>Adjective - Accusative Feminine Singular</parse>
@@ -2666,7 +2666,7 @@
 				<greek>μακρὰν</greek>
 				<english>far</english>
 			</word>
-			<word num="12">
+			<word num="12" id="v20-w12">
 				<strongs>568</strongs>
 				<pos>V-PPA-GMS</pos>
 				<parse>Verb - Present Participle Active - Genitive Masculine Singular</parse>
@@ -2674,7 +2674,7 @@
 				<greek>ἀπέχοντος</greek>
 				<english>being distant</english>
 			</word>
-			<word num="13">
+			<word num="13" id="v20-w13">
 				<strongs>3708</strongs>
 				<pos>V-AIA-3S</pos>
 				<parse>Verb - Aorist Indicative Active - 3rd Person Singular</parse>
@@ -2682,7 +2682,7 @@
 				<greek>εἶδεν</greek>
 				<english>saw</english>
 			</word>
-			<word num="14">
+			<word num="14" id="v20-w14">
 				<strongs>846</strongs>
 				<pos>PPro-AM3S</pos>
 				<parse>Personal / Possessive Pronoun - Accusative Masculine 3rd Person Singular</parse>
@@ -2690,7 +2690,7 @@
 				<greek>αὐτὸν</greek>
 				<english>him</english>
 			</word>
-			<word num="15">
+			<word num="15" id="v20-w15">
 				<strongs>3588</strongs>
 				<pos>Art-NMS</pos>
 				<parse>Article - Nominative Masculine Singular</parse>
@@ -2698,7 +2698,7 @@
 				<greek>ὁ</greek>
 				<english>the</english>
 			</word>
-			<word num="16">
+			<word num="16" id="v20-w16">
 				<strongs>3962</strongs>
 				<pos>N-NMS</pos>
 				<parse>Noun - Nominative Masculine Singular</parse>
@@ -2706,7 +2706,7 @@
 				<greek>πατὴρ</greek>
 				<english>father</english>
 			</word>
-			<word num="17">
+			<word num="17" id="v20-w17">
 				<strongs>846</strongs>
 				<pos>PPro-GM3S</pos>
 				<parse>Personal / Possessive Pronoun - Genitive Masculine 3rd Person Singular</parse>
@@ -2714,7 +2714,7 @@
 				<greek>αὐτοῦ</greek>
 				<english>of him</english>
 			</word>
-			<word num="18">
+			<word num="18" id="v20-w18">
 				<strongs>2532</strongs>
 				<pos>Conj</pos>
 				<parse>Conjunction</parse>
@@ -2722,7 +2722,7 @@
 				<greek>καὶ</greek>
 				<english>and</english>
 			</word>
-			<word num="19">
+			<word num="19" id="v20-w19">
 				<strongs>4697</strongs>
 				<pos>V-AIP-3S</pos>
 				<parse>Verb - Aorist Indicative Passive - 3rd Person Singular</parse>
@@ -2730,7 +2730,7 @@
 				<greek>ἐσπλαγχνίσθη</greek>
 				<english>was moved with compassion</english>
 			</word>
-			<word num="20">
+			<word num="20" id="v20-w20">
 				<strongs>2532</strongs>
 				<pos>Conj</pos>
 				<parse>Conjunction</parse>
@@ -2738,7 +2738,7 @@
 				<greek>καὶ</greek>
 				<english>and</english>
 			</word>
-			<word num="21">
+			<word num="21" id="v20-w21">
 				<strongs>5143</strongs>
 				<pos>V-APA-NMS</pos>
 				<parse>Verb - Aorist Participle Active - Nominative Masculine Singular</parse>
@@ -2746,7 +2746,7 @@
 				<greek>δραμὼν</greek>
 				<english>having run</english>
 			</word>
-			<word num="22">
+			<word num="22" id="v20-w22">
 				<strongs>1968</strongs>
 				<pos>V-AIA-3S</pos>
 				<parse>Verb - Aorist Indicative Active - 3rd Person Singular</parse>
@@ -2754,7 +2754,7 @@
 				<greek>ἐπέπεσεν</greek>
 				<english>fell</english>
 			</word>
-			<word num="23">
+			<word num="23" id="v20-w23">
 				<strongs>1909</strongs>
 				<pos>Prep</pos>
 				<parse>Preposition</parse>
@@ -2762,7 +2762,7 @@
 				<greek>ἐπὶ</greek>
 				<english>upon</english>
 			</word>
-			<word num="24">
+			<word num="24" id="v20-w24">
 				<strongs>3588</strongs>
 				<pos>Art-AMS</pos>
 				<parse>Article - Accusative Masculine Singular</parse>
@@ -2770,7 +2770,7 @@
 				<greek>τὸν</greek>
 				<english>the</english>
 			</word>
-			<word num="25">
+			<word num="25" id="v20-w25">
 				<strongs>5137</strongs>
 				<pos>N-AMS</pos>
 				<parse>Noun - Accusative Masculine Singular</parse>
@@ -2778,7 +2778,7 @@
 				<greek>τράχηλον</greek>
 				<english>neck</english>
 			</word>
-			<word num="26">
+			<word num="26" id="v20-w26">
 				<strongs>846</strongs>
 				<pos>PPro-GM3S</pos>
 				<parse>Personal / Possessive Pronoun - Genitive Masculine 3rd Person Singular</parse>
@@ -2786,7 +2786,7 @@
 				<greek>αὐτοῦ</greek>
 				<english>of him</english>
 			</word>
-			<word num="27">
+			<word num="27" id="v20-w27">
 				<strongs>2532</strongs>
 				<pos>Conj</pos>
 				<parse>Conjunction</parse>
@@ -2794,7 +2794,7 @@
 				<greek>καὶ</greek>
 				<english>and</english>
 			</word>
-			<word num="28">
+			<word num="28" id="v20-w28">
 				<strongs>2705</strongs>
 				<pos>V-AIA-3S</pos>
 				<parse>Verb - Aorist Indicative Active - 3rd Person Singular</parse>
@@ -2802,7 +2802,7 @@
 				<greek>κατεφίλησεν</greek>
 				<english>kissed</english>
 			</word>
-			<word num="29">
+			<word num="29" id="v20-w29">
 				<strongs>846</strongs>
 				<pos>PPro-AM3S</pos>
 				<parse>Personal / Possessive Pronoun - Accusative Masculine 3rd Person Singular</parse>
@@ -2811,8 +2811,8 @@
 				<english>him</english>
 			</word>
 		</verse>
-		<verse num="21">
-			<word num="1">
+		<verse num="21" id="v21">
+			<word num="1" id="v21-w1">
 				<strongs>2036</strongs>
 				<pos>V-AIA-3S</pos>
 				<parse>Verb - Aorist Indicative Active - 3rd Person Singular</parse>
@@ -2820,7 +2820,7 @@
 				<greek>Εἶπεν</greek>
 				<english>Said</english>
 			</word>
-			<word num="2">
+			<word num="2" id="v21-w2">
 				<strongs>1161</strongs>
 				<pos>Conj</pos>
 				<parse>Conjunction</parse>
@@ -2828,7 +2828,7 @@
 				<greek>δὲ</greek>
 				<english>then</english>
 			</word>
-			<word num="3">
+			<word num="3" id="v21-w3">
 				<strongs>3588</strongs>
 				<pos>Art-NMS</pos>
 				<parse>Article - Nominative Masculine Singular</parse>
@@ -2836,7 +2836,7 @@
 				<greek>ὁ</greek>
 				<english>the</english>
 			</word>
-			<word num="4">
+			<word num="4" id="v21-w4">
 				<strongs>5207</strongs>
 				<pos>N-NMS</pos>
 				<parse>Noun - Nominative Masculine Singular</parse>
@@ -2844,7 +2844,7 @@
 				<greek>υἱὸς</greek>
 				<english>son</english>
 			</word>
-			<word num="5">
+			<word num="5" id="v21-w5">
 				<strongs>846</strongs>
 				<pos>PPro-DM3S</pos>
 				<parse>Personal / Possessive Pronoun - Dative Masculine 3rd Person Singular</parse>
@@ -2852,7 +2852,7 @@
 				<greek>αὐτῷ</greek>
 				<english>to him</english>
 			</word>
-			<word num="6">
+			<word num="6" id="v21-w6">
 				<strongs>3962</strongs>
 				<pos>N-VMS</pos>
 				<parse>Noun - Vocative Masculine Singular</parse>
@@ -2860,7 +2860,7 @@
 				<greek>Πάτερ</greek>
 				<english>Father</english>
 			</word>
-			<word num="7">
+			<word num="7" id="v21-w7">
 				<strongs>264</strongs>
 				<pos>V-AIA-1S</pos>
 				<parse>Verb - Aorist Indicative Active - 1st Person Singular</parse>
@@ -2868,7 +2868,7 @@
 				<greek>ἥμαρτον</greek>
 				<english>I have sinned</english>
 			</word>
-			<word num="8">
+			<word num="8" id="v21-w8">
 				<strongs>1519</strongs>
 				<pos>Prep</pos>
 				<parse>Preposition</parse>
@@ -2876,7 +2876,7 @@
 				<greek>εἰς</greek>
 				<english>against</english>
 			</word>
-			<word num="9">
+			<word num="9" id="v21-w9">
 				<strongs>3588</strongs>
 				<pos>Art-AMS</pos>
 				<parse>Article - Accusative Masculine Singular</parse>
@@ -2884,7 +2884,7 @@
 				<greek>τὸν</greek>
 				<english> - </english>
 			</word>
-			<word num="10">
+			<word num="10" id="v21-w10">
 				<strongs>3772</strongs>
 				<pos>N-AMS</pos>
 				<parse>Noun - Accusative Masculine Singular</parse>
@@ -2892,7 +2892,7 @@
 				<greek>οὐρανὸν</greek>
 				<english>heaven</english>
 			</word>
-			<word num="11">
+			<word num="11" id="v21-w11">
 				<strongs>2532</strongs>
 				<pos>Conj</pos>
 				<parse>Conjunction</parse>
@@ -2900,7 +2900,7 @@
 				<greek>καὶ</greek>
 				<english>and</english>
 			</word>
-			<word num="12">
+			<word num="12" id="v21-w12">
 				<strongs>1799</strongs>
 				<pos>Prep</pos>
 				<parse>Preposition</parse>
@@ -2908,7 +2908,7 @@
 				<greek>ἐνώπιόν</greek>
 				<english>before</english>
 			</word>
-			<word num="13">
+			<word num="13" id="v21-w13">
 				<strongs>4771</strongs>
 				<pos>PPro-G2S</pos>
 				<parse>Personal / Possessive Pronoun - Genitive 2nd Person Singular</parse>
@@ -2916,7 +2916,7 @@
 				<greek>σου</greek>
 				<english>you</english>
 			</word>
-			<word num="14">
+			<word num="14" id="v21-w14">
 				<strongs>3765</strongs>
 				<pos>Adv</pos>
 				<parse>Adverb</parse>
@@ -2924,7 +2924,7 @@
 				<greek>οὐκέτι</greek>
 				<english>no longer</english>
 			</word>
-			<word num="15">
+			<word num="15" id="v21-w15">
 				<strongs>1510</strongs>
 				<pos>V-PIA-1S</pos>
 				<parse>Verb - Present Indicative Active - 1st Person Singular</parse>
@@ -2932,7 +2932,7 @@
 				<greek>εἰμὶ</greek>
 				<english>am I</english>
 			</word>
-			<word num="16">
+			<word num="16" id="v21-w16">
 				<strongs>514</strongs>
 				<pos>Adj-NMS</pos>
 				<parse>Adjective - Nominative Masculine Singular</parse>
@@ -2940,7 +2940,7 @@
 				<greek>ἄξιος</greek>
 				<english>worthy</english>
 			</word>
-			<word num="17">
+			<word num="17" id="v21-w17">
 				<strongs>2564</strongs>
 				<pos>V-ANP</pos>
 				<parse>Verb - Aorist Infinitive Passive</parse>
@@ -2948,7 +2948,7 @@
 				<greek>κληθῆναι</greek>
 				<english>to be called</english>
 			</word>
-			<word num="18">
+			<word num="18" id="v21-w18">
 				<strongs>5207</strongs>
 				<pos>N-NMS</pos>
 				<parse>Noun - Nominative Masculine Singular</parse>
@@ -2956,7 +2956,7 @@
 				<greek>υἱός</greek>
 				<english>son</english>
 			</word>
-			<word num="19">
+			<word num="19" id="v21-w19">
 				<strongs>4771</strongs>
 				<pos>PPro-G2S</pos>
 				<parse>Personal / Possessive Pronoun - Genitive 2nd Person Singular</parse>
@@ -2964,7 +2964,7 @@
 				<greek>σου</greek>
 				<english>of you</english>
 			</word>
-			<word num="20">
+			<word num="20" id="v21-w20">
 				<strongs>4160</strongs>
 				<pos>V-AMA-2S</pos>
 				<parse>Verb - Aorist Imperative Active - 2nd Person Singular</parse>
@@ -2972,7 +2972,7 @@
 				<greek>(ποίησόν</greek>
 				<english>make</english>
 			</word>
-			<word num="21">
+			<word num="21" id="v21-w21">
 				<strongs>1473</strongs>
 				<pos>PPro-A1S</pos>
 				<parse>Personal / Possessive Pronoun - Accusative 1st Person Singular</parse>
@@ -2980,7 +2980,7 @@
 				<greek>με</greek>
 				<english>me</english>
 			</word>
-			<word num="22">
+			<word num="22" id="v21-w22">
 				<strongs>5613</strongs>
 				<pos>Adv</pos>
 				<parse>Adverb</parse>
@@ -2988,7 +2988,7 @@
 				<greek>ὡς</greek>
 				<english>as</english>
 			</word>
-			<word num="23">
+			<word num="23" id="v21-w23">
 				<strongs>1520</strongs>
 				<pos>Adj-AMS</pos>
 				<parse>Adjective - Accusative Masculine Singular</parse>
@@ -2996,7 +2996,7 @@
 				<greek>ἕνα</greek>
 				<english>one</english>
 			</word>
-			<word num="24">
+			<word num="24" id="v21-w24">
 				<strongs>3588</strongs>
 				<pos>Art-GMP</pos>
 				<parse>Article - Genitive Masculine Plural</parse>
@@ -3004,7 +3004,7 @@
 				<greek>τῶν</greek>
 				<english>of the</english>
 			</word>
-			<word num="25">
+			<word num="25" id="v21-w25">
 				<strongs>3407</strongs>
 				<pos>Adj-GMP</pos>
 				<parse>Adjective - Genitive Masculine Plural</parse>
@@ -3012,7 +3012,7 @@
 				<greek>μισθίων</greek>
 				<english>hired servants</english>
 			</word>
-			<word num="26">
+			<word num="26" id="v21-w26">
 				<strongs>4771</strongs>
 				<pos>PPro-G2S</pos>
 				<parse>Personal / Possessive Pronoun - Genitive 2nd Person Singular</parse>
@@ -3021,8 +3021,8 @@
 				<english>of you</english>
 			</word>
 		</verse>
-		<verse num="22">
-			<word num="1">
+		<verse num="22" id="v22">
+			<word num="1" id="v22-w1">
 				<strongs>2036</strongs>
 				<pos>V-AIA-3S</pos>
 				<parse>Verb - Aorist Indicative Active - 3rd Person Singular</parse>
@@ -3030,7 +3030,7 @@
 				<greek>Εἶπεν</greek>
 				<english>Said</english>
 			</word>
-			<word num="2">
+			<word num="2" id="v22-w2">
 				<strongs>1161</strongs>
 				<pos>Conj</pos>
 				<parse>Conjunction</parse>
@@ -3038,7 +3038,7 @@
 				<greek>δὲ</greek>
 				<english>then</english>
 			</word>
-			<word num="3">
+			<word num="3" id="v22-w3">
 				<strongs>3588</strongs>
 				<pos>Art-NMS</pos>
 				<parse>Article - Nominative Masculine Singular</parse>
@@ -3046,7 +3046,7 @@
 				<greek>ὁ</greek>
 				<english>the</english>
 			</word>
-			<word num="4">
+			<word num="4" id="v22-w4">
 				<strongs>3962</strongs>
 				<pos>N-NMS</pos>
 				<parse>Noun - Nominative Masculine Singular</parse>
@@ -3054,7 +3054,7 @@
 				<greek>πατὴρ</greek>
 				<english>father</english>
 			</word>
-			<word num="5">
+			<word num="5" id="v22-w5">
 				<strongs>4314</strongs>
 				<pos>Prep</pos>
 				<parse>Preposition</parse>
@@ -3062,7 +3062,7 @@
 				<greek>πρὸς</greek>
 				<english>to</english>
 			</word>
-			<word num="6">
+			<word num="6" id="v22-w6">
 				<strongs>3588</strongs>
 				<pos>Art-AMP</pos>
 				<parse>Article - Accusative Masculine Plural</parse>
@@ -3070,7 +3070,7 @@
 				<greek>τοὺς</greek>
 				<english>the</english>
 			</word>
-			<word num="7">
+			<word num="7" id="v22-w7">
 				<strongs>1401</strongs>
 				<pos>N-AMP</pos>
 				<parse>Noun - Accusative Masculine Plural</parse>
@@ -3078,7 +3078,7 @@
 				<greek>δούλους</greek>
 				<english>servants</english>
 			</word>
-			<word num="8">
+			<word num="8" id="v22-w8">
 				<strongs>846</strongs>
 				<pos>PPro-GM3S</pos>
 				<parse>Personal / Possessive Pronoun - Genitive Masculine 3rd Person Singular</parse>
@@ -3086,7 +3086,7 @@
 				<greek>αὐτοῦ</greek>
 				<english>of him</english>
 			</word>
-			<word num="9">
+			<word num="9" id="v22-w9">
 				<strongs>5035</strongs>
 				<pos>Adv</pos>
 				<parse>Adverb</parse>
@@ -3094,7 +3094,7 @@
 				<greek>Ταχὺ</greek>
 				<english>Quickly</english>
 			</word>
-			<word num="10">
+			<word num="10" id="v22-w10">
 				<strongs>1627</strongs>
 				<pos>V-AMA-2P</pos>
 				<parse>Verb - Aorist Imperative Active - 2nd Person Plural</parse>
@@ -3102,7 +3102,7 @@
 				<greek>ἐξενέγκατε</greek>
 				<english>bring out</english>
 			</word>
-			<word num="11">
+			<word num="11" id="v22-w11">
 				<strongs>4749</strongs>
 				<pos>N-AFS</pos>
 				<parse>Noun - Accusative Feminine Singular</parse>
@@ -3110,7 +3110,7 @@
 				<greek>στολὴν</greek>
 				<english>robe</english>
 			</word>
-			<word num="12">
+			<word num="12" id="v22-w12">
 				<strongs>3588</strongs>
 				<pos>Art-AFS</pos>
 				<parse>Article - Accusative Feminine Singular</parse>
@@ -3118,7 +3118,7 @@
 				<greek>τὴν</greek>
 				<english>the</english>
 			</word>
-			<word num="13">
+			<word num="13" id="v22-w13">
 				<strongs>4413</strongs>
 				<pos>Adj-AFS</pos>
 				<parse>Adjective - Accusative Feminine Singular</parse>
@@ -3126,7 +3126,7 @@
 				<greek>πρώτην</greek>
 				<english>best</english>
 			</word>
-			<word num="14">
+			<word num="14" id="v22-w14">
 				<strongs>2532</strongs>
 				<pos>Conj</pos>
 				<parse>Conjunction</parse>
@@ -3134,7 +3134,7 @@
 				<greek>καὶ</greek>
 				<english>and</english>
 			</word>
-			<word num="15">
+			<word num="15" id="v22-w15">
 				<strongs>1746</strongs>
 				<pos>V-AMA-2P</pos>
 				<parse>Verb - Aorist Imperative Active - 2nd Person Plural</parse>
@@ -3142,7 +3142,7 @@
 				<greek>ἐνδύσατε</greek>
 				<english>clothe</english>
 			</word>
-			<word num="16">
+			<word num="16" id="v22-w16">
 				<strongs>846</strongs>
 				<pos>PPro-AM3S</pos>
 				<parse>Personal / Possessive Pronoun - Accusative Masculine 3rd Person Singular</parse>
@@ -3150,7 +3150,7 @@
 				<greek>αὐτόν</greek>
 				<english>him</english>
 			</word>
-			<word num="17">
+			<word num="17" id="v22-w17">
 				<strongs>2532</strongs>
 				<pos>Conj</pos>
 				<parse>Conjunction</parse>
@@ -3158,7 +3158,7 @@
 				<greek>καὶ</greek>
 				<english>and</english>
 			</word>
-			<word num="18">
+			<word num="18" id="v22-w18">
 				<strongs>1325</strongs>
 				<pos>V-AMA-2P</pos>
 				<parse>Verb - Aorist Imperative Active - 2nd Person Plural</parse>
@@ -3166,7 +3166,7 @@
 				<greek>δότε</greek>
 				<english>give</english>
 			</word>
-			<word num="19">
+			<word num="19" id="v22-w19">
 				<strongs>1146</strongs>
 				<pos>N-AMS</pos>
 				<parse>Noun - Accusative Masculine Singular</parse>
@@ -3174,7 +3174,7 @@
 				<greek>δακτύλιον</greek>
 				<english>a ring</english>
 			</word>
-			<word num="20">
+			<word num="20" id="v22-w20">
 				<strongs>1519</strongs>
 				<pos>Prep</pos>
 				<parse>Preposition</parse>
@@ -3182,7 +3182,7 @@
 				<greek>εἰς</greek>
 				<english>for</english>
 			</word>
-			<word num="21">
+			<word num="21" id="v22-w21">
 				<strongs>3588</strongs>
 				<pos>Art-AFS</pos>
 				<parse>Article - Accusative Feminine Singular</parse>
@@ -3190,7 +3190,7 @@
 				<greek>τὴν</greek>
 				<english>the</english>
 			</word>
-			<word num="22">
+			<word num="22" id="v22-w22">
 				<strongs>5495</strongs>
 				<pos>N-AFS</pos>
 				<parse>Noun - Accusative Feminine Singular</parse>
@@ -3198,7 +3198,7 @@
 				<greek>χεῖρα</greek>
 				<english>hand</english>
 			</word>
-			<word num="23">
+			<word num="23" id="v22-w23">
 				<strongs>846</strongs>
 				<pos>PPro-GM3S</pos>
 				<parse>Personal / Possessive Pronoun - Genitive Masculine 3rd Person Singular</parse>
@@ -3206,7 +3206,7 @@
 				<greek>αὐτοῦ</greek>
 				<english>of him</english>
 			</word>
-			<word num="24">
+			<word num="24" id="v22-w24">
 				<strongs>2532</strongs>
 				<pos>Conj</pos>
 				<parse>Conjunction</parse>
@@ -3214,7 +3214,7 @@
 				<greek>καὶ</greek>
 				<english>and</english>
 			</word>
-			<word num="25">
+			<word num="25" id="v22-w25">
 				<strongs>5266</strongs>
 				<pos>N-ANP</pos>
 				<parse>Noun - Accusative Neuter Plural</parse>
@@ -3222,7 +3222,7 @@
 				<greek>ὑποδήματα</greek>
 				<english>sandals</english>
 			</word>
-			<word num="26">
+			<word num="26" id="v22-w26">
 				<strongs>1519</strongs>
 				<pos>Prep</pos>
 				<parse>Preposition</parse>
@@ -3230,7 +3230,7 @@
 				<greek>εἰς</greek>
 				<english>for</english>
 			</word>
-			<word num="27">
+			<word num="27" id="v22-w27">
 				<strongs>3588</strongs>
 				<pos>Art-AMP</pos>
 				<parse>Article - Accusative Masculine Plural</parse>
@@ -3238,7 +3238,7 @@
 				<greek>τοὺς</greek>
 				<english>his</english>
 			</word>
-			<word num="28">
+			<word num="28" id="v22-w28">
 				<strongs>4228</strongs>
 				<pos>N-AMP</pos>
 				<parse>Noun - Accusative Masculine Plural</parse>
@@ -3247,8 +3247,8 @@
 				<english>feet</english>
 			</word>
 		</verse>
-		<verse num="23">
-			<word num="1">
+		<verse num="23" id="v23">
+			<word num="1" id="v23-w1">
 				<strongs>2532</strongs>
 				<pos>Conj</pos>
 				<parse>Conjunction</parse>
@@ -3256,7 +3256,7 @@
 				<greek>καὶ</greek>
 				<english>and</english>
 			</word>
-			<word num="2">
+			<word num="2" id="v23-w2">
 				<strongs>5342</strongs>
 				<pos>V-PMA-2P</pos>
 				<parse>Verb - Present Imperative Active - 2nd Person Plural</parse>
@@ -3264,7 +3264,7 @@
 				<greek>φέρετε</greek>
 				<english>having brought</english>
 			</word>
-			<word num="3">
+			<word num="3" id="v23-w3">
 				<strongs>3588</strongs>
 				<pos>Art-AMS</pos>
 				<parse>Article - Accusative Masculine Singular</parse>
@@ -3272,7 +3272,7 @@
 				<greek>τὸν</greek>
 				<english>the</english>
 			</word>
-			<word num="4">
+			<word num="4" id="v23-w4">
 				<strongs>3448</strongs>
 				<pos>N-AMS</pos>
 				<parse>Noun - Accusative Masculine Singular</parse>
@@ -3280,7 +3280,7 @@
 				<greek>μόσχον</greek>
 				<english>calf</english>
 			</word>
-			<word num="5">
+			<word num="5" id="v23-w5">
 				<strongs>3588</strongs>
 				<pos>Art-AMS</pos>
 				<parse>Article - Accusative Masculine Singular</parse>
@@ -3288,7 +3288,7 @@
 				<greek>τὸν</greek>
 				<english> - </english>
 			</word>
-			<word num="6">
+			<word num="6" id="v23-w6">
 				<strongs>4618</strongs>
 				<pos>Adj-AMS</pos>
 				<parse>Adjective - Accusative Masculine Singular</parse>
@@ -3296,7 +3296,7 @@
 				<greek>σιτευτόν</greek>
 				<english>fattened</english>
 			</word>
-			<word num="7">
+			<word num="7" id="v23-w7">
 				<strongs>2380</strongs>
 				<pos>V-AMA-2P</pos>
 				<parse>Verb - Aorist Imperative Active - 2nd Person Plural</parse>
@@ -3304,7 +3304,7 @@
 				<greek>θύσατε</greek>
 				<english>kill [it]</english>
 			</word>
-			<word num="8">
+			<word num="8" id="v23-w8">
 				<strongs>2532</strongs>
 				<pos>Conj</pos>
 				<parse>Conjunction</parse>
@@ -3312,7 +3312,7 @@
 				<greek>καὶ</greek>
 				<english>and</english>
 			</word>
-			<word num="9">
+			<word num="9" id="v23-w9">
 				<strongs>5315</strongs>
 				<pos>V-APA-NMP</pos>
 				<parse>Verb - Aorist Participle Active - Nominative Masculine Plural</parse>
@@ -3320,7 +3320,7 @@
 				<greek>φαγόντες</greek>
 				<english>having eaten</english>
 			</word>
-			<word num="10">
+			<word num="10" id="v23-w10">
 				<strongs>2165</strongs>
 				<pos>V-ASP-1P</pos>
 				<parse>Verb - Aorist Subjunctive Passive - 1st Person Plural</parse>
@@ -3329,8 +3329,8 @@
 				<english>let us be merry</english>
 			</word>
 		</verse>
-		<verse num="24">
-			<word num="1">
+		<verse num="24" id="v24">
+			<word num="1" id="v24-w1">
 				<strongs>3754</strongs>
 				<pos>Conj</pos>
 				<parse>Conjunction</parse>
@@ -3338,7 +3338,7 @@
 				<greek>ὅτι</greek>
 				<english>For</english>
 			</word>
-			<word num="2">
+			<word num="2" id="v24-w2">
 				<strongs>3778</strongs>
 				<pos>DPro-NMS</pos>
 				<parse>Demonstrative Pronoun - Nominative Masculine Singular</parse>
@@ -3346,7 +3346,7 @@
 				<greek>οὗτος</greek>
 				<english>this</english>
 			</word>
-			<word num="3">
+			<word num="3" id="v24-w3">
 				<strongs>3588</strongs>
 				<pos>Art-NMS</pos>
 				<parse>Article - Nominative Masculine Singular</parse>
@@ -3354,7 +3354,7 @@
 				<greek>ὁ</greek>
 				<english> - </english>
 			</word>
-			<word num="4">
+			<word num="4" id="v24-w4">
 				<strongs>5207</strongs>
 				<pos>N-NMS</pos>
 				<parse>Noun - Nominative Masculine Singular</parse>
@@ -3362,7 +3362,7 @@
 				<greek>υἱός</greek>
 				<english>son</english>
 			</word>
-			<word num="5">
+			<word num="5" id="v24-w5">
 				<strongs>1473</strongs>
 				<pos>PPro-G1S</pos>
 				<parse>Personal / Possessive Pronoun - Genitive 1st Person Singular</parse>
@@ -3370,7 +3370,7 @@
 				<greek>μου</greek>
 				<english>of mine</english>
 			</word>
-			<word num="6">
+			<word num="6" id="v24-w6">
 				<strongs>3498</strongs>
 				<pos>Adj-NMS</pos>
 				<parse>Adjective - Nominative Masculine Singular</parse>
@@ -3378,7 +3378,7 @@
 				<greek>νεκρὸς</greek>
 				<english>dead</english>
 			</word>
-			<word num="7">
+			<word num="7" id="v24-w7">
 				<strongs>1510</strongs>
 				<pos>V-IIA-3S</pos>
 				<parse>Verb - Imperfect Indicative Active - 3rd Person Singular</parse>
@@ -3386,7 +3386,7 @@
 				<greek>ἦν</greek>
 				<english>was</english>
 			</word>
-			<word num="8">
+			<word num="8" id="v24-w8">
 				<strongs>2532</strongs>
 				<pos>Conj</pos>
 				<parse>Conjunction</parse>
@@ -3394,7 +3394,7 @@
 				<greek>καὶ</greek>
 				<english>and</english>
 			</word>
-			<word num="9">
+			<word num="9" id="v24-w9">
 				<strongs>326</strongs>
 				<pos>V-AIA-3S</pos>
 				<parse>Verb - Aorist Indicative Active - 3rd Person Singular</parse>
@@ -3402,7 +3402,7 @@
 				<greek>ἀνέζησεν</greek>
 				<english>is alive again</english>
 			</word>
-			<word num="10">
+			<word num="10" id="v24-w10">
 				<strongs>1510</strongs>
 				<pos>V-IIA-3S</pos>
 				<parse>Verb - Imperfect Indicative Active - 3rd Person Singular</parse>
@@ -3410,7 +3410,7 @@
 				<greek>ἦν</greek>
 				<english>he was</english>
 			</word>
-			<word num="11">
+			<word num="11" id="v24-w11">
 				<strongs>622</strongs>
 				<pos>V-RPA-NMS</pos>
 				<parse>Verb - Perfect Participle Active - Nominative Masculine Singular</parse>
@@ -3418,7 +3418,7 @@
 				<greek>ἀπολωλὼς</greek>
 				<english>lost</english>
 			</word>
-			<word num="12">
+			<word num="12" id="v24-w12">
 				<strongs>2532</strongs>
 				<pos>Conj</pos>
 				<parse>Conjunction</parse>
@@ -3426,7 +3426,7 @@
 				<greek>καὶ</greek>
 				<english>and</english>
 			</word>
-			<word num="13">
+			<word num="13" id="v24-w13">
 				<strongs>2147</strongs>
 				<pos>V-AIP-3S</pos>
 				<parse>Verb - Aorist Indicative Passive - 3rd Person Singular</parse>
@@ -3434,7 +3434,7 @@
 				<greek>εὑρέθη</greek>
 				<english>is found</english>
 			</word>
-			<word num="14">
+			<word num="14" id="v24-w14">
 				<strongs>2532</strongs>
 				<pos>Conj</pos>
 				<parse>Conjunction</parse>
@@ -3442,7 +3442,7 @@
 				<greek>καὶ</greek>
 				<english>And</english>
 			</word>
-			<word num="15">
+			<word num="15" id="v24-w15">
 				<strongs>756</strongs>
 				<pos>V-AIM-3P</pos>
 				<parse>Verb - Aorist Indicative Middle - 3rd Person Plural</parse>
@@ -3450,7 +3450,7 @@
 				<greek>ἤρξαντο</greek>
 				<english>they began</english>
 			</word>
-			<word num="16">
+			<word num="16" id="v24-w16">
 				<strongs>2165</strongs>
 				<pos>V-PNM/P</pos>
 				<parse>Verb - Present Infinitive Middle or Passive</parse>
@@ -3459,8 +3459,8 @@
 				<english>to be merry</english>
 			</word>
 		</verse>
-		<verse num="25">
-			<word num="1">
+		<verse num="25" id="v25">
+			<word num="1" id="v25-w1">
 				<strongs>1510</strongs>
 				<pos>V-IIA-3S</pos>
 				<parse>Verb - Imperfect Indicative Active - 3rd Person Singular</parse>
@@ -3468,7 +3468,7 @@
 				<greek>Ἦν</greek>
 				<english>Was</english>
 			</word>
-			<word num="2">
+			<word num="2" id="v25-w2">
 				<strongs>1161</strongs>
 				<pos>Conj</pos>
 				<parse>Conjunction</parse>
@@ -3476,7 +3476,7 @@
 				<greek>δὲ</greek>
 				<english>now</english>
 			</word>
-			<word num="3">
+			<word num="3" id="v25-w3">
 				<strongs>3588</strongs>
 				<pos>Art-NMS</pos>
 				<parse>Article - Nominative Masculine Singular</parse>
@@ -3484,7 +3484,7 @@
 				<greek>ὁ</greek>
 				<english>the</english>
 			</word>
-			<word num="4">
+			<word num="4" id="v25-w4">
 				<strongs>5207</strongs>
 				<pos>N-NMS</pos>
 				<parse>Noun - Nominative Masculine Singular</parse>
@@ -3492,7 +3492,7 @@
 				<greek>υἱὸς</greek>
 				<english>son</english>
 			</word>
-			<word num="5">
+			<word num="5" id="v25-w5">
 				<strongs>846</strongs>
 				<pos>PPro-GM3S</pos>
 				<parse>Personal / Possessive Pronoun - Genitive Masculine 3rd Person Singular</parse>
@@ -3500,7 +3500,7 @@
 				<greek>αὐτοῦ</greek>
 				<english>of him</english>
 			</word>
-			<word num="6">
+			<word num="6" id="v25-w6">
 				<strongs>3588</strongs>
 				<pos>Art-NMS</pos>
 				<parse>Article - Nominative Masculine Singular</parse>
@@ -3508,7 +3508,7 @@
 				<greek>ὁ</greek>
 				<english>the</english>
 			</word>
-			<word num="7">
+			<word num="7" id="v25-w7">
 				<strongs>4245</strongs>
 				<pos>Adj-NMS-C</pos>
 				<parse>Adjective - Nominative Masculine Singular - Comparative</parse>
@@ -3516,7 +3516,7 @@
 				<greek>πρεσβύτερος</greek>
 				<english>elder</english>
 			</word>
-			<word num="8">
+			<word num="8" id="v25-w8">
 				<strongs>1722</strongs>
 				<pos>Prep</pos>
 				<parse>Preposition</parse>
@@ -3524,7 +3524,7 @@
 				<greek>ἐν</greek>
 				<english>in</english>
 			</word>
-			<word num="9">
+			<word num="9" id="v25-w9">
 				<strongs>68</strongs>
 				<pos>N-DMS</pos>
 				<parse>Noun - Dative Masculine Singular</parse>
@@ -3532,7 +3532,7 @@
 				<greek>ἀγρῷ</greek>
 				<english>[the] field</english>
 			</word>
-			<word num="10">
+			<word num="10" id="v25-w10">
 				<strongs>2532</strongs>
 				<pos>Conj</pos>
 				<parse>Conjunction</parse>
@@ -3540,7 +3540,7 @@
 				<greek>καὶ</greek>
 				<english>and</english>
 			</word>
-			<word num="11">
+			<word num="11" id="v25-w11">
 				<strongs>5613</strongs>
 				<pos>Adv</pos>
 				<parse>Adverb</parse>
@@ -3548,7 +3548,7 @@
 				<greek>ὡς</greek>
 				<english>while</english>
 			</word>
-			<word num="12">
+			<word num="12" id="v25-w12">
 				<strongs>2064</strongs>
 				<pos>V-PPM/P-NMS</pos>
 				<parse>Verb - Present Participle Middle or Passive - Nominative Masculine Singular</parse>
@@ -3556,7 +3556,7 @@
 				<greek>ἐρχόμενος</greek>
 				<english>coming [up]</english>
 			</word>
-			<word num="13">
+			<word num="13" id="v25-w13">
 				<strongs>1448</strongs>
 				<pos>V-AIA-3S</pos>
 				<parse>Verb - Aorist Indicative Active - 3rd Person Singular</parse>
@@ -3564,7 +3564,7 @@
 				<greek>ἤγγισεν</greek>
 				<english>he drew near</english>
 			</word>
-			<word num="14">
+			<word num="14" id="v25-w14">
 				<strongs>3588</strongs>
 				<pos>Art-DFS</pos>
 				<parse>Article - Dative Feminine Singular</parse>
@@ -3572,7 +3572,7 @@
 				<greek>τῇ</greek>
 				<english>to the</english>
 			</word>
-			<word num="15">
+			<word num="15" id="v25-w15">
 				<strongs>3614</strongs>
 				<pos>N-DFS</pos>
 				<parse>Noun - Dative Feminine Singular</parse>
@@ -3580,7 +3580,7 @@
 				<greek>οἰκίᾳ</greek>
 				<english>house</english>
 			</word>
-			<word num="16">
+			<word num="16" id="v25-w16">
 				<strongs>191</strongs>
 				<pos>V-AIA-3S</pos>
 				<parse>Verb - Aorist Indicative Active - 3rd Person Singular</parse>
@@ -3588,7 +3588,7 @@
 				<greek>ἤκουσεν</greek>
 				<english>he heard</english>
 			</word>
-			<word num="17">
+			<word num="17" id="v25-w17">
 				<strongs>4858</strongs>
 				<pos>N-GFS</pos>
 				<parse>Noun - Genitive Feminine Singular</parse>
@@ -3596,7 +3596,7 @@
 				<greek>συμφωνίας</greek>
 				<english>music</english>
 			</word>
-			<word num="18">
+			<word num="18" id="v25-w18">
 				<strongs>2532</strongs>
 				<pos>Conj</pos>
 				<parse>Conjunction</parse>
@@ -3604,7 +3604,7 @@
 				<greek>καὶ</greek>
 				<english>and</english>
 			</word>
-			<word num="19">
+			<word num="19" id="v25-w19">
 				<strongs>5525</strongs>
 				<pos>N-GMP</pos>
 				<parse>Noun - Genitive Masculine Plural</parse>
@@ -3613,8 +3613,8 @@
 				<english>dancing</english>
 			</word>
 		</verse>
-		<verse num="26">
-			<word num="1">
+		<verse num="26" id="v26">
+			<word num="1" id="v26-w1">
 				<strongs>2532</strongs>
 				<pos>Conj</pos>
 				<parse>Conjunction</parse>
@@ -3622,7 +3622,7 @@
 				<greek>καὶ</greek>
 				<english>And</english>
 			</word>
-			<word num="2">
+			<word num="2" id="v26-w2">
 				<strongs>4341</strongs>
 				<pos>V-APM-NMS</pos>
 				<parse>Verb - Aorist Participle Middle - Nominative Masculine Singular</parse>
@@ -3630,7 +3630,7 @@
 				<greek>προσκαλεσάμενος</greek>
 				<english>having called near</english>
 			</word>
-			<word num="3">
+			<word num="3" id="v26-w3">
 				<strongs>1520</strongs>
 				<pos>Adj-AMS</pos>
 				<parse>Adjective - Accusative Masculine Singular</parse>
@@ -3638,7 +3638,7 @@
 				<greek>ἕνα</greek>
 				<english>one</english>
 			</word>
-			<word num="4">
+			<word num="4" id="v26-w4">
 				<strongs>3588</strongs>
 				<pos>Art-GMP</pos>
 				<parse>Article - Genitive Masculine Plural</parse>
@@ -3646,7 +3646,7 @@
 				<greek>τῶν</greek>
 				<english>of the</english>
 			</word>
-			<word num="5">
+			<word num="5" id="v26-w5">
 				<strongs>3816</strongs>
 				<pos>N-GMP</pos>
 				<parse>Noun - Genitive Masculine Plural</parse>
@@ -3654,7 +3654,7 @@
 				<greek>παίδων</greek>
 				<english>servants</english>
 			</word>
-			<word num="6">
+			<word num="6" id="v26-w6">
 				<strongs>4441</strongs>
 				<pos>V-IIM/P-3S</pos>
 				<parse>Verb - Imperfect Indicative Middle or Passive - 3rd Person Singular</parse>
@@ -3662,7 +3662,7 @@
 				<greek>ἐπυνθάνετο</greek>
 				<english>he began inquiring</english>
 			</word>
-			<word num="7">
+			<word num="7" id="v26-w7">
 				<strongs>5101</strongs>
 				<pos>IPro-NNS</pos>
 				<parse>Interrogative / Indefinite Pronoun - Nominative Neuter Singular</parse>
@@ -3670,7 +3670,7 @@
 				<greek>τί</greek>
 				<english>what</english>
 			</word>
-			<word num="8">
+			<word num="8" id="v26-w8">
 				<strongs>302</strongs>
 				<pos>Prtcl</pos>
 				<parse>Particle</parse>
@@ -3678,7 +3678,7 @@
 				<greek>ἂν</greek>
 				<english> - </english>
 			</word>
-			<word num="9">
+			<word num="9" id="v26-w9">
 				<strongs>1510</strongs>
 				<pos>V-POA-3S</pos>
 				<parse>Verb - Present Optative Active - 3rd Person Singular</parse>
@@ -3686,7 +3686,7 @@
 				<greek>εἴη</greek>
 				<english>might be</english>
 			</word>
-			<word num="10">
+			<word num="10" id="v26-w10">
 				<strongs>3778</strongs>
 				<pos>DPro-NNP</pos>
 				<parse>Demonstrative Pronoun - Nominative Neuter Plural</parse>
@@ -3695,8 +3695,8 @@
 				<english>these things</english>
 			</word>
 		</verse>
-		<verse num="27">
-			<word num="1">
+		<verse num="27" id="v27">
+			<word num="1" id="v27-w1">
 				<strongs>3588</strongs>
 				<pos>Art-NMS</pos>
 				<parse>Article - Nominative Masculine Singular</parse>
@@ -3704,7 +3704,7 @@
 				<greek>Ὁ</greek>
 				<english> - </english>
 			</word>
-			<word num="2">
+			<word num="2" id="v27-w2">
 				<strongs>1161</strongs>
 				<pos>Conj</pos>
 				<parse>Conjunction</parse>
@@ -3712,7 +3712,7 @@
 				<greek>δὲ</greek>
 				<english>And</english>
 			</word>
-			<word num="3">
+			<word num="3" id="v27-w3">
 				<strongs>2036</strongs>
 				<pos>V-AIA-3S</pos>
 				<parse>Verb - Aorist Indicative Active - 3rd Person Singular</parse>
@@ -3720,7 +3720,7 @@
 				<greek>εἶπεν</greek>
 				<english>he said</english>
 			</word>
-			<word num="4">
+			<word num="4" id="v27-w4">
 				<strongs>846</strongs>
 				<pos>PPro-DM3S</pos>
 				<parse>Personal / Possessive Pronoun - Dative Masculine 3rd Person Singular</parse>
@@ -3728,7 +3728,7 @@
 				<greek>αὐτῷ</greek>
 				<english>to him</english>
 			</word>
-			<word num="5">
+			<word num="5" id="v27-w5">
 				<strongs>3754</strongs>
 				<pos>Conj</pos>
 				<parse>Conjunction</parse>
@@ -3736,7 +3736,7 @@
 				<greek>ὅτι</greek>
 				<english> - </english>
 			</word>
-			<word num="6">
+			<word num="6" id="v27-w6">
 				<strongs>3588</strongs>
 				<pos>Art-NMS</pos>
 				<parse>Article - Nominative Masculine Singular</parse>
@@ -3744,7 +3744,7 @@
 				<greek>Ὁ</greek>
 				<english>The</english>
 			</word>
-			<word num="7">
+			<word num="7" id="v27-w7">
 				<strongs>80</strongs>
 				<pos>N-NMS</pos>
 				<parse>Noun - Nominative Masculine Singular</parse>
@@ -3752,7 +3752,7 @@
 				<greek>ἀδελφός</greek>
 				<english>brother</english>
 			</word>
-			<word num="8">
+			<word num="8" id="v27-w8">
 				<strongs>4771</strongs>
 				<pos>PPro-G2S</pos>
 				<parse>Personal / Possessive Pronoun - Genitive 2nd Person Singular</parse>
@@ -3760,7 +3760,7 @@
 				<greek>σου</greek>
 				<english>of you</english>
 			</word>
-			<word num="9">
+			<word num="9" id="v27-w9">
 				<strongs>2240</strongs>
 				<pos>V-PIA-3S</pos>
 				<parse>Verb - Present Indicative Active - 3rd Person Singular</parse>
@@ -3768,7 +3768,7 @@
 				<greek>ἥκει</greek>
 				<english>is come</english>
 			</word>
-			<word num="10">
+			<word num="10" id="v27-w10">
 				<strongs>2532</strongs>
 				<pos>Conj</pos>
 				<parse>Conjunction</parse>
@@ -3776,7 +3776,7 @@
 				<greek>καὶ</greek>
 				<english>and</english>
 			</word>
-			<word num="11">
+			<word num="11" id="v27-w11">
 				<strongs>2380</strongs>
 				<pos>V-AIA-3S</pos>
 				<parse>Verb - Aorist Indicative Active - 3rd Person Singular</parse>
@@ -3784,7 +3784,7 @@
 				<greek>ἔθυσεν</greek>
 				<english>has killed</english>
 			</word>
-			<word num="12">
+			<word num="12" id="v27-w12">
 				<strongs>3588</strongs>
 				<pos>Art-NMS</pos>
 				<parse>Article - Nominative Masculine Singular</parse>
@@ -3792,7 +3792,7 @@
 				<greek>ὁ</greek>
 				<english>the</english>
 			</word>
-			<word num="13">
+			<word num="13" id="v27-w13">
 				<strongs>3962</strongs>
 				<pos>N-NMS</pos>
 				<parse>Noun - Nominative Masculine Singular</parse>
@@ -3800,7 +3800,7 @@
 				<greek>πατήρ</greek>
 				<english>father</english>
 			</word>
-			<word num="14">
+			<word num="14" id="v27-w14">
 				<strongs>4771</strongs>
 				<pos>PPro-G2S</pos>
 				<parse>Personal / Possessive Pronoun - Genitive 2nd Person Singular</parse>
@@ -3808,7 +3808,7 @@
 				<greek>σου</greek>
 				<english>of you</english>
 			</word>
-			<word num="15">
+			<word num="15" id="v27-w15">
 				<strongs>3588</strongs>
 				<pos>Art-AMS</pos>
 				<parse>Article - Accusative Masculine Singular</parse>
@@ -3816,7 +3816,7 @@
 				<greek>τὸν</greek>
 				<english>the</english>
 			</word>
-			<word num="16">
+			<word num="16" id="v27-w16">
 				<strongs>3448</strongs>
 				<pos>N-AMS</pos>
 				<parse>Noun - Accusative Masculine Singular</parse>
@@ -3824,7 +3824,7 @@
 				<greek>μόσχον</greek>
 				<english>calf</english>
 			</word>
-			<word num="17">
+			<word num="17" id="v27-w17">
 				<strongs>3588</strongs>
 				<pos>Art-AMS</pos>
 				<parse>Article - Accusative Masculine Singular</parse>
@@ -3832,7 +3832,7 @@
 				<greek>τὸν</greek>
 				<english> - </english>
 			</word>
-			<word num="18">
+			<word num="18" id="v27-w18">
 				<strongs>4618</strongs>
 				<pos>Adj-AMS</pos>
 				<parse>Adjective - Accusative Masculine Singular</parse>
@@ -3840,7 +3840,7 @@
 				<greek>σιτευτόν</greek>
 				<english>fattened</english>
 			</word>
-			<word num="19">
+			<word num="19" id="v27-w19">
 				<strongs>3754</strongs>
 				<pos>Conj</pos>
 				<parse>Conjunction</parse>
@@ -3848,7 +3848,7 @@
 				<greek>ὅτι</greek>
 				<english>because</english>
 			</word>
-			<word num="20">
+			<word num="20" id="v27-w20">
 				<strongs>5198</strongs>
 				<pos>V-PPA-AMS</pos>
 				<parse>Verb - Present Participle Active - Accusative Masculine Singular</parse>
@@ -3856,7 +3856,7 @@
 				<greek>ὑγιαίνοντα</greek>
 				<english>in good health</english>
 			</word>
-			<word num="21">
+			<word num="21" id="v27-w21">
 				<strongs>846</strongs>
 				<pos>PPro-AM3S</pos>
 				<parse>Personal / Possessive Pronoun - Accusative Masculine 3rd Person Singular</parse>
@@ -3864,7 +3864,7 @@
 				<greek>αὐτὸν</greek>
 				<english>him</english>
 			</word>
-			<word num="22">
+			<word num="22" id="v27-w22">
 				<strongs>618</strongs>
 				<pos>V-AIA-3S</pos>
 				<parse>Verb - Aorist Indicative Active - 3rd Person Singular</parse>
@@ -3873,8 +3873,8 @@
 				<english>he has received</english>
 			</word>
 		</verse>
-		<verse num="28">
-			<word num="1">
+		<verse num="28" id="v28">
+			<word num="1" id="v28-w1">
 				<strongs>3710</strongs>
 				<pos>V-AIP-3S</pos>
 				<parse>Verb - Aorist Indicative Passive - 3rd Person Singular</parse>
@@ -3882,7 +3882,7 @@
 				<greek>Ὠργίσθη</greek>
 				<english>He was angry</english>
 			</word>
-			<word num="2">
+			<word num="2" id="v28-w2">
 				<strongs>1161</strongs>
 				<pos>Conj</pos>
 				<parse>Conjunction</parse>
@@ -3890,7 +3890,7 @@
 				<greek>δὲ</greek>
 				<english>however</english>
 			</word>
-			<word num="3">
+			<word num="3" id="v28-w3">
 				<strongs>2532</strongs>
 				<pos>Conj</pos>
 				<parse>Conjunction</parse>
@@ -3898,7 +3898,7 @@
 				<greek>καὶ</greek>
 				<english>and</english>
 			</word>
-			<word num="4">
+			<word num="4" id="v28-w4">
 				<strongs>3756</strongs>
 				<pos>Adv</pos>
 				<parse>Adverb</parse>
@@ -3906,7 +3906,7 @@
 				<greek>οὐκ</greek>
 				<english>not</english>
 			</word>
-			<word num="5">
+			<word num="5" id="v28-w5">
 				<strongs>2309</strongs>
 				<pos>V-IIA-3S</pos>
 				<parse>Verb - Imperfect Indicative Active - 3rd Person Singular</parse>
@@ -3914,7 +3914,7 @@
 				<greek>ἤθελεν</greek>
 				<english>was willing</english>
 			</word>
-			<word num="6">
+			<word num="6" id="v28-w6">
 				<strongs>1525</strongs>
 				<pos>V-ANA</pos>
 				<parse>Verb - Aorist Infinitive Active</parse>
@@ -3922,7 +3922,7 @@
 				<greek>εἰσελθεῖν</greek>
 				<english>to go in</english>
 			</word>
-			<word num="7">
+			<word num="7" id="v28-w7">
 				<strongs>3588</strongs>
 				<pos>Art-NMS</pos>
 				<parse>Article - Nominative Masculine Singular</parse>
@@ -3930,7 +3930,7 @@
 				<greek>ὁ</greek>
 				<english> - </english>
 			</word>
-			<word num="8">
+			<word num="8" id="v28-w8">
 				<strongs>1161</strongs>
 				<pos>Conj</pos>
 				<parse>Conjunction</parse>
@@ -3938,7 +3938,7 @@
 				<greek>δὲ</greek>
 				<english>And</english>
 			</word>
-			<word num="9">
+			<word num="9" id="v28-w9">
 				<strongs>3962</strongs>
 				<pos>N-NMS</pos>
 				<parse>Noun - Nominative Masculine Singular</parse>
@@ -3946,7 +3946,7 @@
 				<greek>πατὴρ</greek>
 				<english>the father</english>
 			</word>
-			<word num="10">
+			<word num="10" id="v28-w10">
 				<strongs>846</strongs>
 				<pos>PPro-GM3S</pos>
 				<parse>Personal / Possessive Pronoun - Genitive Masculine 3rd Person Singular</parse>
@@ -3954,7 +3954,7 @@
 				<greek>αὐτοῦ</greek>
 				<english>of him</english>
 			</word>
-			<word num="11">
+			<word num="11" id="v28-w11">
 				<strongs>1831</strongs>
 				<pos>V-APA-NMS</pos>
 				<parse>Verb - Aorist Participle Active - Nominative Masculine Singular</parse>
@@ -3962,7 +3962,7 @@
 				<greek>ἐξελθὼν</greek>
 				<english>having gone</english>
 			</word>
-			<word num="12">
+			<word num="12" id="v28-w12">
 				<strongs>3870</strongs>
 				<pos>V-IIA-3S</pos>
 				<parse>Verb - Imperfect Indicative Active - 3rd Person Singular</parse>
@@ -3970,7 +3970,7 @@
 				<greek>παρεκάλει</greek>
 				<english>was begging</english>
 			</word>
-			<word num="13">
+			<word num="13" id="v28-w13">
 				<strongs>846</strongs>
 				<pos>PPro-AM3S</pos>
 				<parse>Personal / Possessive Pronoun - Accusative Masculine 3rd Person Singular</parse>
@@ -3979,8 +3979,8 @@
 				<english>him</english>
 			</word>
 		</verse>
-		<verse num="29">
-			<word num="1">
+		<verse num="29" id="v29">
+			<word num="1" id="v29-w1">
 				<strongs>3588</strongs>
 				<pos>Art-NMS</pos>
 				<parse>Article - Nominative Masculine Singular</parse>
@@ -3988,7 +3988,7 @@
 				<greek>Ὁ</greek>
 				<english> - </english>
 			</word>
-			<word num="2">
+			<word num="2" id="v29-w2">
 				<strongs>1161</strongs>
 				<pos>Conj</pos>
 				<parse>Conjunction</parse>
@@ -3996,7 +3996,7 @@
 				<greek>δὲ</greek>
 				<english>And</english>
 			</word>
-			<word num="3">
+			<word num="3" id="v29-w3">
 				<strongs>611</strongs>
 				<pos>V-APP-NMS</pos>
 				<parse>Verb - Aorist Participle Passive - Nominative Masculine Singular</parse>
@@ -4004,7 +4004,7 @@
 				<greek>ἀποκριθεὶς</greek>
 				<english>answering</english>
 			</word>
-			<word num="4">
+			<word num="4" id="v29-w4">
 				<strongs>2036</strongs>
 				<pos>V-AIA-3S</pos>
 				<parse>Verb - Aorist Indicative Active - 3rd Person Singular</parse>
@@ -4012,7 +4012,7 @@
 				<greek>εἶπεν</greek>
 				<english>he said</english>
 			</word>
-			<word num="5">
+			<word num="5" id="v29-w5">
 				<strongs>3588</strongs>
 				<pos>Art-DMS</pos>
 				<parse>Article - Dative Masculine Singular</parse>
@@ -4020,7 +4020,7 @@
 				<greek>τῷ</greek>
 				<english>to</english>
 			</word>
-			<word num="6">
+			<word num="6" id="v29-w6">
 				<strongs>3962</strongs>
 				<pos>N-DMS</pos>
 				<parse>Noun - Dative Masculine Singular</parse>
@@ -4028,7 +4028,7 @@
 				<greek>πατρὶ</greek>
 				<english>[the] father</english>
 			</word>
-			<word num="7">
+			<word num="7" id="v29-w7">
 				<strongs>846</strongs>
 				<pos>PPro-GM3S</pos>
 				<parse>Personal / Possessive Pronoun - Genitive Masculine 3rd Person Singular</parse>
@@ -4036,7 +4036,7 @@
 				<greek>‹αὐτοῦ›</greek>
 				<english>of him</english>
 			</word>
-			<word num="8">
+			<word num="8" id="v29-w8">
 				<strongs>2400</strongs>
 				<pos>V-AMA-2S</pos>
 				<parse>Verb - Aorist Imperative Active - 2nd Person Singular</parse>
@@ -4044,7 +4044,7 @@
 				<greek>Ἰδοὺ</greek>
 				<english>Behold</english>
 			</word>
-			<word num="9">
+			<word num="9" id="v29-w9">
 				<strongs>5118</strongs>
 				<pos>DPro-ANP</pos>
 				<parse>Demonstrative Pronoun - Accusative Neuter Plural</parse>
@@ -4052,7 +4052,7 @@
 				<greek>τοσαῦτα</greek>
 				<english>so many</english>
 			</word>
-			<word num="10">
+			<word num="10" id="v29-w10">
 				<strongs>2094</strongs>
 				<pos>N-ANP</pos>
 				<parse>Noun - Accusative Neuter Plural</parse>
@@ -4060,7 +4060,7 @@
 				<greek>ἔτη</greek>
 				<english>years</english>
 			</word>
-			<word num="11">
+			<word num="11" id="v29-w11">
 				<strongs>1398</strongs>
 				<pos>V-PIA-1S</pos>
 				<parse>Verb - Present Indicative Active - 1st Person Singular</parse>
@@ -4068,7 +4068,7 @@
 				<greek>δουλεύω</greek>
 				<english>I serve</english>
 			</word>
-			<word num="12">
+			<word num="12" id="v29-w12">
 				<strongs>4771</strongs>
 				<pos>PPro-D2S</pos>
 				<parse>Personal / Possessive Pronoun - Dative 2nd Person Singular</parse>
@@ -4076,7 +4076,7 @@
 				<greek>σοι</greek>
 				<english>you</english>
 			</word>
-			<word num="13">
+			<word num="13" id="v29-w13">
 				<strongs>2532</strongs>
 				<pos>Conj</pos>
 				<parse>Conjunction</parse>
@@ -4084,7 +4084,7 @@
 				<greek>καὶ</greek>
 				<english>and</english>
 			</word>
-			<word num="14">
+			<word num="14" id="v29-w14">
 				<strongs>3763</strongs>
 				<pos>Adv</pos>
 				<parse>Adverb</parse>
@@ -4092,7 +4092,7 @@
 				<greek>οὐδέποτε</greek>
 				<english>never</english>
 			</word>
-			<word num="15">
+			<word num="15" id="v29-w15">
 				<strongs>1785</strongs>
 				<pos>N-AFS</pos>
 				<parse>Noun - Accusative Feminine Singular</parse>
@@ -4100,7 +4100,7 @@
 				<greek>ἐντολήν</greek>
 				<english>a commandment</english>
 			</word>
-			<word num="16">
+			<word num="16" id="v29-w16">
 				<strongs>4771</strongs>
 				<pos>PPro-G2S</pos>
 				<parse>Personal / Possessive Pronoun - Genitive 2nd Person Singular</parse>
@@ -4108,7 +4108,7 @@
 				<greek>σου</greek>
 				<english>of you</english>
 			</word>
-			<word num="17">
+			<word num="17" id="v29-w17">
 				<strongs>3928</strongs>
 				<pos>V-AIA-1S</pos>
 				<parse>Verb - Aorist Indicative Active - 1st Person Singular</parse>
@@ -4116,7 +4116,7 @@
 				<greek>παρῆλθον</greek>
 				<english>I disobeyed</english>
 			</word>
-			<word num="18">
+			<word num="18" id="v29-w18">
 				<strongs>2532</strongs>
 				<pos>Conj</pos>
 				<parse>Conjunction</parse>
@@ -4124,7 +4124,7 @@
 				<greek>καὶ</greek>
 				<english>and</english>
 			</word>
-			<word num="19">
+			<word num="19" id="v29-w19">
 				<strongs>1473</strongs>
 				<pos>PPro-D1S</pos>
 				<parse>Personal / Possessive Pronoun - Dative 1st Person Singular</parse>
@@ -4132,7 +4132,7 @@
 				<greek>ἐμοὶ</greek>
 				<english>to me</english>
 			</word>
-			<word num="20">
+			<word num="20" id="v29-w20">
 				<strongs>3763</strongs>
 				<pos>Adv</pos>
 				<parse>Adverb</parse>
@@ -4140,7 +4140,7 @@
 				<greek>οὐδέποτε</greek>
 				<english>never</english>
 			</word>
-			<word num="21">
+			<word num="21" id="v29-w21">
 				<strongs>1325</strongs>
 				<pos>V-AIA-2S</pos>
 				<parse>Verb - Aorist Indicative Active - 2nd Person Singular</parse>
@@ -4148,7 +4148,7 @@
 				<greek>ἔδωκας</greek>
 				<english>did you give</english>
 			</word>
-			<word num="22">
+			<word num="22" id="v29-w22">
 				<strongs>2056</strongs>
 				<pos>N-AMS</pos>
 				<parse>Noun - Accusative Masculine Singular</parse>
@@ -4156,7 +4156,7 @@
 				<greek>ἔριφον</greek>
 				<english>a young goat</english>
 			</word>
-			<word num="23">
+			<word num="23" id="v29-w23">
 				<strongs>2443</strongs>
 				<pos>Conj</pos>
 				<parse>Conjunction</parse>
@@ -4164,7 +4164,7 @@
 				<greek>ἵνα</greek>
 				<english>that</english>
 			</word>
-			<word num="24">
+			<word num="24" id="v29-w24">
 				<strongs>3326</strongs>
 				<pos>Prep</pos>
 				<parse>Preposition</parse>
@@ -4172,7 +4172,7 @@
 				<greek>μετὰ</greek>
 				<english>with</english>
 			</word>
-			<word num="25">
+			<word num="25" id="v29-w25">
 				<strongs>3588</strongs>
 				<pos>Art-GMP</pos>
 				<parse>Article - Genitive Masculine Plural</parse>
@@ -4180,7 +4180,7 @@
 				<greek>τῶν</greek>
 				<english>the</english>
 			</word>
-			<word num="26">
+			<word num="26" id="v29-w26">
 				<strongs>5384</strongs>
 				<pos>Adj-GMP</pos>
 				<parse>Adjective - Genitive Masculine Plural</parse>
@@ -4188,7 +4188,7 @@
 				<greek>φίλων</greek>
 				<english>friends</english>
 			</word>
-			<word num="27">
+			<word num="27" id="v29-w27">
 				<strongs>1473</strongs>
 				<pos>PPro-G1S</pos>
 				<parse>Personal / Possessive Pronoun - Genitive 1st Person Singular</parse>
@@ -4196,7 +4196,7 @@
 				<greek>μου</greek>
 				<english>of me</english>
 			</word>
-			<word num="28">
+			<word num="28" id="v29-w28">
 				<strongs>2165</strongs>
 				<pos>V-ASP-1S</pos>
 				<parse>Verb - Aorist Subjunctive Passive - 1st Person Singular</parse>
@@ -4205,8 +4205,8 @@
 				<english>I might make merry</english>
 			</word>
 		</verse>
-		<verse num="30">
-			<word num="1">
+		<verse num="30" id="v30">
+			<word num="1" id="v30-w1">
 				<strongs>3753</strongs>
 				<pos>Adv</pos>
 				<parse>Adverb</parse>
@@ -4214,7 +4214,7 @@
 				<greek>ὅτε</greek>
 				<english>When</english>
 			</word>
-			<word num="2">
+			<word num="2" id="v30-w2">
 				<strongs>1161</strongs>
 				<pos>Conj</pos>
 				<parse>Conjunction</parse>
@@ -4222,7 +4222,7 @@
 				<greek>δὲ</greek>
 				<english>however</english>
 			</word>
-			<word num="3">
+			<word num="3" id="v30-w3">
 				<strongs>3588</strongs>
 				<pos>Art-NMS</pos>
 				<parse>Article - Nominative Masculine Singular</parse>
@@ -4230,7 +4230,7 @@
 				<greek>ὁ</greek>
 				<english>the</english>
 			</word>
-			<word num="4">
+			<word num="4" id="v30-w4">
 				<strongs>5207</strongs>
 				<pos>N-NMS</pos>
 				<parse>Noun - Nominative Masculine Singular</parse>
@@ -4238,7 +4238,7 @@
 				<greek>υἱός</greek>
 				<english>son</english>
 			</word>
-			<word num="5">
+			<word num="5" id="v30-w5">
 				<strongs>4771</strongs>
 				<pos>PPro-G2S</pos>
 				<parse>Personal / Possessive Pronoun - Genitive 2nd Person Singular</parse>
@@ -4246,7 +4246,7 @@
 				<greek>σου</greek>
 				<english>of you</english>
 			</word>
-			<word num="6">
+			<word num="6" id="v30-w6">
 				<strongs>3778</strongs>
 				<pos>DPro-NMS</pos>
 				<parse>Demonstrative Pronoun - Nominative Masculine Singular</parse>
@@ -4254,7 +4254,7 @@
 				<greek>οὗτος</greek>
 				<english>this</english>
 			</word>
-			<word num="7">
+			<word num="7" id="v30-w7">
 				<strongs>3588</strongs>
 				<pos>Art-NMS</pos>
 				<parse>Article - Nominative Masculine Singular</parse>
@@ -4262,7 +4262,7 @@
 				<greek>ὁ</greek>
 				<english>the [one]</english>
 			</word>
-			<word num="8">
+			<word num="8" id="v30-w8">
 				<strongs>2719</strongs>
 				<pos>V-APA-NMS</pos>
 				<parse>Verb - Aorist Participle Active - Nominative Masculine Singular</parse>
@@ -4270,7 +4270,7 @@
 				<greek>καταφαγών</greek>
 				<english>having devoured</english>
 			</word>
-			<word num="9">
+			<word num="9" id="v30-w9">
 				<strongs>4771</strongs>
 				<pos>PPro-G2S</pos>
 				<parse>Personal / Possessive Pronoun - Genitive 2nd Person Singular</parse>
@@ -4278,7 +4278,7 @@
 				<greek>σου</greek>
 				<english>your</english>
 			</word>
-			<word num="10">
+			<word num="10" id="v30-w10">
 				<strongs>3588</strongs>
 				<pos>Art-AMS</pos>
 				<parse>Article - Accusative Masculine Singular</parse>
@@ -4286,7 +4286,7 @@
 				<greek>τὸν</greek>
 				<english> - </english>
 			</word>
-			<word num="11">
+			<word num="11" id="v30-w11">
 				<strongs>979</strongs>
 				<pos>N-AMS</pos>
 				<parse>Noun - Accusative Masculine Singular</parse>
@@ -4294,7 +4294,7 @@
 				<greek>βίον</greek>
 				<english>living</english>
 			</word>
-			<word num="12">
+			<word num="12" id="v30-w12">
 				<strongs>3326</strongs>
 				<pos>Prep</pos>
 				<parse>Preposition</parse>
@@ -4302,7 +4302,7 @@
 				<greek>μετὰ</greek>
 				<english>with</english>
 			</word>
-			<word num="13">
+			<word num="13" id="v30-w13">
 				<strongs>4204</strongs>
 				<pos>N-GFP</pos>
 				<parse>Noun - Genitive Feminine Plural</parse>
@@ -4310,7 +4310,7 @@
 				<greek>πορνῶν</greek>
 				<english>prostitutes</english>
 			</word>
-			<word num="14">
+			<word num="14" id="v30-w14">
 				<strongs>2064</strongs>
 				<pos>V-AIA-3S</pos>
 				<parse>Verb - Aorist Indicative Active - 3rd Person Singular</parse>
@@ -4318,7 +4318,7 @@
 				<greek>ἦλθεν</greek>
 				<english>came</english>
 			</word>
-			<word num="15">
+			<word num="15" id="v30-w15">
 				<strongs>2380</strongs>
 				<pos>V-AIA-2S</pos>
 				<parse>Verb - Aorist Indicative Active - 2nd Person Singular</parse>
@@ -4326,7 +4326,7 @@
 				<greek>ἔθυσας</greek>
 				<english>you have killed</english>
 			</word>
-			<word num="16">
+			<word num="16" id="v30-w16">
 				<strongs>846</strongs>
 				<pos>PPro-DM3S</pos>
 				<parse>Personal / Possessive Pronoun - Dative Masculine 3rd Person Singular</parse>
@@ -4334,7 +4334,7 @@
 				<greek>αὐτῷ</greek>
 				<english>for him</english>
 			</word>
-			<word num="17">
+			<word num="17" id="v30-w17">
 				<strongs>3588</strongs>
 				<pos>Art-AMS</pos>
 				<parse>Article - Accusative Masculine Singular</parse>
@@ -4342,7 +4342,7 @@
 				<greek>τὸν</greek>
 				<english>the</english>
 			</word>
-			<word num="18">
+			<word num="18" id="v30-w18">
 				<strongs>4618</strongs>
 				<pos>Adj-AMS</pos>
 				<parse>Adjective - Accusative Masculine Singular</parse>
@@ -4350,7 +4350,7 @@
 				<greek>σιτευτὸν</greek>
 				<english>fattened</english>
 			</word>
-			<word num="19">
+			<word num="19" id="v30-w19">
 				<strongs>3448</strongs>
 				<pos>N-AMS</pos>
 				<parse>Noun - Accusative Masculine Singular</parse>
@@ -4359,8 +4359,8 @@
 				<english>calf</english>
 			</word>
 		</verse>
-		<verse num="31">
-			<word num="1">
+		<verse num="31" id="v31">
+			<word num="1" id="v31-w1">
 				<strongs>3588</strongs>
 				<pos>Art-NMS</pos>
 				<parse>Article - Nominative Masculine Singular</parse>
@@ -4368,7 +4368,7 @@
 				<greek>Ὁ</greek>
 				<english> - </english>
 			</word>
-			<word num="2">
+			<word num="2" id="v31-w2">
 				<strongs>1161</strongs>
 				<pos>Conj</pos>
 				<parse>Conjunction</parse>
@@ -4376,7 +4376,7 @@
 				<greek>δὲ</greek>
 				<english>And</english>
 			</word>
-			<word num="3">
+			<word num="3" id="v31-w3">
 				<strongs>2036</strongs>
 				<pos>V-AIA-3S</pos>
 				<parse>Verb - Aorist Indicative Active - 3rd Person Singular</parse>
@@ -4384,7 +4384,7 @@
 				<greek>εἶπεν</greek>
 				<english>he said</english>
 			</word>
-			<word num="4">
+			<word num="4" id="v31-w4">
 				<strongs>846</strongs>
 				<pos>PPro-DM3S</pos>
 				<parse>Personal / Possessive Pronoun - Dative Masculine 3rd Person Singular</parse>
@@ -4392,7 +4392,7 @@
 				<greek>αὐτῷ</greek>
 				<english>to him</english>
 			</word>
-			<word num="5">
+			<word num="5" id="v31-w5">
 				<strongs>5043</strongs>
 				<pos>N-VNS</pos>
 				<parse>Noun - Vocative Neuter Singular</parse>
@@ -4400,7 +4400,7 @@
 				<greek>Τέκνον</greek>
 				<english>Son</english>
 			</word>
-			<word num="6">
+			<word num="6" id="v31-w6">
 				<strongs>4771</strongs>
 				<pos>PPro-N2S</pos>
 				<parse>Personal / Possessive Pronoun - Nominative 2nd Person Singular</parse>
@@ -4408,7 +4408,7 @@
 				<greek>σὺ</greek>
 				<english>you</english>
 			</word>
-			<word num="7">
+			<word num="7" id="v31-w7">
 				<strongs>3842</strongs>
 				<pos>Adv</pos>
 				<parse>Adverb</parse>
@@ -4416,7 +4416,7 @@
 				<greek>πάντοτε</greek>
 				<english>always</english>
 			</word>
-			<word num="8">
+			<word num="8" id="v31-w8">
 				<strongs>3326</strongs>
 				<pos>Prep</pos>
 				<parse>Preposition</parse>
@@ -4424,7 +4424,7 @@
 				<greek>μετ’</greek>
 				<english>with</english>
 			</word>
-			<word num="9">
+			<word num="9" id="v31-w9">
 				<strongs>1473</strongs>
 				<pos>PPro-G1S</pos>
 				<parse>Personal / Possessive Pronoun - Genitive 1st Person Singular</parse>
@@ -4432,7 +4432,7 @@
 				<greek>ἐμοῦ</greek>
 				<english>me</english>
 			</word>
-			<word num="10">
+			<word num="10" id="v31-w10">
 				<strongs>1510</strongs>
 				<pos>V-PIA-2S</pos>
 				<parse>Verb - Present Indicative Active - 2nd Person Singular</parse>
@@ -4440,7 +4440,7 @@
 				<greek>εἶ</greek>
 				<english>are</english>
 			</word>
-			<word num="11">
+			<word num="11" id="v31-w11">
 				<strongs>2532</strongs>
 				<pos>Conj</pos>
 				<parse>Conjunction</parse>
@@ -4448,7 +4448,7 @@
 				<greek>καὶ</greek>
 				<english>and</english>
 			</word>
-			<word num="12">
+			<word num="12" id="v31-w12">
 				<strongs>3956</strongs>
 				<pos>Adj-NNP</pos>
 				<parse>Adjective - Nominative Neuter Plural</parse>
@@ -4456,7 +4456,7 @@
 				<greek>πάντα</greek>
 				<english>all</english>
 			</word>
-			<word num="13">
+			<word num="13" id="v31-w13">
 				<strongs>3588</strongs>
 				<pos>Art-NNP</pos>
 				<parse>Article - Nominative Neuter Plural</parse>
@@ -4464,7 +4464,7 @@
 				<greek>τὰ</greek>
 				<english>that</english>
 			</word>
-			<word num="14">
+			<word num="14" id="v31-w14">
 				<strongs>1699</strongs>
 				<pos>PPro-NN1P</pos>
 				<parse>Personal / Possessive Pronoun - Nominative Neuter 1st Person Plural</parse>
@@ -4472,7 +4472,7 @@
 				<greek>ἐμὰ</greek>
 				<english>[is] mine</english>
 			</word>
-			<word num="15">
+			<word num="15" id="v31-w15">
 				<strongs>4674</strongs>
 				<pos>PPro-NN2P</pos>
 				<parse>Personal / Possessive Pronoun - Nominative Neuter 2nd Person Plural</parse>
@@ -4480,7 +4480,7 @@
 				<greek>σά</greek>
 				<english>yours</english>
 			</word>
-			<word num="16">
+			<word num="16" id="v31-w16">
 				<strongs>1510</strongs>
 				<pos>V-PIA-3S</pos>
 				<parse>Verb - Present Indicative Active - 3rd Person Singular</parse>
@@ -4489,8 +4489,8 @@
 				<english>is</english>
 			</word>
 		</verse>
-		<verse num="32">
-			<word num="1">
+		<verse num="32" id="v32">
+			<word num="1" id="v32-w1">
 				<strongs>2165</strongs>
 				<pos>V-ANP</pos>
 				<parse>Verb - Aorist Infinitive Passive</parse>
@@ -4498,7 +4498,7 @@
 				<greek>εὐφρανθῆναι</greek>
 				<english>To make merry</english>
 			</word>
-			<word num="2">
+			<word num="2" id="v32-w2">
 				<strongs>1161</strongs>
 				<pos>Conj</pos>
 				<parse>Conjunction</parse>
@@ -4506,7 +4506,7 @@
 				<greek>δὲ</greek>
 				<english>however</english>
 			</word>
-			<word num="3">
+			<word num="3" id="v32-w3">
 				<strongs>2532</strongs>
 				<pos>Conj</pos>
 				<parse>Conjunction</parse>
@@ -4514,7 +4514,7 @@
 				<greek>καὶ</greek>
 				<english>and</english>
 			</word>
-			<word num="4">
+			<word num="4" id="v32-w4">
 				<strongs>5463</strongs>
 				<pos>V-ANP</pos>
 				<parse>Verb - Aorist Infinitive Passive</parse>
@@ -4522,7 +4522,7 @@
 				<greek>χαρῆναι</greek>
 				<english>to rejoice</english>
 			</word>
-			<word num="5">
+			<word num="5" id="v32-w5">
 				<strongs>1163</strongs>
 				<pos>V-IIA-3S</pos>
 				<parse>Verb - Imperfect Indicative Active - 3rd Person Singular</parse>
@@ -4530,7 +4530,7 @@
 				<greek>ἔδει</greek>
 				<english>it was fitting</english>
 			</word>
-			<word num="6">
+			<word num="6" id="v32-w6">
 				<strongs>3754</strongs>
 				<pos>Conj</pos>
 				<parse>Conjunction</parse>
@@ -4538,7 +4538,7 @@
 				<greek>ὅτι</greek>
 				<english>because</english>
 			</word>
-			<word num="7">
+			<word num="7" id="v32-w7">
 				<strongs>3588</strongs>
 				<pos>Art-NMS</pos>
 				<parse>Article - Nominative Masculine Singular</parse>
@@ -4546,7 +4546,7 @@
 				<greek>ὁ</greek>
 				<english>the</english>
 			</word>
-			<word num="8">
+			<word num="8" id="v32-w8">
 				<strongs>80</strongs>
 				<pos>N-NMS</pos>
 				<parse>Noun - Nominative Masculine Singular</parse>
@@ -4554,7 +4554,7 @@
 				<greek>ἀδελφός</greek>
 				<english>brother</english>
 			</word>
-			<word num="9">
+			<word num="9" id="v32-w9">
 				<strongs>4771</strongs>
 				<pos>PPro-G2S</pos>
 				<parse>Personal / Possessive Pronoun - Genitive 2nd Person Singular</parse>
@@ -4562,7 +4562,7 @@
 				<greek>σου</greek>
 				<english>of you</english>
 			</word>
-			<word num="10">
+			<word num="10" id="v32-w10">
 				<strongs>3778</strongs>
 				<pos>DPro-NMS</pos>
 				<parse>Demonstrative Pronoun - Nominative Masculine Singular</parse>
@@ -4570,7 +4570,7 @@
 				<greek>οὗτος</greek>
 				<english>this</english>
 			</word>
-			<word num="11">
+			<word num="11" id="v32-w11">
 				<strongs>3498</strongs>
 				<pos>Adj-NMS</pos>
 				<parse>Adjective - Nominative Masculine Singular</parse>
@@ -4578,7 +4578,7 @@
 				<greek>νεκρὸς</greek>
 				<english>dead</english>
 			</word>
-			<word num="12">
+			<word num="12" id="v32-w12">
 				<strongs>1510</strongs>
 				<pos>V-IIA-3S</pos>
 				<parse>Verb - Imperfect Indicative Active - 3rd Person Singular</parse>
@@ -4586,7 +4586,7 @@
 				<greek>ἦν</greek>
 				<english>was</english>
 			</word>
-			<word num="13">
+			<word num="13" id="v32-w13">
 				<strongs>2532</strongs>
 				<pos>Conj</pos>
 				<parse>Conjunction</parse>
@@ -4594,7 +4594,7 @@
 				<greek>καὶ</greek>
 				<english>and</english>
 			</word>
-			<word num="14">
+			<word num="14" id="v32-w14">
 				<strongs>2198</strongs>
 				<pos>V-AIA-3S</pos>
 				<parse>Verb - Aorist Indicative Active - 3rd Person Singular</parse>
@@ -4602,7 +4602,7 @@
 				<greek>ἔζησεν</greek>
 				<english>is alive again</english>
 			</word>
-			<word num="15">
+			<word num="15" id="v32-w15">
 				<strongs>2532</strongs>
 				<pos>Conj</pos>
 				<parse>Conjunction</parse>
@@ -4610,7 +4610,7 @@
 				<greek>καὶ</greek>
 				<english>and</english>
 			</word>
-			<word num="16">
+			<word num="16" id="v32-w16">
 				<strongs>622</strongs>
 				<pos>V-RPA-NMS</pos>
 				<parse>Verb - Perfect Participle Active - Nominative Masculine Singular</parse>
@@ -4618,7 +4618,7 @@
 				<greek>ἀπολωλὼς</greek>
 				<english>he was lost</english>
 			</word>
-			<word num="17">
+			<word num="17" id="v32-w17">
 				<strongs>2532</strongs>
 				<pos>Conj</pos>
 				<parse>Conjunction</parse>
@@ -4626,7 +4626,7 @@
 				<greek>καὶ</greek>
 				<english>and</english>
 			</word>
-			<word num="18">
+			<word num="18" id="v32-w18">
 				<strongs>2147</strongs>
 				<pos>V-AIP-3S</pos>
 				<parse>Verb - Aorist Indicative Passive - 3rd Person Singular</parse>
