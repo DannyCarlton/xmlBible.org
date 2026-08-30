@@ -1,112 +1,501 @@
-<?xml version="1.1" encoding="UTF-16"?>
-<?xml-model href="../chapter.xsd"?>
-<book name="Psalms" id="19">
-	<chapter num="29">
-		<verse num="1">
-			<phrase strongs="4210">A Psalm</phrase>
-			<phrase strongs="1732">of David.</phrase>
-			<phrase strongs="3051">Give</phrase>
-			<phrase strongs="3068">unto the LORD,</phrase>
-			<phrase strongs="1121">O ye mighty</phrase>
-			<phrase strongs="410">,</phrase>
-			<phrase strongs="3051">give</phrase>
-			<phrase strongs="3068">unto the LORD</phrase>
-			<phrase strongs="3519">glory</phrase>
-			<phrase strongs="5797">and strength.</phrase>
-		</verse>
-		<verse num="2">
-			<phrase strongs="3051">Give</phrase>
-			<phrase strongs="3068">unto the LORD</phrase>
-			<phrase strongs="3519">the glory</phrase>
-			<phrase strongs="8034">due unto his name;</phrase>
-			<phrase strongs="7812">worship</phrase>
-			<phrase strongs="3068">the LORD</phrase>
-			<phrase strongs="1927">in the beauty</phrase>
-			<phrase strongs="6944">of holiness.</phrase>
-		</verse>
-		<verse num="3">
-			<phrase strongs="6963">The voice</phrase>
-			<phrase strongs="3068">of the LORD</phrase>
-			<phrase strongs="4325">is upon the waters:</phrase>
-			<phrase strongs="410">the God</phrase>
-			<phrase strongs="3519">of glory</phrase>
-			<phrase strongs="7481">thundereth:</phrase>
-			<phrase strongs="3068">the LORD</phrase>
-			<phrase strongs="7227">is upon many</phrase>
-			<phrase strongs="4325">waters.</phrase>
-		</verse>
-		<verse num="4">
-			<phrase strongs="6963">The voice</phrase>
-			<phrase strongs="3068">of the LORD</phrase>
-			<phrase strongs="3581">is powerful;</phrase>
-			<phrase strongs="6963">the voice</phrase>
-			<phrase strongs="3068">of the LORD</phrase>
-			<phrase strongs="1926">is full of majesty.</phrase>
-		</verse>
-		<verse num="5">
-			<phrase strongs="6963">The voice</phrase>
-			<phrase strongs="3068">of the LORD</phrase>
-			<phrase strongs="7665">breaketh</phrase>
-			<phrase strongs="730">the cedars;</phrase>
-			<phrase strongs="3068">yea, the LORD</phrase>
-			<phrase strongs="7665">breaketh</phrase>
-			<phrase strongs="730">the cedars</phrase>
-			<phrase strongs="3844">of Lebanon.</phrase>
-		</verse>
-		<verse num="6">
-			<phrase strongs="7540">He maketh them also to skip</phrase>
-			<phrase strongs="5695">like a calf;</phrase>
-			<phrase strongs="3844">Lebanon</phrase>
-			<phrase strongs="8303">and Sirion</phrase>
-			<phrase strongs="1121">like a young</phrase>
-			<phrase strongs="7214">unicorn.</phrase>
-		</verse>
-		<verse num="7">
-			<phrase strongs="6963">The voice</phrase>
-			<phrase strongs="3068">of the LORD</phrase>
-			<phrase strongs="2672">divideth</phrase>
-			<phrase strongs="3852">the flames</phrase>
-			<phrase strongs="784">of fire.</phrase>
-		</verse>
-		<verse num="8">
-			<phrase strongs="6963">The voice</phrase>
-			<phrase strongs="3068">of the LORD</phrase>
-			<phrase strongs="2342">shaketh</phrase>
-			<phrase strongs="4057">the wilderness;</phrase>
-			<phrase strongs="3068">the LORD</phrase>
-			<phrase strongs="2342">shaketh</phrase>
-			<phrase strongs="4057">the wilderness</phrase>
-			<phrase strongs="6946">of Kadesh.</phrase>
-		</verse>
-		<verse num="9">
-			<phrase strongs="6963">The voice</phrase>
-			<phrase strongs="3068">of the LORD</phrase>
-			<phrase strongs="355">maketh the hinds</phrase>
-			<phrase strongs="2342">to calve,</phrase>
-			<phrase strongs="2834">and discovereth</phrase>
-			<phrase strongs="3295">the forests:</phrase>
-			<phrase strongs="1964">and in his temple</phrase>
-			<phrase strongs="559">doth every one speak</phrase>
-			<phrase strongs="3519">of his glory.</phrase>
-		</verse>
-		<verse num="10">
-			<phrase strongs="3068">The LORD</phrase>
-			<phrase strongs="3427">sitteth</phrase>
-			<phrase strongs="3999">upon the flood;</phrase>
-			<phrase strongs="3068">yea, the LORD</phrase>
-			<phrase strongs="3427">sitteth</phrase>
-			<phrase strongs="4428">King</phrase>
-			<phrase strongs="5769">for ever.</phrase>
-		</verse>
-		<verse num="11">
-			<phrase strongs="3068">The LORD</phrase>
-			<phrase strongs="5414">will give</phrase>
-			<phrase strongs="5797">strength</phrase>
-			<phrase strongs="5971">unto his people;</phrase>
-			<phrase strongs="3068">the LORD</phrase>
-			<phrase strongs="1288">will bless</phrase>
-			<phrase strongs="5971">his people</phrase>
-			<phrase strongs="7965">with peace.</phrase>
-		</verse>
-	</chapter>
-</book>
+<?xml version="1.0" encoding="UTF-8"?>
+<translation version="KJV" variant="Cambridge" source="CrossWire KJV2006 OSIS">
+  <testament type="Old">
+    <book name="Psalms">
+      <chapter num="29">
+        <title type="psalm" canonical="true">
+          <phrase strongs="H4210">
+            <orig ow="1" hv="1" strong="H4210" translit="miz.Mor" pos="HNcmsa" gloss="a psalm">מִזְמ֗וֹר</orig>
+            <word>A</word>
+            <word>Psalm</word>
+          </phrase>
+          <phrase strongs="H1732">
+            <orig ow="2" hv="1" strong="H1732" translit="le./Da.Vid" pos="HR/Npm" gloss="of/ David">לְ/דָ֫וִ֥ד</orig>
+            <word>of</word>
+            <word>David.</word>
+          </phrase>
+        </title>
+        <poetry>
+          <verse num="1">
+            <phrase strongs="H3051" morph="TH8798">
+              <orig ow="3" strong="H3051" translit="ha.Vu" pos="HVqv2mp" gloss="ascribe">הָב֣וּ</orig>
+              <word>Give</word>
+            </phrase>
+            <phrase strongs="H3068" divine="true">
+              <orig ow="4" strong="H3068G" translit="la./Yah.weh" pos="HR/Npt" gloss="to/ Yahweh">לַֽ֭/יהוָה</orig>
+              <word>unto</word>
+              <word>the</word>
+              <word>Lord,</word>
+            </phrase>
+            <phrase strongs="H410" strongs2="H1121">
+              <orig ow="6" strong="H0410K" translit="'e.Lim" pos="HNcmpa" gloss="gods">אֵלִ֑ים</orig>
+              <orig ow="5" strong="H1121I" translit="be.Nei" pos="HNcmpc" gloss="O sons of">בְּנֵ֣י</orig>
+              <word>O</word>
+              <word>ye</word>
+              <word>mighty,</word>
+            </phrase>
+            <phrase strongs="H3051" morph="TH8798">
+              <orig ow="7" strong="H3051" translit="ha.Vu" pos="HVqv2mp" gloss="ascribe">הָב֥וּ</orig>
+              <word>give</word>
+            </phrase>
+            <phrase strongs="H3068" divine="true">
+              <orig ow="8" strong="H3068G" translit="la./Yah.weh" pos="HR/Npt" gloss="to/ Yahweh">לַ֝/יהוָ֗ה</orig>
+              <word>unto</word>
+              <word>the</word>
+              <word>Lord</word>
+            </phrase>
+            <phrase strongs="H3519">
+              <orig ow="9" strong="H3519" translit="ka.Vod" pos="HNcmsa" gloss="glory">כָּב֥וֹד</orig>
+              <word>glory</word>
+            </phrase>
+            <phrase strongs="H5797">
+              <orig ow="10" strong="H5797" translit="va./'Oz" pos="HC/Ncmsa" gloss="and/ strength">וָ/עֹֽז\׃</orig>
+              <word>and</word>
+              <word>strength.</word>
+            </phrase>
+          </verse>
+          <verse num="2">
+            <phrase strongs="H3051" morph="TH8798">
+              <orig ow="1" strong="H3051" translit="ha.Vu" pos="HVqv2mp" gloss="ascribe">הָב֣וּ</orig>
+              <word>Give</word>
+            </phrase>
+            <phrase strongs="H3068" divine="true">
+              <orig ow="2" strong="H3068G" translit="la./Yah.weh" pos="HR/Npt" gloss="to/ Yahweh">לַֽ֭/יהוָה</orig>
+              <word>unto</word>
+              <word>the</word>
+              <word>Lord</word>
+            </phrase>
+            <phrase strongs="H3519">
+              <orig ow="3" strong="H3519" translit="ke.Vod" pos="HNcmsc" gloss="[the] glory of">כְּב֣וֹד</orig>
+              <word>the</word>
+              <word>glory</word>
+            </phrase>
+            <phrase strongs="H8034">
+              <orig ow="4" strong="H8034" translit="she.M/o" pos="HNcmsc/Sp3ms" gloss="name/ his">שְׁמ֑/וֹ</orig>
+              <word>due</word>
+              <word>unto</word>
+              <word>his</word>
+              <word>name;</word>
+            </phrase>
+            <phrase strongs="H7812" morph="TH8690">
+              <orig ow="5" strong="H7812" translit="hish.ta.cha.Vu" pos="HVtv2mp" gloss="bow down">הִשְׁתַּחֲו֥וּ</orig>
+              <word>worship</word>
+            </phrase>
+            <phrase strongs="H3068" divine="true">
+              <orig ow="6" strong="H3068G" translit="la./Yah.weh" pos="HR/Npt" gloss="to/ Yahweh">לַ֝/יהוָ֗ה</orig>
+              <word>the</word>
+              <word>Lord</word>
+            </phrase>
+            <phrase strongs="H1927">
+              <orig ow="7" strong="H1927" translit="be./had.rat-" pos="HR/Ncfsc" gloss="in/ adornment of">בְּ/הַדְרַת\־</orig>
+              <word>in</word>
+              <word>the</word>
+              <word>beauty</word>
+            </phrase>
+            <phrase strongs="H6944">
+              <orig ow="8" strong="H6944G" translit="Ko.desh" pos="HNcmsa" gloss="holiness">קֹֽדֶשׁ\׃</orig>
+              <word>of</word>
+              <word>holiness.</word>
+            </phrase>
+          </verse>
+          <verse num="3">
+            <phrase strongs="H6963">
+              <orig ow="1" strong="H6963A" translit="Kol" pos="HNcmsc" gloss="[the] voice of">ק֥וֹל</orig>
+              <word>The</word>
+              <word>voice</word>
+            </phrase>
+            <phrase strongs="H3068" divine="true">
+              <orig ow="2" strong="H3068G" translit="Yah.weh" pos="HNpt" gloss="Yahweh">יְהוָ֗ה</orig>
+              <word>of</word>
+              <word>the</word>
+              <word>Lord</word>
+            </phrase>
+            <phrase type="supplied">
+              <word supplied="true">is</word>
+            </phrase>
+            <phrase strongs="H4325">
+              <orig ow="4" strong="H4325G" translit="ha./Ma.yim" pos="HTd/Ncmpa" gloss="the/ waters">הַ֫/מָּ֥יִם</orig>
+              <word>upon</word>
+              <word>the</word>
+              <word>waters:</word>
+            </phrase>
+            <phrase strongs="H410">
+              <orig ow="5" strong="H0410G" translit="'el-" pos="HNcmsc" gloss="[the] God of">אֵֽל\־</orig>
+              <word>the</word>
+              <word>God</word>
+            </phrase>
+            <phrase strongs="H3519">
+              <orig ow="6" strong="H3519" translit="ha./ka.Vod" pos="HTd/Ncmsa" gloss="&lt;the&gt;/ glory">הַ/כָּב֥וֹד</orig>
+              <word>of</word>
+              <word>glory</word>
+            </phrase>
+            <phrase strongs="H7481" morph="TH8689">
+              <orig ow="7" strong="H7481" translit="hir.'Im" pos="HVhp3ms" gloss="he thunders">הִרְעִ֑ים</orig>
+              <word>thundereth:</word>
+            </phrase>
+            <phrase strongs="H3068" divine="true">
+              <orig ow="8" strong="H3068G" translit="Yah.weh" pos="HNpt" gloss="Yahweh">יְ֝הוָ֗ה</orig>
+              <word>the</word>
+              <word>Lord</word>
+            </phrase>
+            <phrase type="supplied">
+              <word supplied="true">is</word>
+            </phrase>
+            <phrase strongs="H7227">
+              <orig ow="11" strong="H7227A" translit="ra.Bim" pos="HAampa" gloss="many">רַבִּֽים\׃</orig>
+              <word>upon</word>
+              <word>many</word>
+            </phrase>
+            <phrase strongs="H4325">
+              <orig ow="10" strong="H4325G" translit="Ma.yim" pos="HNcmpa" gloss="waters">מַ֥יִם</orig>
+              <word>waters.</word>
+            </phrase>
+            <phrase type="orig-only">
+              <orig ow="3" strong="H5921A" translit="'al-" pos="HR" gloss="[is] over">עַל\־</orig>
+            </phrase>
+            <phrase type="orig-only">
+              <orig ow="9" strong="H5921A" translit="'al-" pos="HR" gloss="[is] over">עַל\־</orig>
+            </phrase>
+          </verse>
+          <verse num="4">
+            <phrase strongs="H6963">
+              <orig ow="1" strong="H6963A" translit="kol-" pos="HNcmsc" gloss="[the] voice of">קוֹל\־</orig>
+              <word>The</word>
+              <word>voice</word>
+            </phrase>
+            <phrase strongs="H3068" divine="true">
+              <orig ow="2" strong="H3068G" translit="Yah.weh" pos="HNpt" gloss="Yahweh">יְהוָ֥ה</orig>
+              <word>of</word>
+              <word>the</word>
+              <word>Lord</word>
+            </phrase>
+            <phrase type="supplied">
+              <word supplied="true">is</word>
+            </phrase>
+            <phrase strongs="H3581">
+              <orig ow="3" strong="H3581B" translit="ba./Ko.ach" pos="HRd/Ncmsa" gloss="[is] with &lt;the&gt;/ strength">בַּ/כֹּ֑חַ</orig>
+              <word>powerful;</word>
+            </phrase>
+            <phrase strongs="H6963">
+              <orig ow="4" strong="H6963A" translit="Kol" pos="HNcmsc" gloss="[the] voice of">ק֥וֹל</orig>
+              <word>the</word>
+              <word>voice</word>
+            </phrase>
+            <phrase strongs="H3068" divine="true">
+              <orig ow="5" strong="H3068G" translit="Yah.weh" pos="HNpt" gloss="Yahweh">יְ֝הוָ֗ה</orig>
+              <word>of</word>
+              <word>the</word>
+              <word>Lord</word>
+            </phrase>
+            <phrase type="supplied">
+              <word supplied="true">is</word>
+            </phrase>
+            <phrase strongs="H1926">
+              <orig ow="6" strong="H1926" translit="be./ha.Dar" pos="HRd/Ncmsa" gloss="[is] with &lt;the&gt;/ majesty">בֶּ/הָדָֽר\׃</orig>
+              <word>full</word>
+              <word>of</word>
+              <word>majesty.</word>
+            </phrase>
+          </verse>
+          <verse num="5">
+            <phrase strongs="H6963">
+              <orig ow="1" strong="H6963A" translit="Kol" pos="HNcmsc" gloss="[the] voice of">ק֣וֹל</orig>
+              <word>The</word>
+              <word>voice</word>
+            </phrase>
+            <phrase strongs="H3068" divine="true">
+              <orig ow="2" strong="H3068G" translit="Yah.weh" pos="HNpt" gloss="Yahweh">יְ֭הוָה</orig>
+              <word>of</word>
+              <word>the</word>
+              <word>Lord</word>
+            </phrase>
+            <phrase strongs="H7665" morph="TH8799">
+              <orig ow="3" strong="H7665" translit="sho.Ver" pos="HVqrmsa" gloss="[is] breaking">שֹׁבֵ֣ר</orig>
+              <word>breaketh</word>
+            </phrase>
+            <phrase strongs="H730">
+              <orig ow="4" strong="H0730" translit="'a.ra.Zim" pos="HNcmpa" gloss="cedars">אֲרָזִ֑ים</orig>
+              <word>the</word>
+              <word>cedars;</word>
+            </phrase>
+            <phrase strongs="H3068" divine="true">
+              <orig ow="6" strong="H3068G" translit="Yah.weh" pos="HNpt" gloss="Yahweh">יְ֝הוָ֗ה</orig>
+              <word>yea,</word>
+              <word>the</word>
+              <word>Lord</word>
+            </phrase>
+            <phrase strongs="H7665" morph="TH8762">
+              <orig ow="5" strong="H7665" translit="va/y.sha.Ber" pos="Hc/Vpw3ms" gloss="and/ he broke in pieces">וַ/יְשַׁבֵּ֥ר</orig>
+              <word>breaketh</word>
+            </phrase>
+            <phrase strongs="H730">
+              <orig ow="8" strong="H0730" translit="'ar.Zei" pos="HNcmpc" gloss="[the] cedars of">אַרְזֵ֥י</orig>
+              <word>the</word>
+              <word>cedars</word>
+            </phrase>
+            <phrase strongs="H3844">
+              <orig ow="9" strong="H3844G" translit="ha./le.va.Non" pos="HTd/Npl" gloss="&lt;the&gt;/ Lebanon">הַ/לְּבָנֽוֹן\׃</orig>
+              <word>of</word>
+              <word>Lebanon.</word>
+            </phrase>
+            <phrase type="orig-only">
+              <orig ow="7" strong="H0853" translit="'et-" pos="HTo" gloss="&lt;obj.&gt;">אֶת\־</orig>
+            </phrase>
+          </verse>
+          <verse num="6">
+            <phrase strongs="H7540" morph="TH8686">
+              <orig ow="1" strong="H7540" translit="va/i.yar.ki.De/m" pos="Hc/Vhw3ms/Sp3mp" gloss="and/ he made skip/ them">וַ/יַּרְקִידֵ֥/ם</orig>
+              <word>He</word>
+              <word>maketh</word>
+              <word>them</word>
+              <word>also</word>
+              <word>to</word>
+              <word>skip</word>
+            </phrase>
+            <phrase strongs="H5695">
+              <orig ow="3" strong="H5695" translit="'E.gel" pos="HNcmsa" gloss="a calf">עֵ֑גֶל</orig>
+              <word>like</word>
+              <word>a</word>
+              <word>calf;</word>
+            </phrase>
+            <phrase strongs="H3844">
+              <orig ow="4" strong="H3844G" translit="le.va.Non" pos="HNpl" gloss="Lebanon">לְבָנ֥וֹן</orig>
+              <word>Lebanon</word>
+            </phrase>
+            <phrase strongs="H8303">
+              <orig ow="5" strong="H8303" translit="ve./sir.Yon" pos="HC/Npl" gloss="and/ Sirion">וְ֝/שִׂרְיֹ֗ן</orig>
+              <word>and</word>
+              <word>Sirion</word>
+            </phrase>
+            <phrase strongs="H1121">
+              <orig ow="7" strong="H1121H" translit="ven-" pos="HNcmsc" gloss="a young one of">בֶן\־</orig>
+              <word>like</word>
+              <word>a</word>
+              <word>young</word>
+            </phrase>
+            <phrase strongs="H7214">
+              <orig ow="8" strong="H7214" translit="re.'e.Mim" pos="HNcmpa" gloss="wild oxen">רְאֵמִֽים\׃</orig>
+              <word>unicorn.</word>
+            </phrase>
+            <phrase type="orig-only">
+              <orig ow="2" strong="H3644G" translit="ke.mov-" pos="HR" gloss="like">כְּמוֹ\־</orig>
+            </phrase>
+            <phrase type="orig-only">
+              <orig ow="6" strong="H3644G" translit="ke.Mo" pos="HR" gloss="like">כְּמ֣וֹ</orig>
+            </phrase>
+          </verse>
+          <verse num="7">
+            <phrase strongs="H6963">
+              <orig ow="1" strong="H6963A" translit="kol-" pos="HNcmsc" gloss="[the] voice of">קוֹל\־</orig>
+              <word>The</word>
+              <word>voice</word>
+            </phrase>
+            <phrase strongs="H3068" divine="true">
+              <orig ow="2" strong="H3068G" translit="Yah.weh" pos="HNpt" gloss="Yahweh">יְהוָ֥ה</orig>
+              <word>of</word>
+              <word>the</word>
+              <word>Lord</word>
+            </phrase>
+            <phrase strongs="H2672" morph="TH8802">
+              <orig ow="3" strong="H2672" translit="cho.Tzev" pos="HVqrmsa" gloss="[is] striking">חֹצֵ֗ב</orig>
+              <word>divideth</word>
+            </phrase>
+            <phrase strongs="H3852">
+              <orig ow="4" strong="H3852" translit="la.ha.Vot" pos="HNcfpc" gloss="flames of">לַהֲב֥וֹת</orig>
+              <word>the</word>
+              <word>flames</word>
+            </phrase>
+            <phrase strongs="H784">
+              <orig ow="5" strong="H0784" translit="'Esh" pos="HNcbsa" gloss="fire">אֵֽשׁ\׃</orig>
+              <word>of</word>
+              <word>fire.</word>
+            </phrase>
+          </verse>
+          <verse num="8">
+            <phrase strongs="H6963">
+              <orig ow="1" strong="H6963A" translit="Kol" pos="HNcmsc" gloss="[the] voice of">ק֣וֹל</orig>
+              <word>The</word>
+              <word>voice</word>
+            </phrase>
+            <phrase strongs="H3068" divine="true">
+              <orig ow="2" strong="H3068G" translit="Yah.weh" pos="HNpt" gloss="Yahweh">יְ֭הוָה</orig>
+              <word>of</word>
+              <word>the</word>
+              <word>Lord</word>
+            </phrase>
+            <phrase strongs="H2342" morph="TH8799">
+              <orig ow="3" strong="H2342A" translit="ya.Chil" pos="HVhi3ms" gloss="it causes to tremble">יָחִ֣יל</orig>
+              <word>shaketh</word>
+            </phrase>
+            <phrase strongs="H4057">
+              <orig ow="4" strong="H4057B" translit="mid.Bar" pos="HNcmsa" gloss="[the] wilderness">מִדְבָּ֑ר</orig>
+              <word>the</word>
+              <word>wilderness;</word>
+            </phrase>
+            <phrase strongs="H3068" divine="true">
+              <orig ow="6" strong="H3068G" translit="Yah.weh" pos="HNpt" gloss="Yahweh">יְ֝הוָ֗ה</orig>
+              <word>the</word>
+              <word>Lord</word>
+            </phrase>
+            <phrase strongs="H2342" morph="TH8799">
+              <orig ow="5" strong="H2342A" translit="ya.Chil" pos="HVhi3ms" gloss="he causes to tremble">יָחִ֥יל</orig>
+              <word>shaketh</word>
+            </phrase>
+            <phrase strongs="H4057">
+              <orig ow="7" strong="H4057B" translit="mid.Bar" pos="HNcmsc" gloss="[the] wilderness of">מִדְבַּ֥ר</orig>
+              <word>the</word>
+              <word>wilderness</word>
+            </phrase>
+            <phrase strongs="H6946">
+              <orig ow="8" strong="H6946G" translit="ka.Desh" pos="HNpl" gloss="Kadesh">קָדֵֽשׁ\׃</orig>
+              <word>of</word>
+              <word>Kadesh.</word>
+            </phrase>
+          </verse>
+          <verse num="9">
+            <phrase strongs="H6963">
+              <orig ow="1" strong="H6963A" translit="Kol" pos="HNcmsc" gloss="[the] voice of">ק֤וֹל</orig>
+              <word>The</word>
+              <word>voice</word>
+            </phrase>
+            <phrase strongs="H3068" divine="true">
+              <orig ow="2" strong="H3068G" translit="Yah.weh" pos="HNpt" gloss="Yahweh">יְהוָ֨ה\׀</orig>
+              <word>of</word>
+              <word>the</word>
+              <word>Lord</word>
+            </phrase>
+            <phrase strongs="H355">
+              <orig ow="4" strong="H0355" translit="'ai.ya.lOt" pos="HNcfpa" gloss="does">אַיָּלוֹת֮</orig>
+              <word>maketh</word>
+              <word>the</word>
+              <word>hinds</word>
+            </phrase>
+            <phrase strongs="H2342" morph="TH8787">
+              <orig ow="3" strong="H2342J" translit="ye.cho.Lel" pos="HVpi3ms" gloss="it causes labor pains to">יְחוֹלֵ֣ל</orig>
+              <word>to</word>
+              <word>calve,</word>
+            </phrase>
+            <phrase strongs="H2834" morph="TH8799">
+              <orig ow="5" strong="H2834" translit="va/i.ye.che.Sof" pos="Hc/Vqw3ms" gloss="and/ it stripped bare">וַֽ/יֶּחֱשֹׂ֪ף</orig>
+              <word>and</word>
+              <word>discovereth</word>
+            </phrase>
+            <phrase strongs="H3295">
+              <orig ow="6" strong="H3293A" match="alt" translit="ye.'A.Rot" pos="HNcfpa" gloss="forests">יְעָ֫ר֥וֹת</orig>
+              <word>the</word>
+              <word>forests:</word>
+            </phrase>
+            <phrase strongs="H1964">
+              <orig ow="7" strong="H1964G" translit="u./ve./hei.kha.L/o" pos="HC/R/Ncmsc/Sp3ms" gloss="and/ in/ temple/ his">וּ/בְ/הֵיכָל֑/וֹ</orig>
+              <word>and</word>
+              <word>in</word>
+              <word>his</word>
+              <word>temple</word>
+            </phrase>
+            <phrase strongs="H559" morph="TH8802">
+              <orig ow="9" strong="H0559" translit="'o.Mer" pos="HVqrmsa" gloss="[is] saying">אֹמֵ֥ר</orig>
+              <word>doth</word>
+              <word>every</word>
+              <word>one</word>
+              <word>speak</word>
+            </phrase>
+            <phrase type="untagged">
+              <word>of</word>
+            </phrase>
+            <phrase type="supplied">
+              <word supplied="true">his</word>
+            </phrase>
+            <phrase strongs="H3519">
+              <orig ow="10" strong="H3519" translit="ka.Vod" pos="HNcmsa" gloss="glory">כָּבֽוֹד\׃</orig>
+              <word>glory.</word>
+            </phrase>
+            <phrase type="orig-only">
+              <orig ow="8" strong="H3605" translit="ku.L/o" pos="HNcmsc/Sp3ms" gloss="all of/ it">כֻּ֝לּ֗/וֹ</orig>
+            </phrase>
+          </verse>
+          <verse num="10">
+            <phrase strongs="H3068" divine="true">
+              <orig ow="1" strong="H3068G" translit="Yah.weh" pos="HNpt" gloss="Yahweh">יְ֭הוָה</orig>
+              <word>The</word>
+              <word>Lord</word>
+            </phrase>
+            <phrase strongs="H3427" morph="TH8804">
+              <orig ow="3" strong="H3427" translit="ya.Shav" pos="HVqp3ms" gloss="he sat">יָשָׁ֑ב</orig>
+              <word>sitteth</word>
+            </phrase>
+            <phrase strongs="H3999">
+              <orig ow="2" strong="H3999" translit="la./ma.Bul" pos="HRd/Ncmsa" gloss="to the/ flood">לַ/מַּבּ֣וּל</orig>
+              <word>upon</word>
+              <word>the</word>
+              <word>flood;</word>
+            </phrase>
+            <phrase strongs="H3068" divine="true">
+              <orig ow="5" strong="H3068G" translit="Yah.weh" pos="HNpt" gloss="Yahweh">יְ֝הוָ֗ה</orig>
+              <word>yea,</word>
+              <word>the</word>
+              <word>Lord</word>
+            </phrase>
+            <phrase strongs="H3427" morph="TH8799">
+              <orig ow="4" strong="H3427" translit="va/i.Ye.shev" pos="Hc/Vqw3ms" gloss="and/ he sat">וַ/יֵּ֥שֶׁב</orig>
+              <word>sitteth</word>
+            </phrase>
+            <phrase strongs="H4428">
+              <orig ow="6" strong="H4428G" translit="Me.lekh" pos="HNcmsa" gloss="king">מֶ֣לֶךְ</orig>
+              <word>King</word>
+            </phrase>
+            <phrase strongs="H5769">
+              <orig ow="7" strong="H5769G" translit="le./'o.Lam" pos="HR/Ncmsa" gloss="for/ ever">לְ/עוֹלָֽם\׃</orig>
+              <word>for</word>
+              <word>ever.</word>
+            </phrase>
+          </verse>
+          <verse num="11">
+            <phrase strongs="H3068" divine="true">
+              <orig ow="1" strong="H3068G" translit="Yah.weh" pos="HNpt" gloss="Yahweh">יְֽהוָ֗ה</orig>
+              <word>The</word>
+              <word>Lord</word>
+            </phrase>
+            <phrase strongs="H5414" morph="TH8799">
+              <orig ow="4" strong="H5414G" translit="yi.Ten" pos="HVqi3ms" gloss="he will give">יִתֵּ֑ן</orig>
+              <word>will</word>
+              <word>give</word>
+            </phrase>
+            <phrase strongs="H5797">
+              <orig ow="2" strong="H5797" translit="'oz" pos="HNcmsa" gloss="strength">עֹ֭ז</orig>
+              <word>strength</word>
+            </phrase>
+            <phrase strongs="H5971">
+              <orig ow="3" strong="H5971A" translit="le./'a.M/o" pos="HR/Ncmsc/Sp3ms" gloss="to/ people/ his">לְ/עַמּ֣/וֹ</orig>
+              <word>unto</word>
+              <word>his</word>
+              <word>people;</word>
+            </phrase>
+            <phrase strongs="H3068" divine="true">
+              <orig ow="5" strong="H3068G" translit="Yah.weh" pos="HNpt" gloss="Yahweh">יְהוָ֓ה\׀</orig>
+              <word>the</word>
+              <word>Lord</word>
+            </phrase>
+            <phrase strongs="H1288" morph="TH8762">
+              <orig ow="6" strong="H1288" translit="ye.va.Rekh" pos="HVpi3ms" gloss="he will bless">יְבָרֵ֖ךְ</orig>
+              <word>will</word>
+              <word>bless</word>
+            </phrase>
+            <phrase strongs="H5971">
+              <orig ow="8" strong="H5971A" translit="a.M/o" pos="HNcmsc/Sp3ms" gloss="people/ his">עַמּ֣/וֹ</orig>
+              <word>his</word>
+              <word>people</word>
+            </phrase>
+            <phrase strongs="H7965">
+              <orig ow="9" strong="H7965G" translit="va./sha.Lom" pos="HRd/Ncmsa" gloss="with &lt;the&gt;/ peace">בַ/שָּׁלֽוֹם\׃</orig>
+              <word>with</word>
+              <word>peace.</word>
+            </phrase>
+            <phrase type="orig-only">
+              <orig ow="7" strong="H0853" translit="'et-" pos="HTo" gloss="&lt;obj.&gt;">אֶת\־</orig>
+            </phrase>
+          </verse>
+        </poetry>
+      </chapter>
+    </book>
+  </testament>
+</translation>

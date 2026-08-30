@@ -1,84 +1,452 @@
-<?xml version="1.1" encoding="UTF-16"?>
-<?xml-model href="../chapter.xsd"?>
-<book name="Psalms" id="19">
-	<chapter num="8">
-		<verse num="1">
-			<phrase strongs="5329">To the chief Musician</phrase>
-			<phrase strongs="1665">upon Gittith,</phrase>
-			<phrase strongs="4210">A Psalm</phrase>
-			<phrase strongs="1732">of David.</phrase>
-			<phrase strongs="3068">O LORD</phrase>
-			<phrase strongs="113">our Lord,</phrase>
-			<phrase strongs="117">how excellent</phrase>
-			<phrase strongs="8034">is thy name</phrase>
-			<phrase strongs="776">in all the earth!</phrase>
-			<phrase strongs="5414">who hast set</phrase>
-			<phrase strongs="1935">thy glory</phrase>
-			<phrase strongs="8064">above the heavens.</phrase>
-		</verse>
-		<verse num="2">
-			<phrase strongs="6310">Out of the mouth</phrase>
-			<phrase strongs="5768">of babes</phrase>
-			<phrase strongs="3243">and sucklings</phrase>
-			<phrase strongs="3245">hast thou ordained</phrase>
-			<phrase strongs="5797">strength</phrase>
-			<phrase strongs="6887">because of thine enemies,</phrase>
-			<phrase strongs="7673">that thou mightest still</phrase>
-			<phrase strongs="341">the enemy</phrase>
-			<phrase strongs="5358">and the avenger.</phrase>
-		</verse>
-		<verse num="3">
-			<phrase strongs="7200">When I consider</phrase>
-			<phrase strongs="8064">thy heavens,</phrase>
-			<phrase strongs="4639">the work</phrase>
-			<phrase strongs="676">of thy fingers,</phrase>
-			<phrase strongs="3394">the moon</phrase>
-			<phrase strongs="3556">and the stars,</phrase>
-			<phrase strongs="3559">which thou hast ordained;</phrase>
-		</verse>
-		<verse num="4">
-			<phrase strongs="582">What is man,</phrase>
-			<phrase strongs="2142">that thou art mindful</phrase>
-			<phrase strongs="1121">of him? and the son</phrase>
-			<phrase strongs="120">of man,</phrase>
-			<phrase strongs="6485">that thou visitesthim?</phrase>
-		</verse>
-		<verse num="5">
-			<phrase strongs="4592">For thou hast made him a little</phrase>
-			<phrase strongs="2637">lower</phrase>
-			<phrase strongs="430">than the angels,</phrase>
-			<phrase strongs="5849">and hast crowned</phrase>
-			<phrase strongs="3519">him with glory</phrase>
-			<phrase strongs="1926">and honour.</phrase>
-		</verse>
-		<verse num="6">
-			<phrase strongs="4910">Thou madest him to have dominion</phrase>
-			<phrase strongs="4639">over the works</phrase>
-			<phrase strongs="3027">of thy hands;</phrase>
-			<phrase strongs="7896">thou hast put</phrase>
-			<phrase strongs="7272">all things under his feet:</phrase>
-		</verse>
-		<verse num="7">
-			<phrase strongs="6792">All sheep</phrase>
-			<phrase strongs="504">and oxen,</phrase>
-			<phrase strongs="929">yea and the beasts</phrase>
-			<phrase strongs="7704">of the field;</phrase>
-		</verse>
-		<verse num="8">
-			<phrase strongs="6833">The fowl</phrase>
-			<phrase strongs="8064">of the air,</phrase>
-			<phrase strongs="1709">and the fish</phrase>
-			<phrase strongs="3220">of the sea,</phrase>
-			<phrase strongs="5674">and whatsoever passeth through</phrase>
-			<phrase strongs="734">the paths</phrase>
-			<phrase strongs="3220">of the seas.</phrase>
-		</verse>
-		<verse num="9">
-			<phrase strongs="3068">O LORD</phrase>
-			<phrase strongs="113">our Lord,</phrase>
-			<phrase strongs="117">how excellent</phrase>
-			<phrase strongs="8034">is thy name</phrase>
-			<phrase strongs="776">in all the earth!</phrase>
-		</verse>
-	</chapter>
-</book>
+<?xml version="1.0" encoding="UTF-8"?>
+<translation version="KJV" variant="Cambridge" source="CrossWire KJV2006 OSIS">
+  <testament type="Old">
+    <book name="Psalms">
+      <chapter num="8">
+        <title type="psalm" canonical="true">
+          <phrase strongs="H5329" morph="TH8764">
+            <orig ow="1" hv="1" strong="H5329" translit="la/m.na.Tze.ach" pos="HRd/Vprmsa" gloss="to the/ choirmaster">לַ/מְנַצֵּ֥חַ</orig>
+            <word>To</word>
+            <word>the</word>
+            <word>chief</word>
+            <word>Musician</word>
+          </phrase>
+          <phrase strongs="H1665">
+            <orig ow="3" hv="1" strong="H1665" translit="ha./gi.Tit" pos="HTd/Ntfsa" gloss="the/ Gittith">הַ/גִּתִּ֗ית</orig>
+            <word>upon</word>
+            <word>Gittith,</word>
+          </phrase>
+          <phrase strongs="H4210">
+            <orig ow="4" hv="1" strong="H4210" translit="miz.Mor" pos="HNcmsa" gloss="a psalm">מִזְמ֥וֹר</orig>
+            <word>A</word>
+            <word>Psalm</word>
+          </phrase>
+          <phrase strongs="H1732">
+            <orig ow="5" hv="1" strong="H1732" translit="le./da.Vid" pos="HR/Npm" gloss="of/ David">לְ/דָוִֽד\׃</orig>
+            <word>of</word>
+            <word>David.</word>
+          </phrase>
+          <phrase type="orig-only">
+            <orig ow="2" hv="1" strong="H5921A" translit="'al-" pos="HR" gloss="on">עַֽל\־</orig>
+          </phrase>
+        </title>
+        <poetry>
+          <verse num="1">
+            <phrase strongs="H3068" divine="true">
+              <orig ow="1" strong="H3068G" translit="Yah.weh" pos="HNpt" gloss="O Yahweh">יְהוָ֤ה</orig>
+              <word>O</word>
+              <word>Lord</word>
+            </phrase>
+            <phrase strongs="H113">
+              <orig ow="2" strong="H0113" translit="'a.do.Nei./nu" pos="HNcmpc/Sp1bp" gloss="lord&lt;s&gt;/ our">אֲדֹנֵ֗י/נוּ</orig>
+              <word>our</word>
+              <word>Lord,</word>
+            </phrase>
+            <phrase strongs="H117">
+              <orig ow="4" strong="H0117" translit="'a.Dir" pos="HAamsa" gloss="majestic">אַדִּ֣יר</orig>
+              <word>how</word>
+              <word>excellent</word>
+            </phrase>
+            <phrase type="supplied">
+              <word supplied="true">is</word>
+            </phrase>
+            <phrase strongs="H8034">
+              <orig ow="5" strong="H8034" translit="Shim./kha" pos="HNcmsc/Sp2ms" gloss="[is] name/ your">שִׁ֭מְ/ךָ</orig>
+              <word>thy</word>
+              <word>name</word>
+            </phrase>
+            <phrase strongs="H776">
+              <orig ow="7" strong="H0776G" translit="ha./'A.retz" pos="HTd/Ncfsa" gloss="the/ earth">הָ/אָ֑רֶץ</orig>
+              <word>in</word>
+              <word>all</word>
+              <word>the</word>
+              <word>earth!</word>
+            </phrase>
+            <phrase strongs="H5414" morph="TH8798">
+              <orig ow="9" strong="H5414H" translit="te.Na/h" pos="HVqv2ms/Sh" gloss="set/ !">תְּנָ֥/ה</orig>
+              <word>who</word>
+              <word>hast</word>
+              <word>set</word>
+            </phrase>
+            <phrase strongs="H1935">
+              <orig ow="10" strong="H1935" translit="hod./kha" pos="HNcmsc/Sp2ms" gloss="splendor/ your">ה֝וֹדְ/ךָ֗</orig>
+              <word>thy</word>
+              <word>glory</word>
+            </phrase>
+            <phrase strongs="H8064">
+              <orig ow="12" strong="H8064" translit="ha./sha.Ma.yim" pos="HTd/Ncmpa" gloss="the/ heavens">הַ/שָּׁמָֽיִם\׃</orig>
+              <word>above</word>
+              <word>the</word>
+              <word>heavens.</word>
+            </phrase>
+            <phrase type="orig-only">
+              <orig ow="3" strong="H4100" translit="mah-" pos="HPi" gloss="how!">מָֽה\־</orig>
+            </phrase>
+            <phrase type="orig-only">
+              <orig ow="6" strong="H3605" translit="be./khol" pos="HR/Ncmsc" gloss="in/ all">בְּ/כָל\־</orig>
+            </phrase>
+            <phrase type="orig-only">
+              <orig ow="8" strong="H0834A" translit="'a.Sher" pos="HTr" gloss="[the one] who">אֲשֶׁ֥ר</orig>
+            </phrase>
+            <phrase type="orig-only">
+              <orig ow="11" strong="H5921A" translit="'al-" pos="HR" gloss="above">עַל\־</orig>
+            </phrase>
+          </verse>
+          <verse num="2">
+            <phrase strongs="H6310">
+              <orig ow="1" strong="H6310G" translit="mi./Pi" pos="HR/Ncmsc" gloss="from/ [the] mouth of">מִ/פִּ֤י</orig>
+              <word>Out</word>
+              <word>of</word>
+              <word>the</word>
+              <word>mouth</word>
+            </phrase>
+            <phrase strongs="H5768">
+              <orig ow="2" strong="H5768" translit="'o.Lim" pos="HNcmpa" gloss="children">עֽוֹלְלִ֨ים\׀</orig>
+              <word>of</word>
+              <word>babes</word>
+            </phrase>
+            <phrase strongs="H3243" morph="TH8802">
+              <orig ow="3" strong="H3243J" translit="ve./yo.ne.Kim" pos="HC/Ncmpa" gloss="and/ suckling-children">וְֽ/יֹנְקִים֮</orig>
+              <word>and</word>
+              <word>sucklings</word>
+            </phrase>
+            <phrase strongs="H3245" morph="TH8765">
+              <orig ow="4" strong="H3245" translit="yi.Sad.ta" pos="HVpp2ms" gloss="you have established">יִסַּ֪דְתָּ֫</orig>
+              <word>hast</word>
+              <word>thou</word>
+              <word>ordained</word>
+            </phrase>
+            <phrase strongs="H5797">
+              <orig ow="5" strong="H5797" translit="'oz" pos="HNcmsa" gloss="strength">עֹ֥ז</orig>
+              <word>strength</word>
+            </phrase>
+            <phrase strongs="H6887" morph="TH8802">
+              <orig ow="7" strong="H6887D" translit="tzo.Rei./kha" pos="HVqrmpc/Sp2ms" gloss="opposers/ your">צוֹרְרֶ֑י/ךָ</orig>
+              <word>because</word>
+              <word>of</word>
+              <word>thine</word>
+              <word>enemies,</word>
+            </phrase>
+            <phrase strongs="H7673" morph="TH8687">
+              <orig ow="8" strong="H7673A" translit="le./hash.Bit" pos="HR/Vhcc" gloss="to/ put an end to">לְ/הַשְׁבִּ֥ית</orig>
+              <word>that</word>
+              <word>thou</word>
+              <word>mightest</word>
+              <word>still</word>
+            </phrase>
+            <phrase strongs="H341" morph="TH8802">
+              <orig ow="9" strong="H0341" translit="'o.Yev" pos="HVqrmsa" gloss="an enemy">א֝וֹיֵ֗ב</orig>
+              <word>the</word>
+              <word>enemy</word>
+            </phrase>
+            <phrase strongs="H5358" morph="TH8693">
+              <orig ow="10" strong="H5358" translit="u./mit.na.Kem" pos="HC/Vtrmsa" gloss="and/ an avenger">וּ/מִתְנַקֵּֽם\׃</orig>
+              <word>and</word>
+              <word>the</word>
+              <word>avenger.</word>
+            </phrase>
+            <phrase type="orig-only">
+              <orig ow="6" strong="H4616" translit="le.Ma.'an" pos="HTc" gloss="on account of">לְמַ֥עַן</orig>
+            </phrase>
+          </verse>
+        </poetry>
+        <poetry type="extra">
+          <verse num="3">
+            <phrase strongs="H7200" morph="TH8799">
+              <orig ow="2" strong="H7200G" translit="'er.'Eh" pos="HVqi1cs" gloss="I will see">אֶרְאֶ֣ה</orig>
+              <word>When</word>
+              <word>I</word>
+              <word>consider</word>
+            </phrase>
+            <phrase strongs="H8064">
+              <orig ow="3" strong="H8064" translit="Sha.mei./kha" pos="HNcmpc/Sp2ms" gloss="heavens/ your">שָׁ֭מֶי/ךָ</orig>
+              <word>thy</word>
+              <word>heavens,</word>
+            </phrase>
+            <phrase strongs="H4639">
+              <orig ow="4" strong="H4639G" translit="ma.'a.Sei" pos="HNcmpc" gloss="[the] works">מַעֲשֵׂ֣י</orig>
+              <word>the</word>
+              <word>work</word>
+            </phrase>
+            <phrase strongs="H676">
+              <orig ow="5" strong="H0676" translit="'etz.be.'o.Tei./kha" pos="HNcfpc/Sp2ms" gloss="fingers/ your">אֶצְבְּעֹתֶ֑י/ךָ</orig>
+              <word>of</word>
+              <word>thy</word>
+              <word>fingers,</word>
+            </phrase>
+            <phrase strongs="H3394">
+              <orig ow="6" strong="H3394" translit="ya.Re.ach" pos="HNcmsa" gloss="[the] moon">יָרֵ֥חַ</orig>
+              <word>the</word>
+              <word>moon</word>
+            </phrase>
+            <phrase strongs="H3556">
+              <orig ow="7" strong="H3556" translit="ve./kho.kha.Vim" pos="HC/Ncmpa" gloss="and/ [the] stars">וְ֝/כוֹכָבִ֗ים</orig>
+              <word>and</word>
+              <word>the</word>
+              <word>stars,</word>
+            </phrase>
+            <phrase strongs="H3559" morph="TH8790">
+              <orig ow="9" strong="H3559I" translit="ko.Na.ne.tah" pos="HVpp2ms" gloss="you have established">כּוֹנָֽנְתָּה\׃</orig>
+              <word>which</word>
+              <word>thou</word>
+              <word>hast</word>
+              <word>ordained;</word>
+            </phrase>
+            <phrase type="orig-only">
+              <orig ow="1" strong="H3588A" translit="ki-" pos="HTc" gloss="if">כִּֽי\־</orig>
+            </phrase>
+            <phrase type="orig-only">
+              <orig ow="8" strong="H0834A" translit="'a.Sher" pos="HTr" gloss="which">אֲשֶׁ֣ר</orig>
+            </phrase>
+          </verse>
+          <verse num="4">
+            <phrase strongs="H582">
+              <orig ow="2" strong="H0582" translit="'e.No.osh" pos="HNcmsa" gloss="[is] humankind">אֱנ֥וֹשׁ</orig>
+              <word>What</word>
+              <word>is</word>
+              <word>man,</word>
+            </phrase>
+            <phrase strongs="H2142" morph="TH8799">
+              <orig ow="4" strong="H2142" translit="tiz.ke.Re./nu" pos="HVqi2ms/Sp3ms" gloss="you will remember/ him">תִזְכְּרֶ֑/נּוּ</orig>
+              <word>that</word>
+              <word>thou</word>
+              <word>art</word>
+              <word>mindful</word>
+            </phrase>
+            <phrase strongs="H1121">
+              <orig ow="5" strong="H1121A" translit="u./ven-" pos="HC/Ncmsc" gloss="and/ a son of">וּ/בֶן\־</orig>
+              <word>of</word>
+              <word>him?</word>
+              <word>and</word>
+              <word>the</word>
+              <word>son</word>
+            </phrase>
+            <phrase strongs="H120">
+              <orig ow="6" strong="H0120G" translit="'a.Dam" pos="HNcmsa" gloss="humankind">אָ֝דָ֗ם</orig>
+              <word>of</word>
+              <word>man,</word>
+            </phrase>
+            <phrase strongs="H6485" morph="TH8799">
+              <orig ow="8" strong="H6485I" translit="tif.ke.De./nu" pos="HVqi2ms/Sp3ms" gloss="you will pay attention to/ him">תִפְקְדֶֽ/נּוּ\׃</orig>
+              <word>that</word>
+              <word>thou</word>
+              <word>visitest</word>
+            </phrase>
+            <phrase type="untagged">
+              <word>him?</word>
+            </phrase>
+            <phrase type="orig-only">
+              <orig ow="1" strong="H4100" translit="mah-" pos="HPi" gloss="what?">מָֽה\־</orig>
+            </phrase>
+            <phrase type="orig-only">
+              <orig ow="3" strong="H3588A" translit="ki-" pos="HTc" gloss="that">כִּֽי\־</orig>
+            </phrase>
+            <phrase type="orig-only">
+              <orig ow="7" strong="H3588A" translit="ki" pos="HTc" gloss="that">כִּ֣י</orig>
+            </phrase>
+          </verse>
+          <verse num="5">
+            <phrase strongs="H4592">
+              <orig ow="2" strong="H4592" translit="Me.'at" pos="HNcmsa" gloss="little">מְּ֭עַט</orig>
+              <word>For</word>
+              <word>thou</word>
+              <word>hast</word>
+              <word>made</word>
+              <word>him</word>
+              <word>a</word>
+              <word>little</word>
+            </phrase>
+            <phrase strongs="H2637" morph="TH8762">
+              <orig ow="1" strong="H2637" translit="va./te.cha.se.Re./hu" pos="Hc/Vpw2ms/Sp3ms" gloss="and/ you have made lack/ him">וַ/תְּחַסְּרֵ֣/הוּ</orig>
+              <word>lower</word>
+            </phrase>
+            <phrase strongs="H430">
+              <orig ow="3" strong="H0430G" translit="me./'E.lo.Him" pos="HR/Ncmpa" gloss="from/ God">מֵ/אֱלֹהִ֑ים</orig>
+              <word>than</word>
+              <word>the</word>
+              <word>angels,</word>
+            </phrase>
+            <phrase strongs="H5849" morph="TH8762">
+              <orig ow="6" strong="H5849B" translit="te.'a.te.Re./hu" pos="HVpi2ms/Sp3ms" gloss="you crown/ him">תְּעַטְּרֵֽ/הוּ\׃</orig>
+              <word>and</word>
+              <word>hast</word>
+              <word>crowned</word>
+            </phrase>
+            <phrase strongs="H3519">
+              <orig ow="4" strong="H3519" translit="ve./kha.Vod" pos="HC/Ncmsa" gloss="and/ honor">וְ/כָב֖וֹד</orig>
+              <word>him</word>
+              <word>with</word>
+              <word>glory</word>
+            </phrase>
+            <phrase strongs="H1926">
+              <orig ow="5" strong="H1926" translit="ve./ha.Dar" pos="HC/Ncmsa" gloss="and/ majesty">וְ/הָדָ֣ר</orig>
+              <word>and</word>
+              <word>honour.</word>
+            </phrase>
+          </verse>
+          <verse num="6">
+            <phrase strongs="H4910" morph="TH8686">
+              <orig ow="1" strong="H4910" translit="Tam.shi.le./hu" pos="HVhi2ms/Sp3ms" gloss="you make rule/ him">תַּ֭מְשִׁילֵ/הוּ</orig>
+              <word>Thou</word>
+              <word>madest</word>
+              <word>him</word>
+              <word>to</word>
+              <word>have</word>
+              <word>dominion</word>
+            </phrase>
+            <phrase strongs="H4639">
+              <orig ow="2" strong="H4639G" translit="be./ma.'a.Sei" pos="HR/Ncmpc" gloss="over/ [the] works of">בְּ/מַעֲשֵׂ֣י</orig>
+              <word>over</word>
+              <word>the</word>
+              <word>works</word>
+            </phrase>
+            <phrase strongs="H3027">
+              <orig ow="3" strong="H3027G" translit="ya.Dei./kha" pos="HNcbdc/Sp2ms" gloss="hands/ your">יָדֶ֑י/ךָ</orig>
+              <word>of</word>
+              <word>thy</word>
+              <word>hands;</word>
+            </phrase>
+            <phrase strongs="H7896" morph="TH8804">
+              <orig ow="5" strong="H7896H" translit="Sha.tah" pos="HVqp2ms" gloss="you have put">שַׁ֣תָּה</orig>
+              <word>thou</word>
+              <word>hast</word>
+              <word>put</word>
+            </phrase>
+            <phrase type="untagged">
+              <word>all</word>
+            </phrase>
+            <phrase type="supplied">
+              <word supplied="true">things</word>
+            </phrase>
+            <phrase strongs="H7272">
+              <orig ow="7" strong="H7272" translit="rag.La/v" pos="HNcfdc/Sp3ms" gloss="feet/ his">רַגְלָֽי/ו\׃</orig>
+              <word>under</word>
+              <word>his</word>
+              <word>feet:</word>
+            </phrase>
+            <phrase type="orig-only">
+              <orig ow="4" strong="H3605" translit="kol" pos="HNcmsa" gloss="everything">כֹּ֝ל</orig>
+            </phrase>
+            <phrase type="orig-only">
+              <orig ow="6" strong="H8478G" translit="ta.chat-" pos="HNcmsc" gloss="under">תַֽחַת\־</orig>
+            </phrase>
+          </verse>
+          <verse num="7">
+            <phrase strongs="H6792">
+              <orig ow="1" strong="H6792" translit="tzo.Neh" pos="HNcmsa" gloss="sheep">צֹנֶ֣ה</orig>
+              <word>All</word>
+              <word>sheep</word>
+            </phrase>
+            <phrase strongs="H504">
+              <orig ow="2" strong="H0504" translit="va./'a.la.Fim" pos="HC/Ncmpa" gloss="and/ cattle&lt;s&gt;">וַ/אֲלָפִ֣ים</orig>
+              <word>and</word>
+              <word>oxen,</word>
+            </phrase>
+            <phrase strongs="H929">
+              <orig ow="5" strong="H0929" translit="ba.ha.Mot" pos="HNcfpc" gloss="[the] animals of">בַּהֲמ֥וֹת</orig>
+              <word>yea,</word>
+              <word>and</word>
+              <word>the</word>
+              <word>beasts</word>
+            </phrase>
+            <phrase strongs="H7704">
+              <orig ow="6" strong="H7704M" translit="sa.Dai" pos="HNcmsa" gloss="[the] field">שָׂדָֽי\׃</orig>
+              <word>of</word>
+              <word>the</word>
+              <word>field;</word>
+            </phrase>
+            <phrase type="orig-only">
+              <orig ow="3" strong="H3605" translit="ku.La/m" pos="HNcmsc/Sp3mp" gloss="all of/ them">כֻּלָּ֑/ם</orig>
+            </phrase>
+            <phrase type="orig-only">
+              <orig ow="4" strong="H1571" translit="ve./Gam" pos="HC/D" gloss="and/ also">וְ֝/גַ֗ם</orig>
+            </phrase>
+          </verse>
+          <verse num="8">
+            <phrase strongs="H6833">
+              <orig ow="1" strong="H6833" translit="tzi.Por" pos="HNcbsc" gloss="[the] bird[s] of">צִפּ֣וֹר</orig>
+              <word>The</word>
+              <word>fowl</word>
+            </phrase>
+            <phrase strongs="H8064">
+              <orig ow="2" strong="H8064" translit="Sha.ma.yim" pos="HNcmpa" gloss="[the] heavens">שָׁ֭מַיִם</orig>
+              <word>of</word>
+              <word>the</word>
+              <word>air,</word>
+            </phrase>
+            <phrase strongs="H1709">
+              <orig ow="3" strong="H1709H" translit="u./de.Gei" pos="HC/Ncmpc" gloss="and/ [the] fish of">וּ/דְגֵ֣י</orig>
+              <word>and</word>
+              <word>the</word>
+              <word>fish</word>
+            </phrase>
+            <phrase strongs="H3220">
+              <orig ow="4" strong="H3220G" translit="hai./Yam" pos="HTd/Ncmsa" gloss="the/ sea">הַ/יָּ֑ם</orig>
+              <word>of</word>
+              <word>the</word>
+              <word>sea,</word>
+            </phrase>
+            <phrase type="supplied">
+              <word supplied="true">and</word>
+              <word supplied="true">whatsoever</word>
+            </phrase>
+            <phrase strongs="H5674" morph="TH8802">
+              <orig ow="5" strong="H5674A" translit="'o.Ver" pos="HVqrmsa" gloss="[that which] passes through">עֹ֝בֵ֗ר</orig>
+              <word>passeth</word>
+              <word>through</word>
+            </phrase>
+            <phrase strongs="H734">
+              <orig ow="6" strong="H0734" translit="'a.re.Chot" pos="HNcfpc" gloss="[the] paths of">אָרְח֥וֹת</orig>
+              <word>the</word>
+              <word>paths</word>
+            </phrase>
+            <phrase strongs="H3220">
+              <orig ow="7" strong="H3220G" translit="ya.Mim" pos="HNcmpa" gloss="[the] seas">יַמִּֽים\׃</orig>
+              <word>of</word>
+              <word>the</word>
+              <word>seas.</word>
+            </phrase>
+          </verse>
+          <verse num="9">
+            <phrase strongs="H3068" divine="true">
+              <orig ow="1" strong="H3068G" translit="Yah.weh" pos="HNpt" gloss="O Yahweh">יְהוָ֥ה</orig>
+              <word>O</word>
+              <word>Lord</word>
+            </phrase>
+            <phrase strongs="H113">
+              <orig ow="2" strong="H0113" translit="'a.do.Nei./nu" pos="HNcmpc/Sp1bp" gloss="lord&lt;s&gt;/ our">אֲדֹנֵ֑י/נוּ</orig>
+              <word>our</word>
+              <word>Lord,</word>
+            </phrase>
+            <phrase strongs="H117">
+              <orig ow="4" strong="H0117" translit="'a.Dir" pos="HAamsa" gloss="majestic">אַדִּ֥יר</orig>
+              <word>how</word>
+              <word>excellent</word>
+            </phrase>
+            <phrase type="supplied">
+              <word supplied="true">is</word>
+            </phrase>
+            <phrase strongs="H8034">
+              <orig ow="5" strong="H8034" translit="Shim./Kha" pos="HNcmsc/Sp2ms" gloss="[is] name/ your">שִׁ֝מְ/ךָ֗</orig>
+              <word>thy</word>
+              <word>name</word>
+            </phrase>
+            <phrase strongs="H776">
+              <orig ow="7" strong="H0776G" translit="ha./'A.retz" pos="HTd/Ncfsa" gloss="the/ earth">הָ/אָֽרֶץ\׃</orig>
+              <word>in</word>
+              <word>all</word>
+              <word>the</word>
+              <word>earth!</word>
+            </phrase>
+            <phrase type="orig-only">
+              <orig ow="3" strong="H4100" translit="mah-" pos="HPi" gloss="how!">מָֽה\־</orig>
+            </phrase>
+            <phrase type="orig-only">
+              <orig ow="6" strong="H3605" translit="be./khol" pos="HR/Ncmsc" gloss="in/ all">בְּ/כָל\־</orig>
+            </phrase>
+          </verse>
+        </poetry>
+      </chapter>
+    </book>
+  </testament>
+</translation>

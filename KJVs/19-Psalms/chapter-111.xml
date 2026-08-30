@@ -1,95 +1,460 @@
-<?xml version="1.1" encoding="UTF-16"?>
-<?xml-model href="../chapter.xsd"?>
-<book name="Psalms" id="19">
-	<chapter num="111">
-		<verse num="1">
-			<phrase strongs="1984">Praise</phrase>
-			<phrase strongs="3050">ye the LORD.</phrase>
-			<phrase strongs="3034">I will praise</phrase>
-			<phrase strongs="3068">the LORD</phrase>
-			<phrase strongs="3824">with my whole heart,</phrase>
-			<phrase strongs="5475">in the assembly</phrase>
-			<phrase strongs="3477">of the upright,</phrase>
-			<phrase strongs="5712">and in the congregation.</phrase>
-		</verse>
-		<verse num="2">
-			<phrase strongs="4639">The works</phrase>
-			<phrase strongs="3068">of the LORD</phrase>
-			<phrase strongs="1419">are great,</phrase>
-			<phrase strongs="1875">sought out</phrase>
-			<phrase strongs="2656">of all them that have pleasure therein.</phrase>
-		</verse>
-		<verse num="3">
-			<phrase strongs="6467">His work</phrase>
-			<phrase strongs="1935">is honourable</phrase>
-			<phrase strongs="1926">and glorious:</phrase>
-			<phrase strongs="6666">and his righteousness</phrase>
-			<phrase strongs="5975">endureth</phrase>
-			<phrase strongs="5703">for ever.</phrase>
-		</verse>
-		<verse num="4">
-			<phrase strongs="6213">He hath made</phrase>
-			<phrase strongs="6381">his wonderful works</phrase>
-			<phrase strongs="2143">to be remembered:</phrase>
-			<phrase strongs="3068">the LORD</phrase>
-			<phrase strongs="2587">is gracious</phrase>
-			<phrase strongs="7349">and full of compassion.</phrase>
-		</verse>
-		<verse num="5">
-			<phrase strongs="5414">He hath given</phrase>
-			<phrase strongs="2964">meat</phrase>
-			<phrase strongs="3373">unto them that fear</phrase>
-			<phrase strongs="5769">him: he will ever</phrase>
-			<phrase strongs="2142">be mindful</phrase>
-			<phrase strongs="1285">of his covenant.</phrase>
-		</verse>
-		<verse num="6">
-			<phrase strongs="5046">He hath shewed</phrase>
-			<phrase strongs="5971">his people</phrase>
-			<phrase strongs="3581">the power</phrase>
-			<phrase strongs="4639">of his works,</phrase>
-			<phrase strongs="5414">that he may give</phrase>
-			<phrase strongs="5159">them the heritage</phrase>
-			<phrase strongs="1471">of the heathen.</phrase>
-		</verse>
-		<verse num="7">
-			<phrase strongs="4639">The works</phrase>
-			<phrase strongs="3027">of his hands</phrase>
-			<phrase strongs="571">are verity</phrase>
-			<phrase strongs="4941">and judgment;</phrase>
-			<phrase strongs="6490">all his commandments</phrase>
-			<phrase strongs="539">are sure.</phrase>
-		</verse>
-		<verse num="8">
-			<phrase strongs="5564">They stand fast</phrase>
-			<phrase strongs="5703">for ever</phrase>
-			<phrase strongs="5769">and ever,</phrase>
-			<phrase strongs="6213">and are done</phrase>
-			<phrase strongs="571">in truth</phrase>
-			<phrase strongs="3477">and uprightness.</phrase>
-		</verse>
-		<verse num="9">
-			<phrase strongs="7971">He sent</phrase>
-			<phrase strongs="6304">redemption</phrase>
-			<phrase strongs="5971">unto his people:</phrase>
-			<phrase strongs="6680">he hath commanded</phrase>
-			<phrase strongs="1285">his covenant</phrase>
-			<phrase strongs="5769">for ever:</phrase>
-			<phrase strongs="6918">holy</phrase>
-			<phrase strongs="3372">and reverend</phrase>
-			<phrase strongs="8034">is his name.</phrase>
-		</verse>
-		<verse num="10">
-			<phrase strongs="3374">The fear</phrase>
-			<phrase strongs="3068">of the LORD</phrase>
-			<phrase strongs="7225">is the beginning</phrase>
-			<phrase strongs="2451">of wisdom:</phrase>
-			<phrase strongs="2896">a good</phrase>
-			<phrase strongs="7922">understanding</phrase>
-			<phrase strongs="6213">have all they that do</phrase>
-			<phrase strongs="8416">his commandments: his praise</phrase>
-			<phrase strongs="5975">endureth</phrase>
-			<phrase strongs="5703">for ever.</phrase>
-		</verse>
-	</chapter>
-</book>
+<?xml version="1.0" encoding="UTF-8"?>
+<translation version="KJV" variant="Cambridge" source="CrossWire KJV2006 OSIS">
+  <testament type="Old">
+    <book name="Psalms">
+      <chapter num="111">
+        <poetry>
+          <verse num="1">
+            <phrase strongs="H1984" morph="TH8761">
+              <orig ow="1" strong="H1984B" translit="Ha.lu" pos="HVpv2mp" gloss="praise">הַ֥לְלוּ</orig>
+              <word>Praise</word>
+            </phrase>
+            <phrase strongs="H3050" divine="true">
+              <orig ow="2" strong="H3050" translit="yah" pos="HNpm" gloss="Yahweh">יָ֨הּ\׀</orig>
+              <word>ye</word>
+              <word>the</word>
+              <word>Lord.</word>
+            </phrase>
+            <phrase strongs="H3034" morph="TH8686">
+              <orig ow="3" strong="H3034" translit="'o.Deh" pos="HVhi1cs" gloss="I will give thanks to">אוֹדֶ֣ה</orig>
+              <word>I</word>
+              <word>will</word>
+              <word>praise</word>
+            </phrase>
+            <phrase strongs="H3068" divine="true">
+              <orig ow="4" strong="H3068G" translit="Yah.weh" pos="HNpt" gloss="Yahweh">יְ֭הוָה</orig>
+              <word>the</word>
+              <word>Lord</word>
+            </phrase>
+            <phrase type="untagged">
+              <word>with</word>
+            </phrase>
+            <phrase type="supplied">
+              <word supplied="true">my</word>
+            </phrase>
+            <phrase strongs="H3824">
+              <orig ow="6" strong="H3824" translit="le.Vav" pos="HNcmsa" gloss="[the] heart">לֵבָ֑ב</orig>
+              <word>whole</word>
+              <word>heart,</word>
+            </phrase>
+            <phrase strongs="H5475">
+              <orig ow="7" strong="H5475" translit="be./Sod" pos="HR/Ncmsc" gloss="in/ [the] council of">בְּ/ס֖וֹד</orig>
+              <word>in</word>
+              <word>the</word>
+              <word>assembly</word>
+            </phrase>
+            <phrase strongs="H3477">
+              <orig ow="8" strong="H3477G" translit="ye.sha.Rim" pos="HAampa" gloss="upright [people]">יְשָׁרִ֣ים</orig>
+              <word>of</word>
+              <word>the</word>
+              <word>upright,</word>
+            </phrase>
+            <phrase type="untagged">
+              <word>and</word>
+            </phrase>
+            <phrase type="supplied">
+              <word supplied="true">in</word>
+            </phrase>
+            <phrase strongs="H5712">
+              <orig ow="9" strong="H5712" translit="ve./'e.Dah" pos="HC/Ncfsa" gloss="and/ [the] congregation">וְ/עֵדָֽה\׃</orig>
+              <word>the</word>
+              <word>congregation.</word>
+            </phrase>
+            <phrase type="orig-only">
+              <orig ow="5" strong="H3605" translit="be./khol" pos="HR/Ncmsc" gloss="with/ all">בְּ/כָל\־</orig>
+            </phrase>
+          </verse>
+          <verse num="2">
+            <phrase strongs="H4639">
+              <orig ow="2" strong="H4639G" translit="ma.'a.Sei" pos="HNcmpc" gloss="[the] works of">מַעֲשֵׂ֣י</orig>
+              <word>The</word>
+              <word>works</word>
+            </phrase>
+            <phrase strongs="H3068" divine="true">
+              <orig ow="3" strong="H3068G" translit="Yah.weh" pos="HNpt" gloss="Yahweh">יְהוָ֑ה</orig>
+              <word>of</word>
+              <word>the</word>
+              <word>Lord</word>
+            </phrase>
+            <phrase type="supplied">
+              <word supplied="true">are</word>
+            </phrase>
+            <phrase strongs="H1419">
+              <orig ow="1" strong="H1419A" translit="Ge.do.lim" pos="HAampa" gloss="[are] great">גְּ֭דֹלִים</orig>
+              <word>great,</word>
+            </phrase>
+            <phrase strongs="H1875" morph="TH8803">
+              <orig ow="4" strong="H1875" translit="de.ru.Shim" pos="HVqsmpa" gloss="[they are] studied">דְּ֝רוּשִׁ֗ים</orig>
+              <word>sought</word>
+              <word>out</word>
+            </phrase>
+            <phrase strongs="H2656">
+              <orig ow="6" strong="H2656" translit="chef.tzei./Hem" pos="HAampc/Sp3mp" gloss="[those] delighting in/ them">חֶפְצֵי/הֶֽם\׃</orig>
+              <word>of</word>
+              <word>all</word>
+              <word>them</word>
+              <word>that</word>
+              <word>have</word>
+              <word>pleasure</word>
+            </phrase>
+            <phrase type="untagged">
+              <word>therein.</word>
+            </phrase>
+            <phrase type="orig-only">
+              <orig ow="5" strong="H3605" translit="le./khol" pos="HR/Ncmsc" gloss="by/ all">לְ/כָל\־</orig>
+            </phrase>
+          </verse>
+          <verse num="3">
+            <phrase strongs="H6467">
+              <orig ow="3" strong="H6467" translit="po.'o.L/o" pos="HNcmsc/Sp3ms" gloss="work/ his">פָּֽעֳל֑/וֹ</orig>
+              <word>His</word>
+              <word>work</word>
+            </phrase>
+            <phrase type="supplied">
+              <word supplied="true">is</word>
+            </phrase>
+            <phrase strongs="H1935">
+              <orig ow="1" strong="H1935" translit="hod-" pos="HNcmsa" gloss="[is] splendor">הוֹד\־</orig>
+              <word>honourable</word>
+            </phrase>
+            <phrase strongs="H1926">
+              <orig ow="2" strong="H1926" translit="ve./ha.Dar" pos="HC/Ncmsa" gloss="and/ majesty">וְ/הָדָ֥ר</orig>
+              <word>and</word>
+              <word>glorious:</word>
+            </phrase>
+            <phrase strongs="H6666">
+              <orig ow="4" strong="H6666" translit="ve./tzid.ka.T/o" pos="HC/Ncfsc/Sp3ms" gloss="and/ righteousness/ his">וְ֝/צִדְקָת֗/וֹ</orig>
+              <word>and</word>
+              <word>his</word>
+              <word>righteousness</word>
+            </phrase>
+            <phrase strongs="H5975" morph="TH8802">
+              <orig ow="5" strong="H5975G" translit="'o.Me.det" pos="HVqrfsa" gloss="[is] enduring">עֹמֶ֥דֶת</orig>
+              <word>endureth</word>
+            </phrase>
+            <phrase strongs="H5703">
+              <orig ow="6" strong="H5703" translit="la./'Ad" pos="HR/Ncmsa" gloss="for/ ever">לָ/עַֽד\׃</orig>
+              <word>for</word>
+              <word>ever.</word>
+            </phrase>
+          </verse>
+          <verse num="4">
+            <phrase strongs="H6213" morph="TH8804">
+              <orig ow="2" strong="H6213A" translit="'A.sah" pos="HVqp3ms" gloss="he has appointed">עָ֭שָׂה</orig>
+              <word>He</word>
+              <word>hath</word>
+              <word>made</word>
+            </phrase>
+            <phrase strongs="H6381" morph="TH8737">
+              <orig ow="3" strong="H6381" translit="le./nif.le.'o.Ta/v" pos="HR/VNrfpc/Sp3ms" gloss="of/ wonders/ his">לְ/נִפְלְאֹתָ֑י/ו</orig>
+              <word>his</word>
+              <word>wonderful</word>
+              <word>works</word>
+            </phrase>
+            <phrase strongs="H2143">
+              <orig ow="1" strong="H2143" translit="Ze.kher" pos="HNcmsa" gloss="remembrance">זֵ֣כֶר</orig>
+              <word>to</word>
+              <word>be</word>
+              <word>remembered:</word>
+            </phrase>
+            <phrase strongs="H3068" divine="true">
+              <orig ow="6" strong="H3068G" translit="Yah.weh" pos="HNpt" gloss="Yahweh">יְהוָֽה\׃</orig>
+              <word>the</word>
+              <word>Lord</word>
+            </phrase>
+            <phrase type="supplied">
+              <word supplied="true">is</word>
+            </phrase>
+            <phrase strongs="H2587">
+              <orig ow="4" strong="H2587" translit="cha.Nun" pos="HAamsa" gloss="[is] gracious">חַנּ֖וּן</orig>
+              <word>gracious</word>
+            </phrase>
+            <phrase strongs="H7349">
+              <orig ow="5" strong="H7349" translit="ve./ra.Chum" pos="HC/Aamsa" gloss="and/ compassionate">וְ/רַח֣וּם</orig>
+              <word>and</word>
+              <word>full</word>
+              <word>of</word>
+              <word>compassion.</word>
+            </phrase>
+          </verse>
+          <verse num="5">
+            <phrase strongs="H5414" morph="TH8804">
+              <orig ow="2" strong="H5414G" translit="na.Tan" pos="HVqp3ms" gloss="he gives">נָתַ֣ן</orig>
+              <word>He</word>
+              <word>hath</word>
+              <word>given</word>
+            </phrase>
+            <phrase strongs="H2964">
+              <orig ow="1" strong="H2964" translit="Te.ref" pos="HNcmsa" gloss="food">טֶ֭רֶף</orig>
+              <word>meat</word>
+            </phrase>
+            <phrase strongs="H3373">
+              <orig ow="3" strong="H3373" translit="li./re.'A/v" pos="HR/Aampc/Sp3ms" gloss="to/ [those] fearing/ him">לִֽ/ירֵאָ֑י/ו</orig>
+              <word>unto</word>
+              <word>them</word>
+              <word>that</word>
+              <word>fear</word>
+            </phrase>
+            <phrase strongs="H5769">
+              <orig ow="5" strong="H5769G" translit="le./'o.Lam" pos="HR/Ncmsa" gloss="for/ ever">לְ/עוֹלָ֣ם</orig>
+              <word>him:</word>
+              <word>he</word>
+              <word>will</word>
+              <word>ever</word>
+            </phrase>
+            <phrase strongs="H2142" morph="TH8799">
+              <orig ow="4" strong="H2142" translit="yiz.Kor" pos="HVqi3ms" gloss="he remembers">יִזְכֹּ֖ר</orig>
+              <word>be</word>
+              <word>mindful</word>
+            </phrase>
+            <phrase strongs="H1285">
+              <orig ow="6" strong="H1285" translit="be.ri.T/o" pos="HNcfsc/Sp3ms" gloss="covenant/ his">בְּרִיתֽ/וֹ\׃</orig>
+              <word>of</word>
+              <word>his</word>
+              <word>covenant.</word>
+            </phrase>
+          </verse>
+        </poetry>
+        <poetry type="extra">
+          <verse num="6">
+            <phrase strongs="H5046" morph="TH8689">
+              <orig ow="3" strong="H5046" translit="hi.Gid" pos="HVhp3ms" gloss="he has declared">הִגִּ֣יד</orig>
+              <word>He</word>
+              <word>hath</word>
+              <word>shewed</word>
+            </phrase>
+            <phrase strongs="H5971">
+              <orig ow="4" strong="H5971A" translit="le./'a.M/o" pos="HR/Ncmsc/Sp3ms" gloss="to/ people/ his">לְ/עַמּ֑/וֹ</orig>
+              <word>his</word>
+              <word>people</word>
+            </phrase>
+            <phrase strongs="H3581">
+              <orig ow="1" strong="H3581B" translit="Ko.ach" pos="HNcmsc" gloss="[the] power of">כֹּ֣חַ</orig>
+              <word>the</word>
+              <word>power</word>
+            </phrase>
+            <phrase strongs="H4639">
+              <orig ow="2" strong="H4639G" translit="Ma.'a.sa/v" pos="HNcmpc/Sp3ms" gloss="works/ his">מַ֭עֲשָׂי/ו</orig>
+              <word>of</word>
+              <word>his</word>
+              <word>works,</word>
+            </phrase>
+            <phrase strongs="H5414" morph="TH8800">
+              <orig ow="5" strong="H5414G" translit="la./Tet" pos="HR/Vqcc" gloss="to/ give">לָ/תֵ֥ת</orig>
+              <word>that</word>
+              <word>he</word>
+              <word>may</word>
+              <word>give</word>
+            </phrase>
+            <phrase strongs="H5159">
+              <orig ow="7" strong="H5159" translit="na.cha.Lat" pos="HNcfsc" gloss="an inheritance of">נַחֲלַ֥ת</orig>
+              <word>them</word>
+              <word>the</word>
+              <word>heritage</word>
+            </phrase>
+            <phrase strongs="H1471">
+              <orig ow="8" strong="H1471A" translit="go.Yim" pos="HNcmpa" gloss="nations">גּוֹיִֽם\׃</orig>
+              <word>of</word>
+              <word>the</word>
+              <word>heathen.</word>
+            </phrase>
+            <phrase type="orig-only">
+              <orig ow="6" strong="H9038" translit="la./Hem" pos="HR/Sp3mp" gloss="to/ them">לָ֝/הֶ֗ם</orig>
+            </phrase>
+          </verse>
+          <verse num="7">
+            <phrase strongs="H4639">
+              <orig ow="1" strong="H4639G" translit="ma.'a.Sei" pos="HNcmpc" gloss="[the] works of">מַעֲשֵׂ֣י</orig>
+              <word>The</word>
+              <word>works</word>
+            </phrase>
+            <phrase strongs="H3027">
+              <orig ow="2" strong="H3027G" translit="Ya.da/v" pos="HNcbdc/Sp3ms" gloss="hands/ his">יָ֭דָי/ו</orig>
+              <word>of</word>
+              <word>his</word>
+              <word>hands</word>
+            </phrase>
+            <phrase type="supplied">
+              <word supplied="true">are</word>
+            </phrase>
+            <phrase strongs="H571">
+              <orig ow="3" strong="H0571G" translit="'e.Met" pos="HNcfsa" gloss="[are] faithfulness">אֱמֶ֣ת</orig>
+              <word>verity</word>
+            </phrase>
+            <phrase strongs="H4941">
+              <orig ow="4" strong="H4941H" translit="u./mish.Pat" pos="HC/Ncmsa" gloss="and/ justice">וּ/מִשְׁפָּ֑ט</orig>
+              <word>and</word>
+              <word>judgment;</word>
+            </phrase>
+            <phrase strongs="H6490">
+              <orig ow="7" strong="H6490" translit="pi.ku.Da/v" pos="HNcmpc/Sp3ms" gloss="precepts/ his">פִּקּוּדָֽי/ו\׃</orig>
+              <word>all</word>
+              <word>his</word>
+              <word>commandments</word>
+            </phrase>
+            <phrase type="supplied">
+              <word supplied="true">are</word>
+            </phrase>
+            <phrase strongs="H539" morph="TH8737">
+              <orig ow="5" strong="H0539" translit="ne.'e.ma.Nim" pos="HVNrmpa" gloss="[are] reliable">נֶ֝אֱמָנִ֗ים</orig>
+              <word>sure.</word>
+            </phrase>
+            <phrase type="orig-only">
+              <orig ow="6" strong="H3605" translit="kol-" pos="HNcmsc" gloss="all">כָּל\־</orig>
+            </phrase>
+          </verse>
+          <verse num="8">
+            <phrase strongs="H5564" morph="TH8803">
+              <orig ow="1" strong="H5564" translit="se.mu.Khim" pos="HVqsmpa" gloss="[they are] sustained">סְמוּכִ֣ים</orig>
+              <word>They</word>
+              <word>stand</word>
+              <word>fast</word>
+            </phrase>
+            <phrase strongs="H5703">
+              <orig ow="2" strong="H5703" translit="la./'Ad" pos="HR/Ncmsa" gloss="for/ ever">לָ/עַ֣ד</orig>
+              <word>for</word>
+              <word>ever</word>
+            </phrase>
+            <phrase strongs="H5769">
+              <orig ow="3" strong="H5769G" translit="le./'o.Lam" pos="HR/Ncmsa" gloss="for/ ever">לְ/עוֹלָ֑ם</orig>
+              <word>and</word>
+              <word>ever,</word>
+            </phrase>
+            <phrase type="supplied">
+              <word supplied="true">and</word>
+              <word supplied="true">are</word>
+            </phrase>
+            <phrase strongs="H6213" morph="TH8803">
+              <orig ow="4" strong="H6213A" translit="'a.su.Yim" pos="HVqsmpa" gloss="[they are] done">עֲ֝שׂוּיִ֗ם</orig>
+              <word>done</word>
+            </phrase>
+            <phrase strongs="H571">
+              <orig ow="5" strong="H0571G" translit="be./'e.Met" pos="HR/Ncfsa" gloss="in/ faithfulness">בֶּ/אֱמֶ֥ת</orig>
+              <word>in</word>
+              <word>truth</word>
+            </phrase>
+            <phrase strongs="H3477">
+              <orig ow="6" strong="H3477G" translit="ve./ya.Shar" pos="HC/Aamsa" gloss="and/ upright[ness]">וְ/יָשָֽׁר\׃</orig>
+              <word>and</word>
+              <word>uprightness.</word>
+            </phrase>
+          </verse>
+          <verse num="9">
+            <phrase strongs="H7971" morph="TH8804">
+              <orig ow="2" strong="H7971G" translit="sha.Lach" pos="HVqp3ms" gloss="he sent">שָׁ֘לַ֤ח</orig>
+              <word>He</word>
+              <word>sent</word>
+            </phrase>
+            <phrase strongs="H6304">
+              <orig ow="1" strong="H6304" translit="pe.Dut" pos="HNcfsa" gloss="redemption">פְּד֤וּת\׀</orig>
+              <word>redemption</word>
+            </phrase>
+            <phrase strongs="H5971">
+              <orig ow="3" strong="H5971A" translit="le./'a.M/o" pos="HR/Ncmsc/Sp3ms" gloss="for/ people/ his">לְ/עַמּ֗/וֹ</orig>
+              <word>unto</word>
+              <word>his</word>
+              <word>people:</word>
+            </phrase>
+            <phrase strongs="H6680" morph="TH8765">
+              <orig ow="4" strong="H6680" translit="tzi.vah-" pos="HVpp3ms" gloss="he ordained">צִוָּֽה\־</orig>
+              <word>he</word>
+              <word>hath</word>
+              <word>commanded</word>
+            </phrase>
+            <phrase strongs="H1285">
+              <orig ow="6" strong="H1285" translit="be.ri.T/o" pos="HNcfsc/Sp3ms" gloss="covenant/ his">בְּרִית֑/וֹ</orig>
+              <word>his</word>
+              <word>covenant</word>
+            </phrase>
+            <phrase strongs="H5769">
+              <orig ow="5" strong="H5769G" translit="le./'o.Lam" pos="HR/Ncmsa" gloss="for/ ever">לְ/עוֹלָ֥ם</orig>
+              <word>for</word>
+              <word>ever:</word>
+            </phrase>
+            <phrase strongs="H6918">
+              <orig ow="7" strong="H6918G" translit="ka.Do.osh" pos="HAamsa" gloss="[is] holy">קָד֖וֹשׁ</orig>
+              <word>holy</word>
+            </phrase>
+            <phrase strongs="H3372" morph="TH8737">
+              <orig ow="8" strong="H3372H" translit="ve./no.Ra'" pos="HC/VNrmsa" gloss="and/ to be feared">וְ/נוֹרָ֣א</orig>
+              <word>and</word>
+              <word>reverend</word>
+            </phrase>
+            <phrase type="supplied">
+              <word supplied="true">is</word>
+            </phrase>
+            <phrase strongs="H8034">
+              <orig ow="9" strong="H8034" translit="she.M/o" pos="HNcmsc/Sp3ms" gloss="name/ his">שְׁמֽ/וֹ\׃</orig>
+              <word>his</word>
+              <word>name.</word>
+            </phrase>
+          </verse>
+          <verse num="10">
+            <phrase strongs="H3374">
+              <orig ow="3" strong="H3374" translit="yir.'At" pos="HNcfsc" gloss="[the] fear of">יִרְאַ֬ת</orig>
+              <word>The</word>
+              <word>fear</word>
+            </phrase>
+            <phrase strongs="H3068" divine="true">
+              <orig ow="4" strong="H3068G" translit="Yah.weh" pos="HNpt" gloss="Yahweh">יְהוָ֗ה</orig>
+              <word>of</word>
+              <word>the</word>
+              <word>Lord</word>
+            </phrase>
+            <phrase type="supplied">
+              <word supplied="true">is</word>
+            </phrase>
+            <phrase strongs="H7225">
+              <orig ow="1" strong="H7225G" translit="re.Sheet" pos="HNcfsc" gloss="[is the] beginning of">רֵ֘אשִׁ֤ית</orig>
+              <word>the</word>
+              <word>beginning</word>
+            </phrase>
+            <phrase strongs="H2451">
+              <orig ow="2" strong="H2451" translit="chokh.mah" pos="HNcfsa" gloss="wisdom">חָכְמָ֨ה\׀</orig>
+              <word>of</word>
+              <word>wisdom:</word>
+            </phrase>
+            <phrase strongs="H2896">
+              <orig ow="6" strong="H2896A" translit="Tov" pos="HAamsa" gloss="good">ט֭וֹב</orig>
+              <word>a</word>
+              <word>good</word>
+            </phrase>
+            <phrase strongs="H7922">
+              <orig ow="5" strong="H7922" translit="Se.khel" pos="HNcmsa" gloss="an understanding">שֵׂ֣כֶל</orig>
+              <word>understanding</word>
+            </phrase>
+            <phrase strongs="H6213" morph="TH8802">
+              <orig ow="8" strong="H6213A" translit="'o.sei./Hem" pos="HVqrmpc/Sp3mp" gloss="[those who] do/ them">עֹשֵׂי/הֶ֑ם</orig>
+              <word>have</word>
+              <word>all</word>
+              <word>they</word>
+              <word>that</word>
+              <word>do</word>
+            </phrase>
+            <phrase type="supplied">
+              <word supplied="true">his</word>
+              <word supplied="true">commandments:</word>
+            </phrase>
+            <phrase strongs="H8416">
+              <orig ow="9" strong="H8416" translit="te.hi.la.T/o" pos="HNcfsc/Sp3ms" gloss="praise/ his">תְּ֝הִלָּת֗/וֹ</orig>
+              <word>his</word>
+              <word>praise</word>
+            </phrase>
+            <phrase strongs="H5975" morph="TH8802">
+              <orig ow="10" strong="H5975G" translit="'o.Me.det" pos="HVqrfsa" gloss="[is] enduring">עֹמֶ֥דֶת</orig>
+              <word>endureth</word>
+            </phrase>
+            <phrase strongs="H5703">
+              <orig ow="11" strong="H5703" translit="la./'Ad" pos="HR/Ncmsa" gloss="for/ ever">לָ/עַֽד\׃</orig>
+              <word>for</word>
+              <word>ever.</word>
+            </phrase>
+            <phrase type="orig-only">
+              <orig ow="7" strong="H3605" translit="le./khol" pos="HR/Ncmsc" gloss="[belongs] to/ all">לְ/כָל\־</orig>
+            </phrase>
+          </verse>
+        </poetry>
+      </chapter>
+    </book>
+  </testament>
+</translation>

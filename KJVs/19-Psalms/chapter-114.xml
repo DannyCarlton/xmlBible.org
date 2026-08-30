@@ -1,70 +1,303 @@
-<?xml version="1.1" encoding="UTF-16"?>
-<?xml-model href="../chapter.xsd"?>
-<book name="Psalms" id="19">
-	<chapter num="114">
-		<verse num="1">
-			<phrase strongs="3478">When Israel</phrase>
-			<phrase strongs="3318">went out</phrase>
-			<phrase strongs="4714">of Egypt,</phrase>
-			<phrase strongs="1004">the house</phrase>
-			<phrase strongs="3290">of Jacob</phrase>
-			<phrase strongs="5971">from a people</phrase>
-			<phrase strongs="3937">of strange language;</phrase>
-		</verse>
-		<verse num="2">
-			<phrase strongs="3063">Judah</phrase>
-			<phrase strongs="6944">was his sanctuary,</phrase>
-			<phrase strongs="3478">and Israel</phrase>
-			<phrase strongs="4475">his dominion.</phrase>
-		</verse>
-		<verse num="3">
-			<phrase strongs="3220">The sea</phrase>
-			<phrase strongs="7200">saw</phrase>
-			<phrase strongs="5127">it, and fled:</phrase>
-			<phrase strongs="3383">Jordan</phrase>
-			<phrase strongs="5437">was driven</phrase>
-			<phrase strongs="268">back.</phrase>
-		</verse>
-		<verse num="4">
-			<phrase strongs="2022">The mountains</phrase>
-			<phrase strongs="7540">skipped</phrase>
-			<phrase strongs="352">like rams,</phrase>
-			<phrase strongs="1389">and the little hills</phrase>
-			<phrase strongs="1121">like lambs</phrase>
-			<phrase strongs="6629">.</phrase>
-		</verse>
-		<verse num="5">
-			<phrase strongs="3220">What ailed thee, O thou sea,</phrase>
-			<phrase strongs="5127">that thou fleddest?</phrase>
-			<phrase strongs="3383">thou Jordan,</phrase>
-			<phrase strongs="5437">that thou wast driven</phrase>
-			<phrase strongs="268">back?</phrase>
-		</verse>
-		<verse num="6">
-			<phrase strongs="2022">Ye mountains,</phrase>
-			<phrase strongs="7540">that ye skipped</phrase>
-			<phrase strongs="352">like rams;</phrase>
-			<phrase strongs="1389">and ye little hills,</phrase>
-			<phrase strongs="1121">like lambs</phrase>
-			<phrase strongs="6629">?</phrase>
-		</verse>
-		<verse num="7">
-			<phrase strongs="2342">Tremble,</phrase>
-			<phrase strongs="776">thou earth,</phrase>
-			<phrase strongs="6440">at the presence</phrase>
-			<phrase strongs="113">of the Lord,</phrase>
-			<phrase strongs="6440">at the presence</phrase>
-			<phrase strongs="433">of the God</phrase>
-			<phrase strongs="3290">of Jacob;</phrase>
-		</verse>
-		<verse num="8">
-			<phrase strongs="2015">Which turned</phrase>
-			<phrase strongs="6697">the rock</phrase>
-			<phrase strongs="98">into a standing</phrase>
-			<phrase strongs="4325">water,</phrase>
-			<phrase strongs="2496">the flint</phrase>
-			<phrase strongs="4599">into a fountain</phrase>
-			<phrase strongs="4325">of waters.</phrase>
-		</verse>
-	</chapter>
-</book>
+<?xml version="1.0" encoding="UTF-8"?>
+<translation version="KJV" variant="Cambridge" source="CrossWire KJV2006 OSIS">
+  <testament type="Old">
+    <book name="Psalms">
+      <chapter num="114">
+        <poetry>
+          <verse num="1">
+            <phrase strongs="H3478">
+              <orig ow="2" strong="H3478" translit="Yis.ra.'el" pos="HNpl" gloss="Israel">יִ֭שְׂרָאֵל</orig>
+              <word>When</word>
+              <word>Israel</word>
+            </phrase>
+            <phrase strongs="H3318" morph="TH8800">
+              <orig ow="1" strong="H3318G" translit="be./Tzet" pos="HR/Vqcc" gloss="when/ went out">בְּ/צֵ֣את</orig>
+              <word>went</word>
+              <word>out</word>
+            </phrase>
+            <phrase strongs="H4714">
+              <orig ow="3" strong="H4714G" translit="mi./mitz.Ra.yim" pos="HR/Npl" gloss="from/ Egypt">מִ/מִּצְרָ֑יִם</orig>
+              <word>of</word>
+              <word>Egypt,</word>
+            </phrase>
+            <phrase strongs="H1004">
+              <orig ow="4" strong="H1004M" translit="beit" pos="HNcmsc" gloss="[the] house of">בֵּ֥ית</orig>
+              <word>the</word>
+              <word>house</word>
+            </phrase>
+            <phrase strongs="H3290">
+              <orig ow="5" strong="H3290" translit="ya.'a.Ko" pos="HNpm" gloss="Jacob">יַ֝עֲקֹ֗ב</orig>
+              <word>of</word>
+              <word>Jacob</word>
+            </phrase>
+            <phrase strongs="H5971">
+              <orig ow="6" strong="H5971A" translit="me./'Am" pos="HR/Ncmsa" gloss="from/ a people">מֵ/עַ֥ם</orig>
+              <word>from</word>
+              <word>a</word>
+              <word>people</word>
+            </phrase>
+            <phrase strongs="H3937" morph="TH8802">
+              <orig ow="7" strong="H3937" translit="lo.'Ez" pos="HVqrmsa" gloss="speaking a foreign language">לֹעֵֽז\׃</orig>
+              <word>of</word>
+              <word>strange</word>
+              <word>language;</word>
+            </phrase>
+          </verse>
+          <verse num="2">
+            <phrase strongs="H3063">
+              <orig ow="2" strong="H3063G" translit="ye.hu.Dah" pos="HNpl" gloss="Judah">יְהוּדָ֣ה</orig>
+              <word>Judah</word>
+            </phrase>
+            <phrase strongs="H6944">
+              <orig ow="3" strong="H6944G" translit="le./ka.de.Sh/o" pos="HR/Ncmsc/Sp3ms" gloss="&lt;into&gt;/ sanctuary/ his">לְ/קָדְשׁ֑/וֹ</orig>
+              <word>was</word>
+              <word>his</word>
+              <word>sanctuary,</word>
+            </phrase>
+            <phrase type="supplied">
+              <word supplied="true">and</word>
+            </phrase>
+            <phrase strongs="H3478">
+              <orig ow="4" strong="H3478" translit="Yis.ra.'El" pos="HNpl" gloss="Israel">יִ֝שְׂרָאֵ֗ל</orig>
+              <word>Israel</word>
+            </phrase>
+            <phrase strongs="H4475">
+              <orig ow="5" strong="H4475" translit="mam.she.lo.Ta/v" pos="HNcfpc/Sp3ms" gloss="dominion&lt;s&gt;/ his">מַמְשְׁלוֹתָֽי/ו\׃</orig>
+              <word>his</word>
+              <word>dominion.</word>
+            </phrase>
+            <phrase type="orig-only">
+              <orig ow="1" strong="H1961" translit="ha.ye.Tah" pos="HVqp3fs" gloss="it became">הָיְתָ֣ה</orig>
+            </phrase>
+          </verse>
+          <verse num="3">
+            <phrase strongs="H3220">
+              <orig ow="1" strong="H3220G" translit="hai./Yam" pos="HTd/Ncmsa" gloss="the/ sea">הַ/יָּ֣ם</orig>
+              <word>The</word>
+              <word>sea</word>
+            </phrase>
+            <phrase strongs="H7200" morph="TH8804">
+              <orig ow="2" strong="H7200G" translit="Ra.'ah" pos="HVqp3ms" gloss="it saw">רָ֭אָה</orig>
+              <word>saw</word>
+            </phrase>
+            <phrase type="supplied">
+              <word supplied="true">it,</word>
+            </phrase>
+            <phrase strongs="H5127" morph="TH8799">
+              <orig ow="3" strong="H5127" translit="va/i.ya.Nos" pos="Hc/Vqw3ms" gloss="and/ it fled">וַ/יָּנֹ֑ס</orig>
+              <word>and</word>
+              <word>fled:</word>
+            </phrase>
+            <phrase strongs="H3383">
+              <orig ow="4" strong="H3383" translit="hai./yar.Den" pos="HTd/Npl" gloss="the/ Jordan">הַ֝/יַּרְדֵּ֗ן</orig>
+              <word>Jordan</word>
+            </phrase>
+            <phrase strongs="H5437" morph="TH8735">
+              <orig ow="5" strong="H5437G" translit="yi.So" pos="HVqi3ms" gloss="it turned around">יִסֹּ֥ב</orig>
+              <word>was</word>
+              <word>driven</word>
+            </phrase>
+            <phrase strongs="H268">
+              <orig ow="6" strong="H0268" translit="le./'a.Chor" pos="HR/Ncmsa" gloss="to/ backwards">לְ/אָחֽוֹר\׃</orig>
+              <word>back.</word>
+            </phrase>
+          </verse>
+          <verse num="4">
+            <phrase strongs="H2022">
+              <orig ow="1" strong="H2022G" translit="He./ha.rim" pos="HTd/Ncmpa" gloss="the/ mountains">הֶֽ֭/הָרִים</orig>
+              <word>The</word>
+              <word>mountains</word>
+            </phrase>
+            <phrase strongs="H7540" morph="TH8804">
+              <orig ow="2" strong="H7540" translit="ra.ke.Du" pos="HVqp3cp" gloss="they skipped about">רָקְד֣וּ</orig>
+              <word>skipped</word>
+            </phrase>
+            <phrase strongs="H352">
+              <orig ow="3" strong="H0352A" translit="khe./'ei.Lim" pos="HR/Ncmpa" gloss="like/ rams">כְ/אֵילִ֑ים</orig>
+              <word>like</word>
+              <word>rams,</word>
+            </phrase>
+            <phrase type="supplied">
+              <word supplied="true">and</word>
+            </phrase>
+            <phrase strongs="H1389">
+              <orig ow="4" strong="H1389I" translit="ge.va.'ot" pos="HNcfpa" gloss="hills">גְּ֝בָע֗וֹת</orig>
+              <word>the</word>
+              <word>little</word>
+              <word>hills</word>
+            </phrase>
+            <phrase strongs="H6629" strongs2="H1121">
+              <orig ow="6" strong="H6629G" translit="Tzon" pos="HNcbsa" gloss="sheep">צֹֽאן\׃</orig>
+              <orig ow="5" strong="H1121H" translit="ki/v.nei-" pos="HR/Ncmpc" gloss="like/ young ones of">כִּ/בְנֵי\־</orig>
+              <word>like</word>
+              <word>lambs.</word>
+            </phrase>
+          </verse>
+          <verse num="5">
+            <phrase type="untagged">
+              <word>What</word>
+            </phrase>
+            <phrase type="supplied">
+              <word supplied="true">ailed</word>
+            </phrase>
+            <phrase strongs="H3220">
+              <orig ow="3" strong="H3220G" translit="Hai./yom" pos="HTd/Ncmsa" gloss="O/ sea">הַ֭/יָּם</orig>
+              <word>thee,</word>
+              <word>O</word>
+              <word>thou</word>
+              <word>sea,</word>
+            </phrase>
+            <phrase strongs="H5127" morph="TH8799">
+              <orig ow="5" strong="H5127" translit="ta.Nus" pos="HVqi2ms" gloss="you will flee">תָנ֑וּס</orig>
+              <word>that</word>
+              <word>thou</word>
+              <word>fleddest?</word>
+            </phrase>
+            <phrase strongs="H3383">
+              <orig ow="6" strong="H3383" translit="hai./yar.Den" pos="HTd/Npl" gloss="O/ Jordan">הַ֝/יַּרְדֵּ֗ן</orig>
+              <word>thou</word>
+              <word>Jordan,</word>
+            </phrase>
+            <phrase type="supplied">
+              <word supplied="true">that</word>
+            </phrase>
+            <phrase strongs="H5437" morph="TH8735">
+              <orig ow="7" strong="H5437G" translit="ti.So" pos="HVqi2ms" gloss="you will turn around">תִּסֹּ֥ב</orig>
+              <word>thou</word>
+              <word>wast</word>
+              <word>driven</word>
+            </phrase>
+            <phrase strongs="H268">
+              <orig ow="8" strong="H0268" translit="le./'a.Chor" pos="HR/Ncmsa" gloss="to/ backwards">לְ/אָחֽוֹר\׃</orig>
+              <word>back?</word>
+            </phrase>
+            <phrase type="orig-only">
+              <orig ow="1" strong="H4100" translit="mah-" pos="HPi" gloss="what?">מַה\־</orig>
+            </phrase>
+            <phrase type="orig-only">
+              <orig ow="2" strong="H9031" translit="le./Kha" pos="HR/Sp2ms" gloss="[is] to/ you">לְּ/ךָ֣</orig>
+            </phrase>
+            <phrase type="orig-only">
+              <orig ow="4" strong="H3588A" translit="ki" pos="HTc" gloss="that">כִּ֣י</orig>
+            </phrase>
+          </verse>
+          <verse num="6">
+            <phrase strongs="H2022">
+              <orig ow="1" strong="H2022G" translit="He./ha.rim" pos="HTd/Ncmpa" gloss="O/ mountains">הֶֽ֭/הָרִים</orig>
+              <word>Ye</word>
+              <word>mountains,</word>
+            </phrase>
+            <phrase type="supplied">
+              <word supplied="true">that</word>
+            </phrase>
+            <phrase strongs="H7540" morph="TH8799">
+              <orig ow="2" strong="H7540" translit="tir.ke.Du" pos="HVqi2mp" gloss="you will skip about">תִּרְקְד֣וּ</orig>
+              <word>ye</word>
+              <word>skipped</word>
+            </phrase>
+            <phrase strongs="H352">
+              <orig ow="3" strong="H0352A" translit="khe./'ei.Lim" pos="HR/Ncmpa" gloss="like/ rams">כְ/אֵילִ֑ים</orig>
+              <word>like</word>
+              <word>rams;</word>
+            </phrase>
+            <phrase type="supplied">
+              <word supplied="true">and</word>
+            </phrase>
+            <phrase strongs="H1389">
+              <orig ow="4" strong="H1389I" translit="ge.va.'ot" pos="HNcfpa" gloss="O hills">גְּ֝בָע֗וֹת</orig>
+              <word>ye</word>
+              <word>little</word>
+              <word>hills,</word>
+            </phrase>
+            <phrase strongs="H6629" strongs2="H1121">
+              <orig ow="6" strong="H6629G" translit="Tzon" pos="HNcbsa" gloss="sheep">צֹֽאן\׃</orig>
+              <orig ow="5" strong="H1121H" translit="ki/v.nei-" pos="HR/Ncmpc" gloss="like/ young ones of">כִּ/בְנֵי\־</orig>
+              <word>like</word>
+              <word>lambs?</word>
+            </phrase>
+          </verse>
+          <verse num="7">
+            <phrase strongs="H2342" morph="TH8798">
+              <orig ow="3" strong="H2342A" translit="Chu.li" pos="HVqv2fs" gloss="tremble">ח֣וּלִי</orig>
+              <word>Tremble,</word>
+            </phrase>
+            <phrase strongs="H776">
+              <orig ow="4" strong="H0776G" translit="'A.retz" pos="HNcfsa" gloss="O earth">אָ֑רֶץ</orig>
+              <word>thou</word>
+              <word>earth,</word>
+            </phrase>
+            <phrase strongs="H6440">
+              <orig ow="1" strong="H6440H" translit="mi./li/f.Nei" pos="HR/R/Ncmpc" gloss="from/ to/ before">מִ/לִּ/פְנֵ֣י</orig>
+              <word>at</word>
+              <word>the</word>
+              <word>presence</word>
+            </phrase>
+            <phrase strongs="H113">
+              <orig ow="2" strong="H0113" translit="'A.don" pos="HNcmsa" gloss="[the] lord">אָ֭דוֹן</orig>
+              <word>of</word>
+              <word>the</word>
+              <word>Lord,</word>
+            </phrase>
+            <phrase strongs="H6440">
+              <orig ow="5" strong="H6440H" translit="mi./li/f.Nei" pos="HR/R/Ncmpc" gloss="from/ to/ before">מִ֝/לִּ/פְנֵ֗י</orig>
+              <word>at</word>
+              <word>the</word>
+              <word>presence</word>
+            </phrase>
+            <phrase strongs="H433">
+              <orig ow="6" strong="H0433" translit="'e.Lo.ah" pos="HNcmsc" gloss="[the] God of">אֱל֣וֹהַּ</orig>
+              <word>of</word>
+              <word>the</word>
+              <word>God</word>
+            </phrase>
+            <phrase strongs="H3290">
+              <orig ow="7" strong="H3290" translit="ya.'a.Ko" pos="HNpm" gloss="Jacob">יַעֲקֹֽב\׃</orig>
+              <word>of</word>
+              <word>Jacob;</word>
+            </phrase>
+          </verse>
+          <verse num="8">
+            <phrase strongs="H2015" morph="TH8802">
+              <orig ow="1" strong="H2015" translit="ha./ho.fe.Khi" pos="HTd/Vqrmsc" gloss="who/ turned">הַ/הֹפְכִ֣י</orig>
+              <word>Which</word>
+              <word>turned</word>
+            </phrase>
+            <phrase strongs="H6697">
+              <orig ow="2" strong="H6697H" translit="ha./Tzur" pos="HTd/Ncmsa" gloss="the/ rock">הַ/צּ֣וּר</orig>
+              <word>the</word>
+              <word>rock</word>
+            </phrase>
+            <phrase type="supplied">
+              <word supplied="true">into</word>
+            </phrase>
+            <phrase strongs="H98">
+              <orig ow="3" strong="H0098" translit="'a.gam-" pos="HNcmsc" gloss="a pool of">אֲגַם\־</orig>
+              <word>a</word>
+              <word>standing</word>
+            </phrase>
+            <phrase strongs="H4325">
+              <orig ow="4" strong="H4325G" translit="Ma.yim" pos="HNcmpa" gloss="water">מָ֑יִם</orig>
+              <word>water,</word>
+            </phrase>
+            <phrase strongs="H2496">
+              <orig ow="5" strong="H2496" translit="cha.la.Mish" pos="HNcmsa" gloss="flint">חַ֝לָּמִ֗ישׁ</orig>
+              <word>the</word>
+              <word>flint</word>
+            </phrase>
+            <phrase strongs="H4599">
+              <orig ow="6" strong="H4599" translit="le./ma'.ye.n/ov-" pos="HR/Ncmsc/Sp3ms" gloss="into/ spring of/ his">לְ/מַעְיְנ/וֹ\־</orig>
+              <word>into</word>
+              <word>a</word>
+              <word>fountain</word>
+            </phrase>
+            <phrase strongs="H4325">
+              <orig ow="7" strong="H4325G" translit="Ma.yim" pos="HNcmpa" gloss="water">מָֽיִם\׃</orig>
+              <word>of</word>
+              <word>waters.</word>
+            </phrase>
+          </verse>
+        </poetry>
+      </chapter>
+    </book>
+  </testament>
+</translation>
